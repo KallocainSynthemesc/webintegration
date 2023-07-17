@@ -1,6 +1,6 @@
 ## REST cours
 
-To see the the presentation on github pages go to https://kallocainsynthemesc.github.io/rest/
+To see the the presentation on github pages go to https://kallocainsynthemesc.github.io/webintegration/
 
 ## Project Setup
 
