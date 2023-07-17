@@ -120,7 +120,6 @@ import SlidePresentation116 from "./components/SlidePresentation116.vue";
 <template>
   <body>
     <div class="container">
-      <img src="./assets/illustrations/jersey.svg" class="logo" />
       <div id="presentation-area">
         <section class="presentation">
           <SlidePresentation1></SlidePresentation1>
