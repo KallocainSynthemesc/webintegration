@@ -1,0 +1,194 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="226.00705mm"
+   height="44.296654mm"
+   viewBox="0 0 226.00705 44.296654"
+   version="1.1"
+   id="svg15729"
+   inkscape:version="1.2.2 (732a01da63, 2022-12-09)"
+   sodipodi:docname="imageSize.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview15731"
+     pagecolor="#505050"
+     bordercolor="#eeeeee"
+     borderopacity="1"
+     inkscape:showpageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#505050"
+     inkscape:document-units="mm"
+     showgrid="false"
+     inkscape:zoom="1.4912879"
+     inkscape:cx="594.11733"
+     inkscape:cy="58.338835"
+     inkscape:window-width="1920"
+     inkscape:window-height="1017"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs15726" />
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(32.160198,-123.23329)">
+    <text
+       xml:space="preserve"
+       style="font-size:5.64444px;line-height:1.25;font-family:Bahnschrift;-inkscape-font-specification:Bahnschrift;stroke-width:0.264583"
+       x="-32.353123"
+       y="146.02838"
+       id="text43144"><tspan
+         sodipodi:role="line"
+         id="tspan43142"
+         style="font-size:5.64444px;stroke-width:0.264583"
+         x="-32.353123"
+         y="146.02838">&lt;img src=&quot;</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:5.64444px;line-height:1.25;font-family:Bahnschrift;-inkscape-font-specification:Bahnschrift;stroke-width:0.264583"
+       x="41.536835"
+       y="146.3073"
+       id="text43144-1-9-7"><tspan
+         sodipodi:role="line"
+         id="tspan43142-8-2-5"
+         style="font-size:5.64444px;stroke-width:0.264583"
+         x="41.536835"
+         y="146.3073">&quot;&gt; alt=&quot;</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:5.64444px;line-height:1.25;font-family:Bahnschrift;-inkscape-font-specification:Bahnschrift;stroke-width:0.264583"
+       x="114.37463"
+       y="146.79742"
+       id="text43144-1-9-7-3"><tspan
+         sodipodi:role="line"
+         id="tspan43142-8-2-5-7"
+         style="font-size:5.64444px;stroke-width:0.264583"
+         x="114.37463"
+         y="146.79742">&quot;&gt; width=&quot;</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:5.64444px;line-height:1.25;font-family:Bahnschrift;-inkscape-font-specification:Bahnschrift;stroke-width:0.264583"
+       x="149.2753"
+       y="146.75328"
+       id="text43144-1-9-7-3-1"><tspan
+         sodipodi:role="line"
+         id="tspan43142-8-2-5-7-4"
+         style="font-size:5.64444px;stroke-width:0.264583"
+         x="149.2753"
+         y="146.75328">&quot; height=&quot;</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:5.64444px;line-height:1.25;font-family:Bahnschrift;-inkscape-font-specification:Bahnschrift;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583;stroke-opacity:1"
+       x="-6.0513468"
+       y="145.91322"
+       id="text43144-7-4"><tspan
+         sodipodi:role="line"
+         id="tspan43142-2-1"
+         style="font-size:5.64444px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583;stroke-opacity:1"
+         x="-6.0513468"
+         y="145.91322">images/quokka.jpg</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:5.64444px;line-height:1.25;font-family:Bahnschrift;-inkscape-font-specification:Bahnschrift;white-space:pre;inline-size:59.493;display:inline;fill:#4b9c86;fill-opacity:1;stroke:none;stroke-width:0.264583;stroke-opacity:1"
+       x="90.512985"
+       y="112.85306"
+       id="text43144-7-4-6"
+       transform="translate(43.65814,46.167229)"><tspan
+         x="90.512985"
+         y="112.85306"
+         id="tspan28157">Ceci spécifie la hauteur </tspan><tspan
+         x="90.512985"
+         y="119.9086"
+         id="tspan28159">de l'image en pixels.</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:5.64444px;line-height:1.25;font-family:Bahnschrift;-inkscape-font-specification:Bahnschrift;white-space:pre;inline-size:59.493;display:inline;fill:#db290e;fill-opacity:1;stroke:none;stroke-width:0.264583;stroke-opacity:1"
+       x="90.512985"
+       y="112.85306"
+       id="text43144-7-4-6-8"
+       transform="translate(25.779999,15.345578)"><tspan
+         x="90.512985"
+         y="112.85306"
+         id="tspan28161">Ceci spécifie la largeur </tspan><tspan
+         x="90.512985"
+         y="119.9086"
+         id="tspan28163">de l'image en pixels.</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:5.64444px;line-height:1.25;font-family:Bahnschrift;-inkscape-font-specification:Bahnschrift;fill:#db290e;fill-opacity:1;stroke:none;stroke-width:0.264583;stroke-opacity:1"
+       x="139.69827"
+       y="147.29128"
+       id="text43144-7-4-6-7"><tspan
+         sodipodi:role="line"
+         id="tspan43142-2-1-3-1"
+         style="font-size:5.64444px;fill:#db290e;fill-opacity:1;stroke:none;stroke-width:0.264583;stroke-opacity:1"
+         x="139.69827"
+         y="147.29128">600</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:5.64444px;line-height:1.25;font-family:Bahnschrift;-inkscape-font-specification:Bahnschrift;fill:#4b9c86;fill-opacity:1;stroke:none;stroke-width:0.264583;stroke-opacity:1"
+       x="173.42818"
+       y="146.90765"
+       id="text43144-7-4-6-7-0"><tspan
+         sodipodi:role="line"
+         id="tspan43142-2-1-3-1-3"
+         style="font-size:5.64444px;fill:#4b9c86;fill-opacity:1;stroke:none;stroke-width:0.264583;stroke-opacity:1"
+         x="173.42818"
+         y="146.90765">800</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:5.64444px;line-height:1.25;font-family:Bahnschrift;-inkscape-font-specification:Bahnschrift;white-space:pre;inline-size:81.553;display:inline;stroke-width:0.264583"
+       x="94.732361"
+       y="81.699081"
+       id="text43144-1-9-2-8"
+       transform="translate(89.188648,65.113829)"><tspan
+         x="94.732361"
+         y="81.699081"
+         id="tspan28165">&quot;/&gt;</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:5.64444px;line-height:1.25;font-family:Bahnschrift;-inkscape-font-specification:Bahnschrift;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583;stroke-opacity:1"
+       x="58.547974"
+       y="146.67603"
+       id="text43144-7-7-4"><tspan
+         sodipodi:role="line"
+         style="font-size:5.64444px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583;stroke-opacity:1"
+         x="58.547974"
+         y="146.67603"
+         id="tspan15492">Une famille de quokka</tspan></text>
+    <g
+       id="g49585-9"
+       transform="translate(119.55807,135.9926)">
+      <path
+         style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.499999;stroke-opacity:1;paint-order:markers stroke fill"
+         d="M 19.696345,5.7709037 V 3.0109062 h 9.647157 v 2.7447774"
+         id="path49546-5"
+         sodipodi:nodetypes="cccc" />
+      <path
+         style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.499999;stroke-opacity:1;paint-order:markers stroke fill"
+         d="M 24.519923,1.0036354 V 3.1363607"
+         id="path49552-2" />
+    </g>
+    <g
+       id="g49585-9-2"
+       transform="matrix(1,0,0,-1,153.45056,153.88909)">
+      <path
+         style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.499999;stroke-opacity:1;paint-order:markers stroke fill"
+         d="M 19.696345,5.7709037 V 3.0109062 h 9.647157 v 2.7447774"
+         id="path49546-5-5"
+         sodipodi:nodetypes="cccc" />
+      <path
+         style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.499999;stroke-opacity:1;paint-order:markers stroke fill"
+         d="M 24.519923,1.0036354 V 3.1363607"
+         id="path49552-2-9" />
+    </g>
+  </g>
+</svg>

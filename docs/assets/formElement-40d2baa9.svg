@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="205.50237mm"
+   height="52.672283mm"
+   viewBox="0 0 205.50237 52.672283"
+   version="1.1"
+   id="svg52538"
+   inkscape:version="1.2.2 (732a01da63, 2022-12-09)"
+   sodipodi:docname="formElement.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview52540"
+     pagecolor="#505050"
+     bordercolor="#eeeeee"
+     borderopacity="1"
+     inkscape:showpageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#505050"
+     inkscape:document-units="mm"
+     showgrid="false"
+     inkscape:zoom="0.52724989"
+     inkscape:cx="270.27033"
+     inkscape:cy="51.209115"
+     inkscape:window-width="1920"
+     inkscape:window-height="1017"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs52535" />
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-1.8410078,3.2127415)">
+    <text
+       xml:space="preserve"
+       style="font-size:5.64444px;line-height:1.25;font-family:Bahnschrift;-inkscape-font-specification:Bahnschrift;stroke-width:0.264583"
+       x="1.6480826"
+       y="29.246199"
+       id="text43144"><tspan
+         sodipodi:role="line"
+         id="tspan43142"
+         style="font-size:5.64444px;stroke-width:0.264583"
+         x="1.6480826"
+         y="29.246199">&lt;form action=&quot;</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:5.64444px;line-height:1.25;font-family:Bahnschrift;-inkscape-font-specification:Bahnschrift;stroke-width:0.264583"
+       x="138.41861"
+       y="29.42119"
+       id="text43144-1-9-7"><tspan
+         sodipodi:role="line"
+         id="tspan43142-8-2-5"
+         style="font-size:5.64444px;stroke-width:0.264583"
+         x="138.41861"
+         y="29.42119">&quot; method=&quot;</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:5.64444px;line-height:1.25;font-family:Bahnschrift;-inkscape-font-specification:Bahnschrift;white-space:pre;inline-size:114.293;fill:#db290e;fill-opacity:1;stroke:none;stroke-width:0.264583;stroke-opacity:1"
+       x="-22.811584"
+       y="-48.215858"
+       id="text43144-7-0-5"
+       transform="translate(56.774194,49.677419)"><tspan
+         x="-22.811584"
+         y="-48.215858"
+         id="tspan54052">Chaque élément &lt;form&gt; nécessite un attribut </tspan><tspan
+         x="-22.811584"
+         y="-41.160309"
+         id="tspan54054">action. Sa valeur est l'URL de la page du </tspan><tspan
+         x="-22.811584"
+         y="-34.104759"
+         id="tspan54056">serveur qui recevra les informations</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:5.64444px;line-height:1.25;font-family:Bahnschrift;-inkscape-font-specification:Bahnschrift;fill:#db290e;fill-opacity:1;stroke:none;stroke-width:0.264583;stroke-opacity:1"
+       x="38.125484"
+       y="29.089846"
+       id="text43144-7-4"><tspan
+         sodipodi:role="line"
+         id="tspan43142-2-1"
+         style="font-size:5.64444px;fill:#db290e;fill-opacity:1;stroke:none;stroke-width:0.264583;stroke-opacity:1"
+         x="38.125484"
+         y="29.089846">http://www.example.com/subscribe.php</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:5.64444px;line-height:1.25;font-family:Bahnschrift;-inkscape-font-specification:Bahnschrift;white-space:pre;inline-size:81.553;stroke-width:0.264583"
+       x="94.732361"
+       y="81.699081"
+       id="text43144-1-9-2-8"
+       transform="translate(79.337203,-52.165384)"><tspan
+         x="94.732361"
+         y="81.699081"
+         id="tspan54058">&quot;&gt;</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:5.64444px;line-height:1.25;font-family:Bahnschrift;-inkscape-font-specification:Bahnschrift;fill:#4b9c86;fill-opacity:1;stroke:none;stroke-width:0.264583;stroke-opacity:1"
+       x="166.00079"
+       y="29.539003"
+       id="text43144-7-7-4"><tspan
+         sodipodi:role="line"
+         id="tspan43142-2-15-9"
+         style="font-size:5.64444px;fill:#4b9c86;fill-opacity:1;stroke:none;stroke-width:0.264583;stroke-opacity:1"
+         x="166.00079"
+         y="29.539003">get</tspan></text>
+    <g
+       id="g49585"
+       transform="translate(18.495908,17.470794)">
+      <path
+         style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.499999;stroke-opacity:1;paint-order:markers stroke fill"
+         d="M 19.696345,5.7709037 V 3.0109062 h 99.997965 v 2.7558661"
+         id="path49546"
+         sodipodi:nodetypes="cccc" />
+      <path
+         style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.499999;stroke-opacity:1;paint-order:markers stroke fill"
+         d="M 69.695328,1.0036354 V 3.1363607"
+         id="path49552" />
+    </g>
+    <text
+       xml:space="preserve"
+       style="font-size:5.64444px;line-height:1.25;font-family:Bahnschrift;-inkscape-font-specification:Bahnschrift;white-space:pre;inline-size:124.693;fill:#4b9c86;fill-opacity:1;stroke:none;stroke-width:0.264583;stroke-opacity:1"
+       x="142.33603"
+       y="42.128025"
+       id="text43144-7-0-6"
+       transform="translate(-56.951613,-0.88709677)"><tspan
+         x="142.33603"
+         y="42.128025"
+         id="tspan54060">Les formulaires peuvent être envoyés à l'aide de </tspan><tspan
+         x="142.33603"
+         y="49.183575"
+         id="tspan54062">l'une des deux méthodes suivantes: get ou post.</tspan></text>
+    <g
+       id="g49585-9"
+       transform="matrix(1,0,0,-1,144.9138,36.908701)">
+      <path
+         style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.499999;stroke-opacity:1;paint-order:markers stroke fill"
+         d="M 19.696345,5.7709037 V 3.0109062 h 10.726353 v 2.7447774"
+         id="path49546-5"
+         sodipodi:nodetypes="cccc" />
+      <path
+         style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.499999;stroke-opacity:1;paint-order:markers stroke fill"
+         d="M 25.059521,1.0036354 V 3.1363607"
+         id="path49552-2" />
+    </g>
+  </g>
+</svg>
