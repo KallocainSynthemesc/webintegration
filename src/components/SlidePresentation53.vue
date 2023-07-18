@@ -4,7 +4,7 @@
     <div class="content">
       <p>
         Pouvez-vous reproduire ce site?
-        <a href="/exercices/photos/images.zip" download="images.zip"
+        <a href="/exercices/photos/images/images.zip" download="images.zip"
           ><img
             src="../assets/illustrations/image-logo.svg"
             style="width: 5%"
