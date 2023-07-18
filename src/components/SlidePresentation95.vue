@@ -1,17 +1,31 @@
 <template>
   <div class="slide">
-    <div class="heading">CSS - Règles de style pour les éléments HTML</div>
-    <div class="content grid center">
-      <h1 class="title">Introduction CSS</h1>
-      <h3><span style="font-size: 2rem">↪</span> Ce que fait le CSS</h3>
-      <h3><span style="font-size: 2rem">↪</span> Comment fonctionne le CSS</h3>
-      <h3>
-        <span style="font-size: 2rem">↪</span> Règles, propriétés et valeurs
-      </h3>
+    <div class="heading">Extra Markup - Navigation</div>
+    <div class="content">
       <p>
-        In this section, we will look at how to make your web pages more
-        attractive, controlling the design of them using CSS.
+        L'élément "nav" doit être préféré à l'élément "div" pour les menus et
+        les liens de navigation, car il ajoute une signification sémantique à la
+        ligne de contenu.
       </p>
+      <div
+        class="iFrame-container"
+        data-link="https://codesandbox.io/embed/nav-mw35ly?fontsize=14&hidenavigation=1&theme=dark"
+      >
+        <iframe
+          ref="myIframe"
+          src="favicon.ico"
+          style="
+            width: 100%;
+            height: 97%;
+            border: 0;
+            border-radius: 4px;
+            overflow: hidden;
+          "
+          title="priceless-microservice-jvlqnq"
+          allow="accelerometer; ambient-light-sensor; camera; encrypted-media; geolocation; gyroscope; hid; microphone; midi; payment; usb; vr; xr-spatial-tracking"
+          sandbox="allow-forms allow-modals allow-popups allow-presentation allow-same-origin allow-scripts"
+        ></iframe>
+      </div>
     </div>
   </div>
 </template>

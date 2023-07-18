@@ -2,7 +2,7 @@
   <div class="slide">
     <div class="heading">Text</div>
     <div class="content">
-      <h2>abbreviations et acronyms</h2>
+      <h2>abbreviations</h2>
       <div
         class="iFrame-container"
         data-link="https://codesandbox.io/embed/mutable-darkness-qyw94g?fontsize=14&hidenavigation=1&theme=dark"

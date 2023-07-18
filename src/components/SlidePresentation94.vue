@@ -1,19 +1,22 @@
 <template>
   <div class="slide">
-    <div class="heading">HTML - Exercice</div>
+    <div class="heading">Extra Markup - Navigation</div>
     <div class="content">
-      <p>Exercice : Portfolio/À Propos de Moi</p>
       <p>
-        Objectif : Créez une page HTML de portfolio/à propos de vous en
-        utilisant uniquement des éléments HTML de base.
+        La barre de navigation est l'un des éléments les plus importants de tout
+        site web. Voici comment la barre de navigation a été marquée à
+        l'origine.
       </p>
-      <div class="iFrame-container" data-link="exercices\portfolio\index.html">
+      <div
+        class="iFrame-container"
+        data-link="https://codesandbox.io/embed/old-navigation-xfdzvu?fontsize=14&hidenavigation=1&theme=dark"
+      >
         <iframe
           ref="myIframe"
-          src="exercices\portfolio\index.html"
+          src="favicon.ico"
           style="
             width: 100%;
-            height: 90%;
+            height: 97%;
             border: 0;
             border-radius: 4px;
             overflow: hidden;

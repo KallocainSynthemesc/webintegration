@@ -1,22 +1,21 @@
 <template>
   <div class="slide">
-    <div class="heading">CSS - Utilisation de CSS externes</div>
+    <div class="heading">Extra Markup - Aside</div>
     <div class="content">
       <p>
-        L'élément &lt;link /&gt; peut être utilisé dans un document HTML pour
-        indiquer au navigateur où se trouve le fichier CSS utilisé pour styliser
-        la page.
+        The "aside" HTML element represents a portion of a document whose
+        content is only indirectly related to the document's main content.
       </p>
       <div
         class="iFrame-container"
-        data-link="https://codesandbox.io/embed/link-7r65rk?fontsize=14&hidenavigation=1&theme=dark"
+        data-link="https://codesandbox.io/embed/aside-yx278y?fontsize=14&hidenavigation=1&theme=dark"
       >
         <iframe
           ref="myIframe"
           src="favicon.ico"
           style="
             width: 100%;
-            height: 96%;
+            height: 97%;
             border: 0;
             border-radius: 4px;
             overflow: hidden;

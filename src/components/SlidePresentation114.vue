@@ -1,15 +1,18 @@
 <template>
   <div class="slide">
-    <div class="heading">CSS - Exercice</div>
+    <div class="heading">CSS - priorité</div>
     <div class="content">
-      <p>Exercice : recréer ce site</p>
-      <div class="iFrame-container" data-link="exercices\color\index.html">
+      <p>Ici, nous pouvons voir la priorité à l'œuvre</p>
+      <div
+        class="iFrame-container"
+        data-link="https://codesandbox.io/embed/precedence-44ldx7?fontsize=14&hidenavigation=1&theme=dark"
+      >
         <iframe
           ref="myIframe"
-          src="exercices\color\index.html"
+          src="favicon.ico"
           style="
             width: 100%;
-            height: 95%;
+            height: 96%;
             border: 0;
             border-radius: 4px;
             overflow: hidden;

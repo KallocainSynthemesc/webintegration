@@ -1,18 +1,19 @@
 <template>
   <div class="slide">
-    <div class="heading">CSS - priorité</div>
+    <div class="heading">HTML - Exercice</div>
     <div class="content">
-      <p>Ici, nous pouvons voir la priorité à l'œuvre</p>
-      <div
-        class="iFrame-container"
-        data-link="https://codesandbox.io/embed/precedence-44ldx7?fontsize=14&hidenavigation=1&theme=dark"
-      >
+      <p>Exercice : Portfolio/À Propos de Moi</p>
+      <p>
+        Objectif : Créez une page HTML de portfolio/à propos de vous en
+        utilisant uniquement des éléments HTML de base.
+      </p>
+      <div class="iFrame-container" data-link="exercices\portfolio\index.html">
         <iframe
           ref="myIframe"
-          src="favicon.ico"
+          src="exercices\portfolio\index.html"
           style="
             width: 100%;
-            height: 96%;
+            height: 90%;
             border: 0;
             border-radius: 4px;
             overflow: hidden;

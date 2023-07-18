@@ -1,22 +1,21 @@
 <template>
   <div class="slide">
-    <div class="heading">CSS - Utilisation de css internes</div>
+    <div class="heading">Extra Markup - main</div>
     <div class="content">
       <p>
-        Vous pouvez également inclure des règles CSS dans une page HTML en les
-        plaçant en les plaçant dans un élément &lt;style&gt;, qui se trouve
-        généralement dans l'élément &lt;head&gt; de la page.
+        L'élément HTML &lt;main&gt; représente le contenu dominant du
+        &lt;body&gt; d'un document
       </p>
       <div
         class="iFrame-container"
-        data-link="https://codesandbox.io/embed/icy-rain-qyk24v?fontsize=14&hidenavigation=1&theme=dark"
+        data-link="https://codesandbox.io/embed/main-wcwpzh?fontsize=14&hidenavigation=1&theme=dark"
       >
         <iframe
           ref="myIframe"
           src="favicon.ico"
           style="
             width: 100%;
-            height: 96%;
+            height: 97%;
             border: 0;
             border-radius: 4px;
             overflow: hidden;

@@ -1,22 +1,22 @@
 <template>
   <div class="slide">
-    <div class="heading">Extra Markup - Escape Characters</div>
+    <div class="heading">Extra Markup - headers</div>
     <div class="content">
       <p>
-        Lors de l'utilisation de caractères d'échappement, il est important de
-        vérifier la page dans votre navigateur pour vous assurer que que le
-        symbole correct s'affiche s'affiche.
+        le regroupement du h1 avec le sous-titre qui n'est pas vraiment une
+        section est plus clair pour les robots d'indexation et les lecteurs
+        d'écran
       </p>
       <div
         class="iFrame-container"
-        data-link="https://codesandbox.io/embed/scape-characters-cf4qrn?fontsize=14&hidenavigation=1&theme=dark"
+        data-link="https://codesandbox.io/embed/header-y3d9v2?fontsize=14&hidenavigation=1&theme=dark"
       >
         <iframe
           ref="myIframe"
           src="favicon.ico"
           style="
             width: 100%;
-            height: 95%;
+            height: 97%;
             border: 0;
             border-radius: 4px;
             overflow: hidden;

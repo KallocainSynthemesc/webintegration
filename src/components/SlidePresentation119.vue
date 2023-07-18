@@ -1,18 +1,22 @@
 <template>
   <div class="slide">
-    <div class="heading">Extra Markup - Section</div>
+    <div class="heading">CSS - color</div>
     <div class="content">
-      <p>Le section tag regroupe le bloc générique de contenus liés</p>
+      <p>
+        CSS traite chaque élément HTML comme s'il apparaissait dans une boîte,
+        et la propriété couleur d'arrière-plan définit la couleur de
+        l'arrière-plan de cette boîte.
+      </p>
       <div
         class="iFrame-container"
-        data-link="https://codesandbox.io/embed/section-jfgqct?fontsize=14&hidenavigation=1&theme=dark"
+        data-link="https://codesandbox.io/embed/background-color-n3cpf8?fontsize=14&hidenavigation=1&theme=dark"
       >
         <iframe
           ref="myIframe"
           src="favicon.ico"
           style="
             width: 100%;
-            height: 97%;
+            height: 95%;
             border: 0;
             border-radius: 4px;
             overflow: hidden;

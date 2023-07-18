@@ -1,14 +1,11 @@
 <template>
   <div class="slide">
-    <div class="heading">CSS - Properties</div>
+    <div class="heading">Extra Markup - Article</div>
     <div class="content">
-      <p>
-        Les déclarations CSS sont placées entre accolades et se composent de
-        deux parties : une propriété et une valeur, séparées par deux points.
-      </p>
+      <p>Trois articles au contenu indépendant et autonome</p>
       <div
         class="iFrame-container"
-        data-link="https://codesandbox.io/embed/css-9v2nv9?fontsize=14&hidenavigation=1&theme=dark"
+        data-link="https://codesandbox.io/embed/article-6yg8tj?fontsize=14&hidenavigation=1&theme=dark"
       >
         <iframe
           ref="myIframe"
