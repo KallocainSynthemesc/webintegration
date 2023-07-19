@@ -1,18 +1,21 @@
 <template>
   <div class="slide">
-    <div class="heading">CSS - priorité</div>
+    <div class="heading">CSS - Taille du type</div>
     <div class="content">
-      <p>Ici, nous pouvons voir la priorité à l'œuvre</p>
+      <p>
+        La propriété font-size permet de spécifier une taille pour la police. Il
+        existe plusieurs façons de spécifier la taille d'une police.
+      </p>
       <div
         class="iFrame-container"
-        data-link="https://codesandbox.io/embed/precedence-44ldx7?fontsize=14&hidenavigation=1&theme=dark"
+        data-link="https://codesandbox.io/embed/font-size-7v9n6x?fontsize=14&hidenavigation=1&theme=dark"
       >
         <iframe
           ref="myIframe"
           src="favicon.ico"
           style="
             width: 100%;
-            height: 96%;
+            height: 95%;
             border: 0;
             border-radius: 4px;
             overflow: hidden;

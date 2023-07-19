@@ -1,26 +1,29 @@
 <template>
   <div class="slide">
-    <div class="heading">CSS - Color</div>
-    <div class="content grid center">
-      <div class="flex-container">
-        <div style="width: 65%">
-          <h1 class="title" style="color: #db290eff">Color</h1>
-          <h3>
-            <span style="font-size: 2rem">↪</span> Comment spécifier les
-            couleurs
-          </h3>
-          <h3>
-            <span style="font-size: 2rem">↪</span> Terminologie et contraste des
-            couleurs
-          </h3>
-          <h3><span style="font-size: 2rem">↪</span> Couleur d'arrière-plan</h3>
-        </div>
-        <div style="width: 32%">
-          <img
-            src="../assets/illustrations/palette-painting.svg"
-            style="width: 100%"
-          />
-        </div>
+    <div class="heading">CSS - heritage</div>
+    <div class="content">
+      <p>
+        Vous pouvez forcer un grand nombre de propriétés à hériter des valeurs
+        de leurs éléments en utilisant inherit pour la valeur des propriétés
+      </p>
+      <div
+        class="iFrame-container"
+        data-link="https://codesandbox.io/embed/inheritance-yvr5l2?fontsize=14&hidenavigation=1&theme=dark"
+      >
+        <iframe
+          ref="myIframe"
+          src="favicon.ico"
+          style="
+            width: 100%;
+            height: 96%;
+            border: 0;
+            border-radius: 4px;
+            overflow: hidden;
+          "
+          title="priceless-microservice-jvlqnq"
+          allow="accelerometer; ambient-light-sensor; camera; encrypted-media; geolocation; gyroscope; hid; microphone; midi; payment; usb; vr; xr-spatial-tracking"
+          sandbox="allow-forms allow-modals allow-popups allow-presentation allow-same-origin allow-scripts"
+        ></iframe>
       </div>
     </div>
   </div>

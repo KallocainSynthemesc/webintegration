@@ -3,9 +3,8 @@
     <div class="heading">CSS - Selectors</div>
     <div class="content">
       <p>
-        Il existe de nombreux types de sélecteurs de sélecteurs CSS qui vous
-        permettent de de cibler des règles sur des éléments spécifiques dans un
-        document HTML
+        Il existe de nombreux types de sélecteurs CSS qui vous permettent de de
+        cibler des règles sur des éléments spécifiques dans un document HTML
       </p>
       <div
         class="iFrame-container"

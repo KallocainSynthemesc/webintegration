@@ -24,9 +24,9 @@
      inkscape:deskcolor="#505050"
      inkscape:document-units="mm"
      showgrid="false"
-     inkscape:zoom="1.4912879"
-     inkscape:cx="594.11733"
-     inkscape:cy="58.338835"
+     inkscape:zoom="2.1089996"
+     inkscape:cx="452.82133"
+     inkscape:cy="76.813671"
      inkscape:window-width="1920"
      inkscape:window-height="1017"
      inkscape:window-x="-8"
@@ -61,7 +61,7 @@
          id="tspan43142-8-2-5"
          style="font-size:5.64444px;stroke-width:0.264583"
          x="41.536835"
-         y="146.3073">&quot;&gt; alt=&quot;</tspan></text>
+         y="146.3073">&quot; alt=&quot;</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:5.64444px;line-height:1.25;font-family:Bahnschrift;-inkscape-font-specification:Bahnschrift;stroke-width:0.264583"
@@ -72,7 +72,7 @@
          id="tspan43142-8-2-5-7"
          style="font-size:5.64444px;stroke-width:0.264583"
          x="114.37463"
-         y="146.79742">&quot;&gt; width=&quot;</tspan></text>
+         y="146.79742">&quot; width=&quot;</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:5.64444px;line-height:1.25;font-family:Bahnschrift;-inkscape-font-specification:Bahnschrift;stroke-width:0.264583"
@@ -104,10 +104,10 @@
        transform="translate(43.65814,46.167229)"><tspan
          x="90.512985"
          y="112.85306"
-         id="tspan28157">Ceci spécifie la hauteur </tspan><tspan
+         id="tspan1227">Ceci spécifie la hauteur </tspan><tspan
          x="90.512985"
          y="119.9086"
-         id="tspan28159">de l'image en pixels.</tspan></text>
+         id="tspan1229">de l'image en pixels.</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:5.64444px;line-height:1.25;font-family:Bahnschrift;-inkscape-font-specification:Bahnschrift;white-space:pre;inline-size:59.493;display:inline;fill:#db290e;fill-opacity:1;stroke:none;stroke-width:0.264583;stroke-opacity:1"
@@ -117,10 +117,10 @@
        transform="translate(25.779999,15.345578)"><tspan
          x="90.512985"
          y="112.85306"
-         id="tspan28161">Ceci spécifie la largeur </tspan><tspan
+         id="tspan1231">Ceci spécifie la largeur </tspan><tspan
          x="90.512985"
          y="119.9086"
-         id="tspan28163">de l'image en pixels.</tspan></text>
+         id="tspan1233">de l'image en pixels.</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:5.64444px;line-height:1.25;font-family:Bahnschrift;-inkscape-font-specification:Bahnschrift;fill:#db290e;fill-opacity:1;stroke:none;stroke-width:0.264583;stroke-opacity:1"
@@ -152,7 +152,7 @@
        transform="translate(89.188648,65.113829)"><tspan
          x="94.732361"
          y="81.699081"
-         id="tspan28165">&quot;/&gt;</tspan></text>
+         id="tspan1235">&quot;/&gt;</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:5.64444px;line-height:1.25;font-family:Bahnschrift;-inkscape-font-specification:Bahnschrift;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583;stroke-opacity:1"
