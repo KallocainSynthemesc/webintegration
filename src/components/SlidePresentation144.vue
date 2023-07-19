@@ -1,10 +1,10 @@
 <template>
   <div class="slide">
-    <div class="heading">CSS - underline et strike</div>
+    <div class="heading">CSS - Alignement</div>
     <div class="content">
       <div
         class="iFrame-container"
-        data-link="https://codesandbox.io/embed/text-decoration-ks9j97?fontsize=14&hidenavigation=1&theme=dark"
+        data-link="https://codesandbox.io/embed/alignment8-g7pdq8?fontsize=14&hidenavigation=1&theme=dark"
       >
         <iframe
           ref="myIframe"

@@ -139,6 +139,11 @@ import SlidePresentation137 from "./components/SlidePresentation137.vue";
 import SlidePresentation138 from "./components/SlidePresentation138.vue";
 import SlidePresentation139 from "./components/SlidePresentation139.vue";
 import SlidePresentation140 from "./components/SlidePresentation140.vue";
+import SlidePresentation141 from "./components/SlidePresentation141.vue";
+import SlidePresentation142 from "./components/SlidePresentation142.vue";
+import SlidePresentation143 from "./components/SlidePresentation143.vue";
+import SlidePresentation144 from "./components/SlidePresentation144.vue";
+import SlidePresentation145 from "./components/SlidePresentation145.vue";
 </script>
 
 <template>
@@ -286,6 +291,11 @@ import SlidePresentation140 from "./components/SlidePresentation140.vue";
           <SlidePresentation138></SlidePresentation138>
           <SlidePresentation139></SlidePresentation139>
           <SlidePresentation140></SlidePresentation140>
+          <SlidePresentation141></SlidePresentation141>
+          <SlidePresentation142></SlidePresentation142>
+          <SlidePresentation143></SlidePresentation143>
+          <SlidePresentation144></SlidePresentation144>
+          <SlidePresentation145></SlidePresentation145>
         </section>
 
         <section class="counter">

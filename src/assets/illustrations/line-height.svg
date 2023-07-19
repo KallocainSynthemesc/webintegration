@@ -1,0 +1,175 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="300.78976mm"
+   height="60.66774mm"
+   viewBox="0 0 300.78976 60.66774"
+   version="1.1"
+   id="svg591"
+   inkscape:version="1.2.2 (732a01da63, 2022-12-09)"
+   sodipodi:docname="line-height.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview593"
+     pagecolor="#505050"
+     bordercolor="#eeeeee"
+     borderopacity="1"
+     inkscape:showpageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#505050"
+     inkscape:document-units="mm"
+     showgrid="false"
+     inkscape:zoom="0.52724989"
+     inkscape:cx="348.98063"
+     inkscape:cy="-39.829312"
+     inkscape:window-width="1920"
+     inkscape:window-height="1017"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs588">
+    <inkscape:path-effect
+       effect="bspline"
+       id="path-effect16278"
+       is_visible="true"
+       lpeversion="1"
+       weight="33.333333"
+       steps="2"
+       helper_size="0"
+       apply_no_weight="true"
+       apply_with_weight="true"
+       only_selected="false" />
+    <inkscape:path-effect
+       effect="bspline"
+       id="path-effect16282"
+       is_visible="true"
+       lpeversion="1"
+       weight="33.333333"
+       steps="2"
+       helper_size="0"
+       apply_no_weight="true"
+       apply_with_weight="true"
+       only_selected="false" />
+    <inkscape:path-effect
+       effect="bspline"
+       id="path-effect15548"
+       is_visible="true"
+       lpeversion="1"
+       weight="33.333333"
+       steps="2"
+       helper_size="0"
+       apply_no_weight="true"
+       apply_with_weight="true"
+       only_selected="false" />
+    <inkscape:path-effect
+       effect="bspline"
+       id="path-effect15544"
+       is_visible="true"
+       lpeversion="1"
+       weight="33.333333"
+       steps="2"
+       helper_size="0"
+       apply_no_weight="true"
+       apply_with_weight="true"
+       only_selected="false" />
+    <inkscape:path-effect
+       effect="bspline"
+       id="path-effect15064"
+       is_visible="true"
+       lpeversion="1"
+       weight="33.333333"
+       steps="2"
+       helper_size="0"
+       apply_no_weight="true"
+       apply_with_weight="true"
+       only_selected="false" />
+    <inkscape:path-effect
+       effect="bspline"
+       id="path-effect15544-8"
+       is_visible="true"
+       lpeversion="1"
+       weight="33.333333"
+       steps="2"
+       helper_size="0"
+       apply_no_weight="true"
+       apply_with_weight="true"
+       only_selected="false" />
+  </defs>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(177.0477,-183.45645)">
+    <path
+       style="fill:#db290e;fill-opacity:1;stroke:#a8a9ac;stroke-width:0.7;stroke-opacity:1;paint-order:markers stroke fill"
+       d="m -135.68648,243.25892 c 71.292253,0 142.584238,0 213.875955,0"
+       id="path16276"
+       inkscape:path-effect="#path-effect16278"
+       inkscape:original-d="m -135.68648,243.25892 c 71.292253,2.6e-4 142.584238,2.6e-4 213.875955,0"
+       sodipodi:nodetypes="cc" />
+    <path
+       style="fill:#db290e;fill-opacity:1;stroke:#a8a9ac;stroke-width:0.7;stroke-opacity:1;paint-order:markers stroke fill"
+       d="m -137.03712,193.39648 c 71.953145,0 143.9060165,0 215.858618,0"
+       id="path15542"
+       inkscape:path-effect="#path-effect15544"
+       inkscape:original-d="m -137.03712,193.39648 c 71.953145,2.6e-4 143.9060165,2.6e-4 215.858618,0"
+       sodipodi:nodetypes="cc" />
+    <path
+       style="fill:#db290e;fill-opacity:1;stroke:#a8a9ac;stroke-width:0.7;stroke-opacity:1;paint-order:markers stroke fill"
+       d="m -137.02608,183.80645 c 71.953141,0 143.9060143,0 215.858615,0"
+       id="path15542-1"
+       inkscape:path-effect="#path-effect15544-8"
+       inkscape:original-d="m -137.02608,183.80645 c 71.953141,2.6e-4 143.9060143,2.6e-4 215.858615,0"
+       sodipodi:nodetypes="cc" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:50.8px;line-height:1.25;font-family:monospace;-inkscape-font-specification:monospace;fill:#db290e;fill-opacity:1;stroke-width:0.264583"
+       x="-137.00406"
+       y="232.36644"
+       id="text12519"><tspan
+         sodipodi:role="line"
+         id="tspan12517"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:50.8px;font-family:monospace;-inkscape-font-specification:monospace;fill:#db290e;fill-opacity:1;stroke-width:0.264583"
+         x="-137.00406"
+         y="232.36644">Bonjour</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:6.35px;line-height:1.25;font-family:Bahnschrift;-inkscape-font-specification:Bahnschrift;fill:#4b9c86;fill-opacity:1;stroke-width:0.264583"
+       x="93.098984"
+       y="212.93893"
+       id="text17012"><tspan
+         sodipodi:role="line"
+         id="tspan17010"
+         style="font-size:6.35px;fill:#4b9c86;fill-opacity:1;stroke-width:0.264583"
+         x="93.098984"
+         y="212.93893">line-height</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:6.35px;line-height:1.25;font-family:Bahnschrift;-inkscape-font-specification:Bahnschrift;fill:#4b9c86;fill-opacity:1;stroke-width:0.264583"
+       x="-177.29575"
+       y="217.02745"
+       id="text17012-5"><tspan
+         sodipodi:role="line"
+         id="tspan17010-8"
+         style="font-size:6.35px;fill:#4b9c86;fill-opacity:1;stroke-width:0.264583"
+         x="-177.29575"
+         y="217.02745">font-size</tspan></text>
+    <path
+       style="fill:none;stroke:#4b9c86;stroke-width:0.7;stroke-opacity:1;paint-order:markers stroke fill"
+       d="m -143.08871,193.03226 h -6.3871 v 50.74193 h 6.38709"
+       id="path1161"
+       sodipodi:nodetypes="cccc" />
+    <path
+       style="fill:none;stroke:#4b9c86;stroke-width:0.7;stroke-opacity:1;paint-order:markers stroke fill"
+       d="m 83.69682,183.88702 h 6.3871 v 59.43548 h -6.38709"
+       id="path1161-0"
+       sodipodi:nodetypes="cccc" />
+  </g>
+</svg>

@@ -1,0 +1,52 @@
+body {
+    font-family: Arial, sans-serif;
+    font-size: 16px;
+    line-height: 1.6;
+    color: #333; /* Text color for the entire body */
+  }
+  
+  header {
+    background-color: #f2f2f2;
+  }
+  
+  header h1 {
+    font-size: 32px;
+    font-weight: bold;
+    font-style: italic;
+    font-family: "Palatino Linotype", "Book Antiqua", serif;
+    text-transform: uppercase;
+    text-align: center;
+    text-decoration: underline;
+  }
+  
+  .author {
+    font-style: italic;
+    font-size: 14px;
+    text-align: right;
+    font-weight: bold;
+  }
+  
+  section h2 {
+    font-size: 24px;
+    font-family: "Courier New", Courier, monospace;
+    color: #0066cc;
+  }
+  
+  article p {
+    font-size: 18px;
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+    line-height: 1.8;
+  }
+  
+  .text-align-left {
+    text-align: left;
+  }
+  
+  .text-align-center {
+    font-family: "Palatino Linotype", "Book Antiqua", serif;
+    text-align: center;
+  }
+
+  q{
+    font-family: "Palatino Linotype", "Book Antiqua", serif;
+  }
