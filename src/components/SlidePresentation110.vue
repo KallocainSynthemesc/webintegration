@@ -4,8 +4,8 @@
     <div class="content">
       <p>
         Vous pouvez également inclure des règles CSS dans une page HTML en les
-        plaçant en les plaçant dans un élément &lt;style&gt;, qui se trouve
-        généralement dans l'élément &lt;head&gt; de la page.
+        plaçant dans un élément &lt;style&gt;, qui se trouve généralement dans
+        l'élément &lt;head&gt; de la page.
       </p>
       <div
         class="iFrame-container"
