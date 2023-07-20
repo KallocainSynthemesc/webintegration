@@ -1,10 +1,11 @@
 <template>
   <div class="slide">
-    <div class="heading">CSS - Box - border</div>
+    <div class="heading">CSS - Box - margin</div>
     <div class="content">
+      <p>La propriété margin contrôle l'espace entre les cases.</p>
       <div
         class="iFrame-container"
-        data-link="https://codesandbox.io/embed/border-width-et-style-ljpk8g?fontsize=14&hidenavigation=1&theme=dark"
+        data-link="https://codesandbox.io/embed/margin-9wgww2?fontsize=14&hidenavigation=1&theme=dark"
       >
         <iframe
           ref="myIframe"

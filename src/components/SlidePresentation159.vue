@@ -2,9 +2,13 @@
   <div class="slide">
     <div class="heading">CSS - Box - border</div>
     <div class="content">
+      <p>
+        Vous pouvez spécifier la couleur d'une bordure en utilisant des valeurs
+        RVB, des codes hexadécimaux ou des noms de couleurs CSS.
+      </p>
       <div
         class="iFrame-container"
-        data-link="https://codesandbox.io/embed/border-width-et-style-ljpk8g?fontsize=14&hidenavigation=1&theme=dark"
+        data-link="https://codesandbox.io/embed/border-color-52tk22?fontsize=14&hidenavigation=1&theme=dark"
       >
         <iframe
           ref="myIframe"
