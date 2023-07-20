@@ -144,6 +144,16 @@ import SlidePresentation142 from "./components/SlidePresentation142.vue";
 import SlidePresentation143 from "./components/SlidePresentation143.vue";
 import SlidePresentation144 from "./components/SlidePresentation144.vue";
 import SlidePresentation145 from "./components/SlidePresentation145.vue";
+import SlidePresentation146 from "./components/SlidePresentation146.vue";
+import SlidePresentation147 from "./components/SlidePresentation147.vue";
+import SlidePresentation148 from "./components/SlidePresentation148.vue";
+import SlidePresentation149 from "./components/SlidePresentation149.vue";
+import SlidePresentation150 from "./components/SlidePresentation150.vue";
+import SlidePresentation151 from "./components/SlidePresentation151.vue";
+import SlidePresentation152 from "./components/SlidePresentation152.vue";
+import SlidePresentation153 from "./components/SlidePresentation153.vue";
+import SlidePresentation154 from "./components/SlidePresentation154.vue";
+import SlidePresentation155 from "./components/SlidePresentation155.vue";
 </script>
 
 <template>
@@ -296,6 +306,16 @@ import SlidePresentation145 from "./components/SlidePresentation145.vue";
           <SlidePresentation143></SlidePresentation143>
           <SlidePresentation144></SlidePresentation144>
           <SlidePresentation145></SlidePresentation145>
+          <SlidePresentation146></SlidePresentation146>
+          <SlidePresentation147></SlidePresentation147>
+          <SlidePresentation148></SlidePresentation148>
+          <SlidePresentation149></SlidePresentation149>
+          <SlidePresentation150></SlidePresentation150>
+          <SlidePresentation151></SlidePresentation151>
+          <SlidePresentation152></SlidePresentation152>
+          <SlidePresentation153></SlidePresentation153>
+          <SlidePresentation154></SlidePresentation154>
+          <SlidePresentation155></SlidePresentation155>
         </section>
 
         <section class="counter">
@@ -304,11 +324,11 @@ import SlidePresentation145 from "./components/SlidePresentation145.vue";
             id="index"
             name="index"
             min="1"
-            max="116"
+            max="147"
             value="1"
             style="width: 40%"
           />
-          of 116
+          of 147
         </section>
 
         <section class="navigation">

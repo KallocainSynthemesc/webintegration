@@ -31,8 +31,8 @@
             <td class="tg-0lax">Sélecteur de classe</td>
             <td class="tg-0lax">
               Correspond à un élément dont l'attribut a une valeur qui
-              correspond à celle correspond à celle spécifiée après le symbole
-              du point (ou du point final)
+              correspond à celle spécifiée après le symbole du point (ou du
+              point final)
             </td>
             <td class="tg-0lax">.note {}<br />p.note {}<br /></td>
           </tr>
@@ -40,8 +40,7 @@
             <td class="tg-0lax">Sélecteur d'ID</td>
             <td class="tg-0lax">
               Correspond à un élément dont l'attribut a une valeur qui
-              correspond à celle correspond à celle spécifiée après le dièse ou
-              le symbole du dièse
+              correspond à celle spécifiée après le dièse
             </td>
             <td class="tg-0lax">#introduction {}</td>
           </tr>
@@ -56,8 +55,7 @@
             <td class="tg-0lax">Sélecteur de descendants</td>
             <td class="tg-0lax">
               Correspond à un élément qui est un descendant d'un autre élément
-              spécifié spécifié (et pas seulement un enfant direct de cet
-              élément)
+              spécifié (et pas seulement un enfant direct de cet élément)
             </td>
             <td class="tg-0lax">p a {}</td>
           </tr>

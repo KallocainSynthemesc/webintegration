@@ -1,14 +1,10 @@
 <template>
   <div class="slide">
-    <div class="heading">CSS - Drop Shadow</div>
+    <div class="heading">CSS - Limitation de la largeur</div>
     <div class="content">
-      <p>
-        text-shadow est utilisé pour créer une ombre portée, qui est une version
-        sombre du mot juste derrière lui et légèrement décalée.
-      </p>
       <div
         class="iFrame-container"
-        data-link="https://codesandbox.io/embed/focused-neumann-h3ckpw?fontsize=14&hidenavigation=1&theme=dark"
+        data-link="https://codesandbox.io/embed/funny-pateu-ztg39j?fontsize=14&hidenavigation=1&theme=dark"
       >
         <iframe
           ref="myIframe"

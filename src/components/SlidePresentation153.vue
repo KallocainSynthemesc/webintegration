@@ -1,14 +1,15 @@
 <template>
   <div class="slide">
-    <div class="heading">CSS - Drop Shadow</div>
+    <div class="heading">CSS - dimensions de la boîte</div>
     <div class="content">
       <p>
-        text-shadow est utilisé pour créer une ombre portée, qui est une version
-        sombre du mot juste derrière lui et légèrement décalée.
+        Par défaut, la taille d'une boîte est juste suffisante pour contenir son
+        contenu. Pour définir vos propres dimensions, vous pouvez utiliser les
+        propriétés height et width.
       </p>
       <div
         class="iFrame-container"
-        data-link="https://codesandbox.io/embed/focused-neumann-h3ckpw?fontsize=14&hidenavigation=1&theme=dark"
+        data-link="https://codesandbox.io/embed/vigilant-babycat-ljzxjc?fontsize=14&hidenavigation=1&theme=dark"
       >
         <iframe
           ref="myIframe"

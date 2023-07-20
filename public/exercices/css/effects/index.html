@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="UTF-8" />
+  <link href="css/styles.css" type="text/css" rel="stylesheet" />
+  <title>Contact Form with Pseudo-elements and Attribute Selectors</title>
+</head>
+<body>
+  <h1>Contact</h1>
+  <form>
+    <label for="email">Email:</label>
+    <input type="email" id="email" name="email" required>
+    <fieldset>
+        <legend>Sexe:</legend>
+        <div>
+            <input type="radio" id="male" name="sex" value="male"
+            checked>
+            <label for="male">Male</label>
+        </div>
+        
+        <div>
+            <input type="radio" id="female" name="sex" value="female">
+            <label for="female">Female</label>
+        </div>
+    </fieldset>
+    <input type="submit" value="Submit">
+  </form>
+</body>
+</html>
