@@ -1,6 +1,6 @@
 <template>
   <div class="slide">
-    <div class="heading">CSS - dimensions de la boîte</div>
+    <div class="heading">CSS - Box - dimensions de la boîte</div>
     <div class="content">
       <p>
         Par défaut, la taille d'une boîte est juste suffisante pour contenir son

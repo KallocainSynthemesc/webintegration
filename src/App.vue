@@ -154,6 +154,9 @@ import SlidePresentation152 from "./components/SlidePresentation152.vue";
 import SlidePresentation153 from "./components/SlidePresentation153.vue";
 import SlidePresentation154 from "./components/SlidePresentation154.vue";
 import SlidePresentation155 from "./components/SlidePresentation155.vue";
+import SlidePresentation156 from "./components/SlidePresentation156.vue";
+import SlidePresentation157 from "./components/SlidePresentation157.vue";
+import SlidePresentation158 from "./components/SlidePresentation158.vue";
 </script>
 
 <template>
@@ -316,6 +319,9 @@ import SlidePresentation155 from "./components/SlidePresentation155.vue";
           <SlidePresentation153></SlidePresentation153>
           <SlidePresentation154></SlidePresentation154>
           <SlidePresentation155></SlidePresentation155>
+          <SlidePresentation156></SlidePresentation156>
+          <SlidePresentation157></SlidePresentation157>
+          <SlidePresentation158></SlidePresentation158>
         </section>
 
         <section class="counter">

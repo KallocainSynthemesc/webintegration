@@ -1,6 +1,6 @@
 <template>
   <div class="slide">
-    <div class="heading">CSS - Limitation de la largeur</div>
+    <div class="heading">CSS - Box - Limitation de la hauteur</div>
     <div class="content">
       <div
         class="iFrame-container"

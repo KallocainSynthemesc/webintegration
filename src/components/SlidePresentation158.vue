@@ -1,10 +1,10 @@
 <template>
   <div class="slide">
-    <div class="heading">CSS - Box - Limitation de la largeur</div>
+    <div class="heading">CSS - Box - border</div>
     <div class="content">
       <div
         class="iFrame-container"
-        data-link="https://codesandbox.io/embed/funny-pateu-ztg39j?fontsize=14&hidenavigation=1&theme=dark"
+        data-link="https://codesandbox.io/embed/border-width-et-style-ljpk8g?fontsize=14&hidenavigation=1&theme=dark"
       >
         <iframe
           ref="myIframe"
@@ -25,4 +25,9 @@
   </div>
 </template>
 
-<style scoped></style>
+<style scoped>
+.flex-container div .sub-title {
+  color: #66cdaa;
+  font-size: 7rem;
+}
+</style>
