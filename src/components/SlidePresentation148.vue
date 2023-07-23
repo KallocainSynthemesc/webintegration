@@ -1,15 +1,14 @@
 <template>
   <div class="slide">
-    <div class="heading">CSS - pseudo-class</div>
+    <div class="heading">CSS - Drop Shadow</div>
     <div class="content">
       <p>
-        Les navigateurs ont tendance à afficher les liens en bleu avec un trait
-        de soulignement par défaut, et ils changent la couleur des liens qui ont
-        été visités
+        text-shadow est utilisé pour créer une ombre portée, qui est une version
+        sombre du mot juste derrière lui et légèrement décalée.
       </p>
       <div
         class="iFrame-container"
-        data-link="https://codesandbox.io/embed/styling-links-5wq3fx?fontsize=14&hidenavigation=1&theme=dark"
+        data-link="https://codesandbox.io/embed/focused-neumann-h3ckpw?fontsize=14&hidenavigation=1&theme=dark"
       >
         <iframe
           ref="myIframe"

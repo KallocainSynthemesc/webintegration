@@ -3,12 +3,12 @@
     <div class="heading">CSS - Selectors</div>
     <div class="content">
       <p>
-        En HTML, nous pouvons définir des attributs tels que id et class, ce qui
-        facilite l'écriture des requêtes CSS.
+        Il existe de nombreux types de sélecteurs CSS qui vous permettent de de
+        cibler des règles sur des éléments spécifiques dans un document HTML
       </p>
       <div
         class="iFrame-container"
-        data-link="https://codesandbox.io/embed/id-and-class-xg25pq?fontsize=14&hidenavigation=1&theme=dark"
+        data-link="https://codesandbox.io/embed/query-selector-forked-czqncl?fontsize=14&hidenavigation=1&theme=dark"
       >
         <iframe
           ref="myIframe"

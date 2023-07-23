@@ -1,14 +1,14 @@
 <template>
   <div class="slide">
-    <div class="heading">CSS - Drop Shadow</div>
+    <div class="heading">CSS - line-height, word-spacing et letter spacing</div>
     <div class="content">
       <p>
-        text-shadow est utilisé pour créer une ombre portée, qui est une version
-        sombre du mot juste derrière lui et légèrement décalée.
+        Vous pouvez contrôler l'espace entre chaque lettre avec la propriété
+        letter-spacing et l'espace entre les lignes avec line-height.
       </p>
       <div
         class="iFrame-container"
-        data-link="https://codesandbox.io/embed/focused-neumann-h3ckpw?fontsize=14&hidenavigation=1&theme=dark"
+        data-link="https://codesandbox.io/embed/line-letter-word-manip-mcmgnz?fontsize=14&hidenavigation=1&theme=dark"
       >
         <iframe
           ref="myIframe"

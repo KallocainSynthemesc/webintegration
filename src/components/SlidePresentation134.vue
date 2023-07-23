@@ -1,60 +1,44 @@
 <template>
   <div class="slide">
-    <div class="heading">CSS - Unités de longueur absolue</div>
+    <div class="heading">CSS - Type scales</div>
     <div class="content">
-      <p>
-        La liste qui suit contient uniquement des unités de longueur absolue.
-        Ces quantités ne sont pas relatives à quoi que ce soit d'autre et leur
-        taille sera considérée comme constante
-      </p>
-      <table>
-        <thead>
-          <tr>
-            <th>Unité</th>
-            <th>Nom</th>
-            <th>Équivalent à</th>
-          </tr>
-        </thead>
-        <tbody>
-          <tr>
-            <td><code>cm</code></td>
-            <td>Centimètres</td>
-            <td>1cm = 38px = 25/64in</td>
-          </tr>
-          <tr>
-            <td><code>mm</code></td>
-            <td>Millimètres</td>
-            <td>1mm = 1/10th of 1cm</td>
-          </tr>
-          <tr>
-            <td><code>Q</code></td>
-            <td>Quarts de millimètre</td>
-            <td>1Q = 1/40th of 1cm</td>
-          </tr>
-          <tr>
-            <td><code>in</code></td>
-            <td>Pouces (<i lang="en">inches</i>)</td>
-            <td>1in = 2.54cm = 96px</td>
-          </tr>
-          <tr>
-            <td><code>pc</code></td>
-            <td>Picas</td>
-            <td>1pc = 1/6e de 1in</td>
-          </tr>
-          <tr>
-            <td><code>pt</code></td>
-            <td>Points</td>
-            <td>1pt = 1/72e de 1in</td>
-          </tr>
-          <tr>
-            <td><code>px</code></td>
-            <td>Pixels</td>
-            <td>1px = 1/96th de 1in</td>
-          </tr>
-        </tbody>
-      </table>
+      <div class="flex-container">
+        <div style="width: 30%">
+          <p>
+            Vous avez peut-être remarqué que des programmes comme Word et GIMP
+            offrent les mêmes tailles de texte.
+          </p>
+          <br />
+          <p>
+            Il est considéré que cette échelle pour les caractères est agréable
+            à l'œil et qu'elle a donc peu changé au cours des 400 dernières
+            années
+          </p>
+        </div>
+        <div style="width: 65%; margin-right: 2%; margin-left: 2%">
+          <span style="font-size: 8pt">8pt </span>
+          <span style="font-size: 9pt">9pt </span>
+          <span style="font-size: 10pt">10pt </span>
+          <span style="font-size: 11pt">11pt </span>
+          <span style="font-size: 12pt">12pt </span>
+          <span style="font-size: 14pt">14pt </span>
+          <span style="font-size: 18t">18pt </span>
+          <span style="font-size: 24pt">24pt </span>
+          <span style="font-size: 36pt">36pt </span>
+          <span style="font-size: 48pt">48pt </span>
+          <br />
+          <span style="font-size: 60pt">60pt </span>
+          <span style="font-size: 72pt">72pt </span>
+          <br />
+          <span style="font-size: 144pt">144pt </span>
+        </div>
+      </div>
     </div>
   </div>
 </template>
 
-<style scoped></style>
+<style scoped>
+.flex-container div span {
+  color: #db290eff;
+}
+</style>

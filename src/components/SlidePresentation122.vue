@@ -1,71 +1,54 @@
 <template>
   <div class="slide">
-    <div class="heading">CSS - priorité</div>
+    <div class="heading">CSS - Comprendre la couleur</div>
     <div class="content">
-      <div class="flex-container">
-        <div style="width: 26%">
-          <h2 class="title" style="color: #db290eff">Valeurs RGB</h2>
+      <p>
+        Toutes les couleurs d'un écran d'ordinateur sont créées en mélangeant
+        des montages de rouge, de vert et de bleu.
+      </p>
+      <br />
+      <div class="flex-container" :style="{ backgroundColor: selectedColor }">
+        <div style="width: 50%">
           <p>
-            Les valeurs pour le rouge, le vert et le bleu sont exprimées sous
-            forme de nombres entre 0 et 255
+            Les éléments &lt;input&gt; de type "color" permettent de
+            sélectionner une couleur via une interface ou en saisissant le code
+            hexadécimal de la couleur au format "#rrggbb".
           </p>
           <div
             style="
-              width: 100%;
-              background-color: rgb(102, 205, 170);
-              height: 35px;
+              background: #ffffff;
+              overflow: auto;
+              width: auto;
+              border: solid gray;
+              border-width: 0.1em 0.1em 0.1em 0.8em;
+              padding: 0.2em 0.6em;
             "
           >
-            <p style="color: white; margin-left: 5%">rgb(102,205,170)</p>
+            <pre style="margin: 0; line-height: 125%">
+            <span style="color: #007700">&lt;input</span> <span style="color: #0000CC">type=</span><span style="background-color: #fff0f0">&quot;color&quot;</span> <span style="color: #0000CC">value=</span><span style="background-color: #fff0f0">&quot;#ff0000&quot;</span> <span style="color: #007700">/&gt;</span></pre>
           </div>
-          <br />
-          <p>
-            Cette couleur est composée des valeurs suivantes : <br />102
-            rouge<br />
-            205 vert<br />
-            170 bleu
-          </p>
         </div>
-        <div style="width: 36%; margin-right: 2%; margin-left: 2%">
-          <h2 class="title" style="color: #db290eff">Hex Codes</h2>
-          <p>
-            Les valeurs hexagonales représentent les valeurs pour le rouge, le
-            vert et le bleu en code hexadécimal.
-          </p>
-          <div style="width: 100%; background-color: #66cdaa; height: 35px">
-            <p style="color: white; margin-left: 5%">#66cdaa</p>
+        <div style="width: 15%">
+          <p>Choisir la couleur</p>
+          <div>
+            <input type="color" id="head" name="head" v-model="selectedColor" />
+            <label for="head"> Color</label>
           </div>
-          <br />
-          <p>
-            La valeur du rouge, 102, est exprimée par 66 en code hexadécimal
-            hexadécimal. La valeur 205 du vert est exprimée en cd et la 170 du
-            bleu équivaut à du bleu équivaut à aa.
-          </p>
         </div>
-        <div style="width: 31%">
-          <h2 class="title" style="color: #db290eff">Noms de couleurs</h2>
-          <p>
-            Les couleurs sont représentées par des noms prédéfinis. Cependant,
-            elles sont très limitées en nombre
-          </p>
-          <div
-            style="
-              width: 100%;
-              background-color: MediumAquaMarine;
-              height: 35px;
-            "
-          >
-            <p style="color: white; margin-left: 5%">MediumAquaMarine</p>
-          </div>
-          <br />
-          <p>
-            Les navigateurs prennent en charge 147 noms de couleurs. Il s'agit
-            d'une palette de couleurs limitée
-          </p>
+        <div style="width: 20%">
+          <img src="../assets/illustrations/RGB.svg" style="width: 100%" />
         </div>
       </div>
     </div>
   </div>
 </template>
-
+<script>
+export default {
+  data() {
+    return {
+      selectedColor: "#ffffff",
+    };
+  },
+};
+</script>
 <style scoped></style>

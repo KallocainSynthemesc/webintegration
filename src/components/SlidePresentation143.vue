@@ -1,14 +1,10 @@
 <template>
   <div class="slide">
-    <div class="heading">CSS - line-height, word-spacing et letter spacing</div>
+    <div class="heading">CSS - underline et strike</div>
     <div class="content">
-      <p>
-        Vous pouvez contrôler l'espace entre chaque lettre avec la propriété
-        letter-spacing et l'espace entre les lignes avec line-height.
-      </p>
       <div
         class="iFrame-container"
-        data-link="https://codesandbox.io/embed/line-letter-word-manip-mcmgnz?fontsize=14&hidenavigation=1&theme=dark"
+        data-link="https://codesandbox.io/embed/text-decoration-ks9j97?fontsize=14&hidenavigation=1&theme=dark"
       >
         <iframe
           ref="myIframe"

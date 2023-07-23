@@ -1,36 +1,24 @@
 <template>
   <div class="slide">
-    <div class="heading">CSS - exercice</div>
+    <div class="heading">CSS - Alignement</div>
     <div class="content">
-      <p>Exercice : recréer ce site (un peu près).</p>
       <div
-        style="
-          background: #ffffff;
-          overflow: auto;
-          width: auto;
-          border: solid gray;
-          border-width: 0.1em 0.1em 0.1em 0.8em;
-          padding: 0.2em 0.6em;
-        "
+        class="iFrame-container"
+        data-link="https://codesandbox.io/embed/alignment8-g7pdq8?fontsize=14&hidenavigation=1&theme=dark"
       >
-        <pre style="margin: 0; line-height: 125%">
-<span style="color: #007700">font-family</span><span style="color: #333333">:</span> <span style="background-color: #fff0f0">&quot;Palatino Linotype&quot;</span><span style="color: #333333">,</span> <span style="background-color: #fff0f0">&quot;Book Antiqua&quot;</span><span style="color: #333333">,</span> <span style="color: #007700">serif</span><span style="color: #333333">;</span>
-<span style="color: #007700">font-family</span><span style="color: #333333">:</span> <span style="background-color: #fff0f0">&quot;Helvetica Neue&quot;</span><span style="color: #333333">,</span> <span style="color: #007700">Helvetica</span><span style="color: #333333">,</span> <span style="color: #007700">Arial</span><span style="color: #333333">,</span> <span style="color: #007700">sans-serif</span><span style="color: #333333">;</span>
-<span style="color: #007700">font-family</span><span style="color: #333333">:</span> <span style="color: #007700">Arial</span><span style="color: #333333">,</span> <span style="color: #007700">sans-serif</span><span style="color: #333333">;</span>
-</pre>
-      </div>
-
-      <div class="iFrame-container" data-link="exercices\color\index.html">
         <iframe
           ref="myIframe"
-          src="exercices\css\text\index.html"
+          src="favicon.ico"
           style="
             width: 100%;
-            height: 85%;
+            height: 100%;
             border: 0;
             border-radius: 4px;
             overflow: hidden;
           "
+          title="priceless-microservice-jvlqnq"
+          allow="accelerometer; ambient-light-sensor; camera; encrypted-media; geolocation; gyroscope; hid; microphone; midi; payment; usb; vr; xr-spatial-tracking"
+          sandbox="allow-forms allow-modals allow-popups allow-presentation allow-same-origin allow-scripts"
         ></iframe>
       </div>
     </div>

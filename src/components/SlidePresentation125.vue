@@ -1,12 +1,19 @@
 <template>
   <div class="slide">
-    <div class="heading">CSS - Exercice</div>
+    <div class="heading">CSS - color</div>
     <div class="content">
-      <p>Exercice : recréer ce site (un peu près)</p>
-      <div class="iFrame-container" data-link="exercices\color\index.html">
+      <p>
+        la propriété opacity permet de spécifier l'opacité d'un élément et de
+        tous ses éléments enfants. La valeur est un nombre compris entre 0,0 et
+        1,0.
+      </p>
+      <div
+        class="iFrame-container"
+        data-link="https://codesandbox.io/embed/opacity-lngx2k?fontsize=14&hidenavigation=1&theme=dark"
+      >
         <iframe
           ref="myIframe"
-          src="exercices\color\index.html"
+          src="favicon.ico"
           style="
             width: 100%;
             height: 95%;

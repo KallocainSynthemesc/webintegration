@@ -1,83 +1,55 @@
 <template>
   <div class="slide">
-    <div class="heading">CSS - Unités de longueur relative</div>
+    <div class="heading">CSS - Unités de longueur absolue</div>
     <div class="content">
       <p>
-        Relative length units are used to express quantities relative to
-        something else, such as the font size of the parent element or the size
-        of the display area.
+        La liste qui suit contient uniquement des unités de longueur absolue.
+        Ces quantités ne sont pas relatives à quoi que ce soit d'autre et leur
+        taille sera considérée comme constante
       </p>
       <table>
         <thead>
           <tr>
             <th>Unité</th>
-            <th>Relative à</th>
+            <th>Nom</th>
+            <th>Équivalent à</th>
           </tr>
         </thead>
         <tbody>
           <tr>
-            <td><code>em</code></td>
-            <td>
-              Pour les propriétés typographiques comme
-              <a href="/fr/docs/Web/CSS/font-size"><code>font-size</code></a
-              >, relative à la taille de la police de l'élément parent. Pour les
-              autres propriétés comme
-              <a href="/fr/docs/Web/CSS/width"><code>width</code></a
-              >, relative à la taille de la police de l'élément;
-            </td>
+            <td><code>cm</code></td>
+            <td>Centimètres</td>
+            <td>1cm = 38px = 25/64in</td>
           </tr>
           <tr>
-            <td><code>ex</code></td>
-            <td>La hauteur d'x de la police de l'élément.</td>
+            <td><code>mm</code></td>
+            <td>Millimètres</td>
+            <td>1mm = 1/10th of 1cm</td>
           </tr>
           <tr>
-            <td><code>ch</code></td>
-            <td>
-              La
-              <a
-                href="https://fr.wikipedia.org/wiki/Chasse_(typographie)"
-                class="external"
-                target="_blank"
-                >chasse/avance</a
-              >
-              du glyphe « 0 » pour la police de l'élément.
-            </td>
+            <td><code>Q</code></td>
+            <td>Quarts de millimètre</td>
+            <td>1Q = 1/40th of 1cm</td>
           </tr>
           <tr>
-            <td><code>rem</code></td>
-            <td>La taille de la police pour l'élément racine.</td>
+            <td><code>in</code></td>
+            <td>Pouces (<i lang="en">inches</i>)</td>
+            <td>1in = 2.54cm = 96px</td>
           </tr>
           <tr>
-            <td><code>lh</code></td>
-            <td>La hauteur de ligne pour l'élément.</td>
+            <td><code>pc</code></td>
+            <td>Picas</td>
+            <td>1pc = 1/6e de 1in</td>
           </tr>
           <tr>
-            <td><code>vw</code></td>
-            <td>
-              1% de la largeur du <i lang="en">viewport</i> (la zone
-              d'affichage).
-            </td>
+            <td><code>pt</code></td>
+            <td>Points</td>
+            <td>1pt = 1/72e de 1in</td>
           </tr>
           <tr>
-            <td><code>vh</code></td>
-            <td>
-              1% de la hauteur du <i lang="en">viewport</i> (la zone
-              d'affichage).
-            </td>
-          </tr>
-          <tr>
-            <td><code>vmin</code></td>
-            <td>
-              1% de la plus petite dimension du <i lang="en">viewport</i> (la
-              zone d'affichage).
-            </td>
-          </tr>
-          <tr>
-            <td><code>vmax</code></td>
-            <td>
-              1% de la plus grande dimension du <i lang="en">viewport</i> (la
-              zone d'affichage).
-            </td>
+            <td><code>px</code></td>
+            <td>Pixels</td>
+            <td>1px = 1/96th de 1in</td>
           </tr>
         </tbody>
       </table>

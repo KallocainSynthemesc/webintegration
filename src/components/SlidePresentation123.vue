@@ -1,42 +1,66 @@
 <template>
   <div class="slide">
-    <div class="heading">CSS - Contraste</div>
+    <div class="heading">CSS - priorité</div>
     <div class="content">
-      <p>
-        Lors du choix des couleurs d'avant-plan et d'arrière-plan, il est
-        important de veiller à ce que le contraste soit suffisant pour que le
-        texte soit lisible
-      </p>
-      <br />
       <div class="flex-container">
         <div style="width: 26%">
-          <div style="width: 100%; background-color: lightgray; height: 70px">
-            <h2 style="color: white; margin-left: 5%">CONTRASTE FAIBLE</h2>
+          <h2 class="title" style="color: #db290eff">Valeurs RGB</h2>
+          <p>
+            Les valeurs pour le rouge, le vert et le bleu sont exprimées sous
+            forme de nombres entre 0 et 255
+          </p>
+          <div
+            style="
+              width: 100%;
+              background-color: rgb(102, 205, 170);
+              height: 35px;
+            "
+          >
+            <p style="color: white; margin-left: 5%">rgb(102,205,170)</p>
           </div>
           <br />
           <p>
-            Le texte est plus difficile à lire lorsque le contraste entre les
-            couleurs d'arrière-plan et de premier plan est faible.
+            Cette couleur est composée des valeurs suivantes : <br />102
+            rouge<br />
+            205 vert<br />
+            170 bleu
           </p>
         </div>
         <div style="width: 36%; margin-right: 2%; margin-left: 2%">
-          <div style="width: 100%; background-color: black; height: 70px">
-            <h1 style="color: white; margin-left: 5%">HAUT CONTRASTE</h1>
+          <h2 class="title" style="color: #db290eff">Hex Codes</h2>
+          <p>
+            Les valeurs hexagonales représentent les valeurs pour le rouge, le
+            vert et le bleu en code hexadécimal.
+          </p>
+          <div style="width: 100%; background-color: #66cdaa; height: 35px">
+            <p style="color: white; margin-left: 5%">#66cdaa</p>
           </div>
           <br />
           <p>
-            Le texte est plus facile à lire lorsque le contraste entre
-            l'arrière-plan et le l'arrière-plan et l'avant-plan l'arrière-plan.
+            La valeur du rouge, 102, est exprimée par 66 en code hexadécimal
+            hexadécimal. La valeur 205 du vert est exprimée en cd et la 170 du
+            bleu équivaut à du bleu équivaut à aa.
           </p>
         </div>
         <div style="width: 31%">
-          <div style="width: 100%; background-color: darkgray; height: 70px">
-            <h1 style="color: white; margin-left: 5%">MOYEN CONTRASTE</h1>
+          <h2 class="title" style="color: #db290eff">Noms de couleurs</h2>
+          <p>
+            Les couleurs sont représentées par des noms prédéfinis. Cependant,
+            elles sont très limitées en nombre
+          </p>
+          <div
+            style="
+              width: 100%;
+              background-color: MediumAquaMarine;
+              height: 35px;
+            "
+          >
+            <p style="color: white; margin-left: 5%">MediumAquaMarine</p>
           </div>
           <br />
           <p>
-            Pour les textes longs, une légère réduction du contraste améliore la
-            lisibilité.
+            Les navigateurs prennent en charge 147 noms de couleurs. Il s'agit
+            d'une palette de couleurs limitée
           </p>
         </div>
       </div>
@@ -44,10 +68,4 @@
   </div>
 </template>
 
-<style scoped>
-.flex-container div div {
-  display: flex;
-  align-items: center;
-  justify-content: center;
-}
-</style>
+<style scoped></style>

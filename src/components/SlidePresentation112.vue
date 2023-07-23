@@ -2,13 +2,10 @@
   <div class="slide">
     <div class="heading">CSS - Selectors</div>
     <div class="content">
-      <p>
-        Il existe de nombreux types de sélecteurs CSS qui vous permettent de de
-        cibler des règles sur des éléments spécifiques dans un document HTML
-      </p>
+      <p>Pouvez-vous répondre aux questions du quiz ?</p>
       <div
         class="iFrame-container"
-        data-link="https://codesandbox.io/embed/query-selector-forked-czqncl?fontsize=14&hidenavigation=1&theme=dark"
+        data-link="https://docs.google.com/forms/d/e/1FAIpQLSftmwIbfaQ9mdK-x1122m9xAXMrts6cOmWs-ZnYdELSsEK6rw/viewform?embedded=true"
       >
         <iframe
           ref="myIframe"
@@ -29,4 +26,12 @@
   </div>
 </template>
 
-<style scoped></style>
+<style scoped>
+tr td:first-child {
+  color: #db290eff;
+}
+
+tr td:last-child {
+  color: #db290eff;
+}
+</style>

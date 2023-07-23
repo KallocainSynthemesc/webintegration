@@ -1,0 +1,51 @@
+section {
+    width: 280px;
+    margin: 0 auto;
+    background-color: #fcfcfc;
+    padding: 20px 50px 40px;
+    box-shadow: 1px 4px 10px 1px #aaa;
+    font-family: sans-serif;
+}
+
+section h2 {
+    text-align: center;
+    margin-bottom: 30px;
+}
+
+section input {
+    margin-bottom: 15px;
+}
+
+section input[type=text], section input[type=email] {
+    display: block;
+    height: 32px;
+    padding: 6px 16px;
+    width: 100%;
+    border: none;
+    background-color: #f3f3f3;
+}
+
+section label {
+    color: #777;
+    font-size: 0.8em;
+}
+
+#feedback-phone{
+    display:none;
+}
+section input:checked+#feedback-phone {
+    display:block;
+}
+
+section button[type=submit] {
+    display: block;
+    margin: 20px auto 0;
+    width: 150px;
+    height: 40px;
+    border-radius: 25px;
+    border: none;
+    color: #eee;
+    font-weight: 700;
+    box-shadow: 1px 4px 10px 1px #aaa;
+    background: #207cca;
+}

@@ -1,31 +1,71 @@
 <template>
   <div class="slide">
-    <div class="heading">CSS - Box - dimensions de la boîte</div>
+    <div class="heading">CSS - Sélecteurs d'attribut</div>
     <div class="content">
       <p>
-        Par défaut, la taille d'une boîte est juste suffisante pour contenir son
-        contenu. Pour définir vos propres dimensions, vous pouvez utiliser les
-        propriétés height et width.
+        Il existe également un ensemble de sélecteurs d'attributs qui vous
+        permettent de créer des règles s'appliquant aux éléments dont l'attribut
+        a une valeur spécifique
       </p>
-      <div
-        class="iFrame-container"
-        data-link="https://codesandbox.io/embed/vigilant-babycat-ljzxjc?fontsize=14&hidenavigation=1&theme=dark"
-      >
-        <iframe
-          ref="myIframe"
-          src="favicon.ico"
-          style="
-            width: 100%;
-            height: 100%;
-            border: 0;
-            border-radius: 4px;
-            overflow: hidden;
-          "
-          title="priceless-microservice-jvlqnq"
-          allow="accelerometer; ambient-light-sensor; camera; encrypted-media; geolocation; gyroscope; hid; microphone; midi; payment; usb; vr; xr-spatial-tracking"
-          sandbox="allow-forms allow-modals allow-popups allow-presentation allow-same-origin allow-scripts"
-        ></iframe>
-      </div>
+      <table class="ws-table-all notranslate">
+        <tbody>
+          <tr>
+            <th style="width: 20%">Sélecteur</th>
+            <th style="width: 20%">Exemple</th>
+            <th>Description de l'exemple</th>
+          </tr>
+          <tr>
+            <td>Existence</td>
+            <td class="notranslate">[target]</td>
+            <td>Sélectionne tous les éléments avec un attribut target</td>
+          </tr>
+          <tr>
+            <td>Égalité</td>
+            <td class="notranslate">[target="_blank"]</td>
+            <td>Sélectionne tous les éléments avec target="_blank"</td>
+          </tr>
+          <tr>
+            <td>Contient</td>
+            <td class="notranslate">[title~="flower"]</td>
+            <td>
+              Sélectionne tous les éléments avec un attribut title contenant le
+              mot "flower"
+            </td>
+          </tr>
+          <tr>
+            <td>Commence par</td>
+            <td class="notranslate">[lang|="en"]</td>
+            <td>
+              Sélectionne tous les éléments avec une valeur d'attribut lang
+              commençant par "en"
+            </td>
+          </tr>
+          <tr>
+            <td>Préfixe</td>
+            <td>a[href^="https"]</td>
+            <td>
+              Sélectionne chaque élément &lt;a&gt; dont la valeur d'attribut
+              href commence par "https"
+            </td>
+          </tr>
+          <tr>
+            <td>Sous-chaîne</td>
+            <td>a[href$=".pdf"]</td>
+            <td>
+              Sélectionne chaque élément &lt;a&gt; dont la valeur d'attribut
+              href se termine par ".pdf"
+            </td>
+          </tr>
+          <tr>
+            <td>Suffixe</td>
+            <td>a[href*="bge"]</td>
+            <td>
+              Sélectionne chaque élément &lt;a&gt; dont la valeur d'attribut
+              href contient la sous-chaîne "bge"
+            </td>
+          </tr>
+        </tbody>
+      </table>
     </div>
   </div>
 </template>

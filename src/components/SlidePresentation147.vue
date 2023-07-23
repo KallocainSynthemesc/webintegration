@@ -1,30 +1,25 @@
 <template>
   <div class="slide">
-    <div class="heading">CSS - pseudo-elements</div>
+    <div class="heading">CSS - Drop Shadow</div>
     <div class="content">
-      <p>
-        Vous pouvez spécifier différentes valeurs pour la première lettre ou la
-        première ligne du texte à l'intérieur d'un élément en utilisant
-        :first-letter et :first-line.
-      </p>
-      <div
-        class="iFrame-container"
-        data-link="https://codesandbox.io/embed/first-letter-or-line-qzw6dq?fontsize=14&hidenavigation=1&theme=dark"
-      >
-        <iframe
-          ref="myIframe"
-          src="favicon.ico"
-          style="
-            width: 100%;
-            height: 100%;
-            border: 0;
-            border-radius: 4px;
-            overflow: hidden;
-          "
-          title="priceless-microservice-jvlqnq"
-          allow="accelerometer; ambient-light-sensor; camera; encrypted-media; geolocation; gyroscope; hid; microphone; midi; payment; usb; vr; xr-spatial-tracking"
-          sandbox="allow-forms allow-modals allow-popups allow-presentation allow-same-origin allow-scripts"
-        ></iframe>
+      <div class="flex-container">
+        <div style="width: 45%">
+          <img
+            src="../assets/illustrations/textshadow.svg"
+            style="width: 100%; margin-bottom: 5%"
+          />
+        </div>
+        <div
+          style="width: 50%; margin-right: 2%; margin-left: 2%"
+          class="content grid center"
+        >
+          <ol>
+            <li>valeur = la coordonnée X</li>
+            <li>valeur = La coordonnée Y</li>
+            <li>valeur = Le rayon de flou</li>
+            <li>valeur = La couleur de l'ombre</li>
+          </ol>
+        </div>
       </div>
     </div>
   </div>

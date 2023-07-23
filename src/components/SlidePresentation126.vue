@@ -1,19 +1,12 @@
 <template>
   <div class="slide">
-    <div class="heading">CSS - Type scales</div>
+    <div class="heading">CSS - Exercice</div>
     <div class="content">
-      <p>
-        Exercice: obtenir un score de 200 au jeu de devinettes de couleurs
-        <br />
-        hardmode : faire la même chose en hexadécimal
-      </p>
-      <div
-        class="iFrame-container"
-        data-link="https://www.101computing.net/rgb/"
-      >
+      <p>Exercice : recréer ce site (un peu près)</p>
+      <div class="iFrame-container" data-link="exercices\color\index.html">
         <iframe
           ref="myIframe"
-          src="favicon.ico"
+          src="exercices\color\index.html"
           style="
             width: 100%;
             height: 95%;
@@ -30,8 +23,4 @@
   </div>
 </template>
 
-<style scoped>
-.flex-container div span {
-  color: #db290eff;
-}
-</style>
+<style scoped></style>

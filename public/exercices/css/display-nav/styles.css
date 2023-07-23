@@ -1,0 +1,76 @@
+@import url('https://fonts.googleapis.com/css2?family=PT+Sans&display=swap');
+
+html, body {
+  font-family: 'PT Sans', sans-serif;
+  padding: 0;
+  margin: 0;
+  background-color: rgb(231, 254, 247);
+}
+
+nav{
+  width: 100vw;
+  background-color: aquamarine;
+  text-align: left;
+}
+
+.left-nav{
+  width: 90vw;
+  display: inline-block;
+}
+
+.right-nav{
+  width: 9vw;
+  display: inline-block;
+  text-align: center;
+}
+
+nav ul li{
+  display: inline-block;
+  padding: 2vh;
+  margin-right: 5%;
+  font-size: 1.8rem;
+}
+
+nav ul{
+  display: inline-block;
+  width: 100%;
+}
+
+nav p{
+  display: inline-block;
+  font-size: 2rem;
+  color: darkslategray;
+}
+
+a:link {
+  color: darkslategray;
+  font-weight: bold;
+  text-decoration: none;
+}
+a:visited {
+  color: darkolivegreen;
+  font-weight: bold;
+}
+
+a:hover {
+  text-decoration: overline;
+  color: rgb(29, 40, 7);
+  text-shadow: 1px 4px 4px rgba(192, 189, 189, 0.8);
+}
+
+nav p:hover{
+  color: rgb(29, 40, 7);
+text-shadow: 1px 4px 4px rgba(192, 189, 189, 0.8);
+}
+
+article {
+  width: 80%;
+  padding: 10px;
+  font-family: "Inter", sans-serif;
+  border-style: solid;
+  border-color: #49775c #175a21 #a5dde6 #00ddb8;
+  background-color: #d4e6da;
+  font-weight: bold;
+  margin: 10px auto 10px auto;
+  text-align: left;
+}

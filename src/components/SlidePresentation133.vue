@@ -1,44 +1,32 @@
 <template>
   <div class="slide">
-    <div class="heading">CSS - Type scales</div>
+    <div class="heading">CSS - Taille du type</div>
     <div class="content">
-      <div class="flex-container">
-        <div style="width: 30%">
-          <p>
-            Vous avez peut-être remarqué que des programmes comme Word et GIMP
-            offrent les mêmes tailles de texte.
-          </p>
-          <br />
-          <p>
-            Il est considéré que cette échelle pour les caractères est agréable
-            à l'œil et qu'elle a donc peu changé au cours des 400 dernières
-            années
-          </p>
-        </div>
-        <div style="width: 65%; margin-right: 2%; margin-left: 2%">
-          <span style="font-size: 8pt">8pt </span>
-          <span style="font-size: 9pt">9pt </span>
-          <span style="font-size: 10pt">10pt </span>
-          <span style="font-size: 11pt">11pt </span>
-          <span style="font-size: 12pt">12pt </span>
-          <span style="font-size: 14pt">14pt </span>
-          <span style="font-size: 18t">18pt </span>
-          <span style="font-size: 24pt">24pt </span>
-          <span style="font-size: 36pt">36pt </span>
-          <span style="font-size: 48pt">48pt </span>
-          <br />
-          <span style="font-size: 60pt">60pt </span>
-          <span style="font-size: 72pt">72pt </span>
-          <br />
-          <span style="font-size: 144pt">144pt </span>
-        </div>
+      <p>
+        La propriété font-size permet de spécifier une taille pour la police. Il
+        existe plusieurs façons de spécifier la taille d'une police.
+      </p>
+      <div
+        class="iFrame-container"
+        data-link="https://codesandbox.io/embed/font-size-7v9n6x?fontsize=14&hidenavigation=1&theme=dark"
+      >
+        <iframe
+          ref="myIframe"
+          src="favicon.ico"
+          style="
+            width: 100%;
+            height: 95%;
+            border: 0;
+            border-radius: 4px;
+            overflow: hidden;
+          "
+          title="priceless-microservice-jvlqnq"
+          allow="accelerometer; ambient-light-sensor; camera; encrypted-media; geolocation; gyroscope; hid; microphone; midi; payment; usb; vr; xr-spatial-tracking"
+          sandbox="allow-forms allow-modals allow-popups allow-presentation allow-same-origin allow-scripts"
+        ></iframe>
       </div>
     </div>
   </div>
 </template>
 
-<style scoped>
-.flex-container div span {
-  color: #db290eff;
-}
-</style>
+<style scoped></style>

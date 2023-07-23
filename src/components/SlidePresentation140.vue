@@ -1,27 +1,22 @@
 <template>
   <div class="slide">
-    <div class="heading">CSS - text-transform</div>
+    <div class="heading">CSS - font exercices</div>
     <div class="content">
       <p>
-        La propriété text-transform est utilisée pour changer la casse du texte
+        Pouvez-vous mettre en œuvre quelque chose de similaire ? Vous trouverez
+        des polices similaires sur https://fonts.google.com/
       </p>
-      <div
-        class="iFrame-container"
-        data-link="https://codesandbox.io/embed/uppercase-lowercase-3g3k5r?fontsize=14&hidenavigation=1&theme=dark"
-      >
+      <div class="iFrame-container" data-link="exercices\css\font\index.html">
         <iframe
           ref="myIframe"
-          src="favicon.ico"
+          src="exercices\css\font\index.html"
           style="
             width: 100%;
-            height: 95%;
+            height: 85%;
             border: 0;
             border-radius: 4px;
             overflow: hidden;
           "
-          title="priceless-microservice-jvlqnq"
-          allow="accelerometer; ambient-light-sensor; camera; encrypted-media; geolocation; gyroscope; hid; microphone; midi; payment; usb; vr; xr-spatial-tracking"
-          sandbox="allow-forms allow-modals allow-popups allow-presentation allow-same-origin allow-scripts"
         ></iframe>
       </div>
     </div>

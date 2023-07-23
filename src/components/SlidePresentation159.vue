@@ -1,14 +1,14 @@
 <template>
   <div class="slide">
-    <div class="heading">CSS - Box - border</div>
+    <div class="heading">CSS - Box - Overflow</div>
     <div class="content">
       <p>
-        Vous pouvez spécifier la couleur d'une bordure en utilisant des valeurs
-        RVB, des codes hexadécimaux ou des noms de couleurs CSS.
+        La propriété overflow indique au navigateur ce qu'il doit faire si le
+        contenu d'une boîte est plus grand que la boîte elle-même.
       </p>
       <div
         class="iFrame-container"
-        data-link="https://codesandbox.io/embed/border-color-52tk22?fontsize=14&hidenavigation=1&theme=dark"
+        data-link="https://codesandbox.io/embed/overflow-d37xr3?fontsize=14&hidenavigation=1&theme=dark"
       >
         <iframe
           ref="myIframe"

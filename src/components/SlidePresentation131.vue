@@ -1,15 +1,15 @@
 <template>
   <div class="slide">
-    <div class="heading">CSS - Spécification des typefaces</div>
+    <div class="heading">CSS - Typeface</div>
     <div class="content">
       <p>
-        La propriété font-family permet de spécifier la police de caractères
-        police qui doit être utilisée pour tout texte à l'intérieur de l'élément
-        ou des éléments auxquels s'applique une règle CSS.
+        la propriété opacity permet de spécifier l'opacité d'un élément et de
+        tous ses éléments enfants. La valeur est un nombre compris entre 0,0 et
+        1,0.
       </p>
       <div
         class="iFrame-container"
-        data-link="https://codesandbox.io/embed/vigorous-framework-hx8xxw?fontsize=14&hidenavigation=1&theme=dark"
+        data-link="https://codesandbox.io/embed/typeface-psllck?fontsize=14&hidenavigation=1&theme=dark"
       >
         <iframe
           ref="myIframe"

@@ -1,14 +1,15 @@
 <template>
   <div class="slide">
-    <div class="heading">CSS - Taille du type</div>
+    <div class="heading">CSS - Spécification des typefaces</div>
     <div class="content">
       <p>
-        La propriété font-size permet de spécifier une taille pour la police. Il
-        existe plusieurs façons de spécifier la taille d'une police.
+        La propriété font-family permet de spécifier la police de caractères
+        police qui doit être utilisée pour tout texte à l'intérieur de l'élément
+        ou des éléments auxquels s'applique une règle CSS.
       </p>
       <div
         class="iFrame-container"
-        data-link="https://codesandbox.io/embed/font-size-7v9n6x?fontsize=14&hidenavigation=1&theme=dark"
+        data-link="https://codesandbox.io/embed/vigorous-framework-hx8xxw?fontsize=14&hidenavigation=1&theme=dark"
       >
         <iframe
           ref="myIframe"

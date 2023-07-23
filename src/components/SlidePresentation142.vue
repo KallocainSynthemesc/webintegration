@@ -1,34 +1,28 @@
 <template>
   <div class="slide">
-    <div class="heading">CSS - line-height</div>
+    <div class="heading">CSS - text-transform</div>
     <div class="content">
-      <img
-        src="../assets/illustrations/line-height.svg"
-        style="width: 100%; margin-bottom: 5%"
-      />
       <p>
-        En CSS, la propriété line-height définit la hauteur d'une ligne de texte
-        d'une ligne entière de texte
+        La propriété text-transform est utilisée pour changer la casse du texte
       </p>
-      <p>
-        L'augmentation de la hauteur de ligne agrandit l'espace vertical entre
-        les lignes de lignes de texte
-      </p>
-      <!-- HTML generated using hilite.me -->
       <div
-        style="
-          background: #ffffff;
-          overflow: auto;
-          width: auto;
-          border: solid gray;
-          border-width: 0.1em 0.1em 0.1em 0.8em;
-          padding: 0.2em 0.6em;
-        "
+        class="iFrame-container"
+        data-link="https://codesandbox.io/embed/uppercase-lowercase-3g3k5r?fontsize=14&hidenavigation=1&theme=dark"
       >
-        <pre style="margin: 0; line-height: 125%">
-<span style="color: #007700">p</span> {
-    <span style="color: #008800; font-weight: bold">line-height</span><span style="color: #333333">:</span> <span style="color: #6600EE; font-weight: bold">1.4em</span>;
-}</pre>
+        <iframe
+          ref="myIframe"
+          src="favicon.ico"
+          style="
+            width: 100%;
+            height: 95%;
+            border: 0;
+            border-radius: 4px;
+            overflow: hidden;
+          "
+          title="priceless-microservice-jvlqnq"
+          allow="accelerometer; ambient-light-sensor; camera; encrypted-media; geolocation; gyroscope; hid; microphone; midi; payment; usb; vr; xr-spatial-tracking"
+          sandbox="allow-forms allow-modals allow-popups allow-presentation allow-same-origin allow-scripts"
+        ></iframe>
       </div>
     </div>
   </div>

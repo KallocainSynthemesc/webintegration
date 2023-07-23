@@ -1,14 +1,10 @@
 <template>
   <div class="slide">
-    <div class="heading">CSS - Box - padding</div>
+    <div class="heading">CSS - Box - border</div>
     <div class="content">
-      <p>
-        La propriété padding permet de spécifier l'espace qui doit apparaître
-        entre le contenu d'un élément et sa bordure.
-      </p>
       <div
         class="iFrame-container"
-        data-link="https://codesandbox.io/embed/vibrant-pascal-ycd8f6?fontsize=14&hidenavigation=1&theme=dark"
+        data-link="https://codesandbox.io/embed/border-width-et-style-ljpk8g?fontsize=14&hidenavigation=1&theme=dark"
       >
         <iframe
           ref="myIframe"

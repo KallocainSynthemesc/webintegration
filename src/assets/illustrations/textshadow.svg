@@ -1,0 +1,262 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="110.08201mm"
+   height="101.85977mm"
+   viewBox="0 0 110.08201 101.85977"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.2.2 (732a01da63, 2022-12-09)"
+   sodipodi:docname="textshadow.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#505050"
+     bordercolor="#eeeeee"
+     borderopacity="1"
+     inkscape:showpageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#505050"
+     inkscape:document-units="mm"
+     showgrid="false"
+     inkscape:zoom="0.52724989"
+     inkscape:cx="859.17515"
+     inkscape:cy="5.6899017"
+     inkscape:window-width="1920"
+     inkscape:window-height="1017"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs2">
+    <inkscape:path-effect
+       effect="bspline"
+       id="path-effect348"
+       is_visible="true"
+       lpeversion="1"
+       weight="33.333333"
+       steps="2"
+       helper_size="0"
+       apply_no_weight="true"
+       apply_with_weight="true"
+       only_selected="false" />
+    <inkscape:path-effect
+       effect="bspline"
+       id="path-effect348-4"
+       is_visible="true"
+       lpeversion="1"
+       weight="33.333333"
+       steps="2"
+       helper_size="0"
+       apply_no_weight="true"
+       apply_with_weight="true"
+       only_selected="false" />
+    <filter
+       inkscape:collect="always"
+       style="color-interpolation-filters:sRGB"
+       id="filter8587"
+       x="-0.55149943"
+       y="-0.55149955"
+       width="2.1029988"
+       height="2.1029989">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="10.984223"
+         id="feGaussianBlur8589" />
+    </filter>
+    <filter
+       inkscape:collect="always"
+       style="color-interpolation-filters:sRGB"
+       id="filter14467"
+       x="-0.058452851"
+       y="-0.041791425"
+       width="1.1169057"
+       height="1.0835829">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="0.6409787"
+         id="feGaussianBlur14469" />
+    </filter>
+  </defs>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-10.152813,-61.021719)">
+    <path
+       style="mix-blend-mode:normal;fill:#db290e;fill-opacity:1;stroke:#db290e;stroke-width:0.7;stroke-opacity:1;paint-order:markers stroke fill;filter:url(#filter8587)"
+       id="path8585"
+       sodipodi:type="arc"
+       sodipodi:cx="61.082695"
+       sodipodi:cy="111.95161"
+       sodipodi:rx="24.217741"
+       sodipodi:ry="24.217741"
+       sodipodi:start="0"
+       sodipodi:end="6.2745164"
+       sodipodi:open="true"
+       sodipodi:arc-type="arc"
+       d="M 85.300436,111.95161 A 24.217741,24.217741 0 0 1 61.13518,136.16929 24.217741,24.217741 0 0 1 36.865181,112.05658 24.217741,24.217741 0 0 1 60.92524,87.734378 24.217741,24.217741 0 0 1 85.299526,111.74167" />
+    <g
+       id="g7767"
+       transform="translate(-4.2580645,-7.6290323)">
+      <path
+         style="fill:#db290e;fill-opacity:1;stroke:#db290e;stroke-width:0.7;stroke-opacity:1;paint-order:markers stroke fill"
+         d="m 16.226932,119.58065 c 32.742813,0 65.485363,0 98.227648,0"
+         id="path346"
+         inkscape:path-effect="#path-effect348"
+         inkscape:original-d="m 16.226932,119.58065 c 32.742813,2.6e-4 65.485363,2.6e-4 98.227648,0"
+         sodipodi:nodetypes="cc" />
+      <path
+         style="fill:#db290e;fill-opacity:1;stroke:#db290e;stroke-width:0.7;stroke-opacity:1;paint-order:markers stroke fill"
+         d="m 65.340756,70.466821 c 0,32.742809 0,65.485359 0,98.227649"
+         id="path346-8"
+         inkscape:path-effect="#path-effect348-4"
+         inkscape:original-d="m 65.340756,70.466821 c -2.6e-4,32.742809 -2.6e-4,65.485359 0,98.227649"
+         sodipodi:nodetypes="cc" />
+    </g>
+    <text
+       xml:space="preserve"
+       style="font-size:50.8px;line-height:1.25;font-family:Bahnschrift;-inkscape-font-specification:Bahnschrift;opacity:1;mix-blend-mode:normal;fill:#4b9c86;fill-opacity:1;stroke-width:0.264583;filter:url(#filter14467)"
+       x="49.011913"
+       y="132.46849"
+       id="text236-3"><tspan
+         sodipodi:role="line"
+         id="tspan234-3"
+         style="font-size:50.8px;fill:#4b9c86;fill-opacity:1;stroke-width:0.264583"
+         x="49.011913"
+         y="132.46849">S</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:50.8px;line-height:1.25;font-family:Bahnschrift;-inkscape-font-specification:Bahnschrift;stroke-width:0.264583"
+       x="45.691383"
+       y="129.98462"
+       id="text236"><tspan
+         sodipodi:role="line"
+         id="tspan234"
+         style="font-size:50.8px;stroke-width:0.264583"
+         x="45.691383"
+         y="129.98462">S</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:3.52777px;line-height:1.25;font-family:Bahnschrift;-inkscape-font-specification:Bahnschrift;stroke-width:0.264583"
+       x="14.25665"
+       y="105.06967"
+       id="text4683"><tspan
+         sodipodi:role="line"
+         style="stroke-width:0.264583"
+         x="14.25665"
+         y="105.06967"
+         id="tspan7769">paramètre pour </tspan><tspan
+         sodipodi:role="line"
+         style="stroke-width:0.264583"
+         x="14.25665"
+         y="109.47939"
+         id="tspan14535">la coordonnée X</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:3.52777px;line-height:1.25;font-family:Bahnschrift;-inkscape-font-specification:Bahnschrift;stroke-width:0.264583"
+       x="68.838928"
+       y="65.985825"
+       id="text4683-0"><tspan
+         sodipodi:role="line"
+         style="stroke-width:0.264583"
+         x="68.838928"
+         y="65.985825"
+         id="tspan7805">paramètre pour </tspan><tspan
+         sodipodi:role="line"
+         style="stroke-width:0.264583"
+         x="68.838928"
+         y="70.395538"
+         id="tspan14531">la coordonnée y</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:11.2889px;line-height:1.25;font-family:Bahnschrift;-inkscape-font-specification:Bahnschrift;fill:#4b9c86;fill-opacity:1;stroke-width:0.264583"
+       x="10.41686"
+       y="110.11039"
+       id="text14473"><tspan
+         sodipodi:role="line"
+         id="tspan14471"
+         style="font-size:11.2889px;fill:#4b9c86;fill-opacity:1;stroke-width:0.264583"
+         x="10.41686"
+         y="110.11039">1</tspan></text>
+    <g
+       id="g14578"
+       transform="translate(10.467742,5.8548389)">
+      <text
+         xml:space="preserve"
+         style="font-size:3.52777px;line-height:1.25;font-family:Bahnschrift;-inkscape-font-specification:Bahnschrift;stroke-width:0.264583"
+         x="77.266121"
+         y="85.427422"
+         id="text9319"><tspan
+           sodipodi:role="line"
+           id="tspan9317"
+           style="stroke-width:0.264583"
+           x="77.266121"
+           y="85.427422">troisième paramètre </tspan><tspan
+           sodipodi:role="line"
+           style="stroke-width:0.264583"
+           x="77.266121"
+           y="89.837135"
+           id="tspan9321">pour le rayon de flou</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-size:11.2889px;line-height:1.25;font-family:Bahnschrift;-inkscape-font-specification:Bahnschrift;fill:#4b9c86;fill-opacity:1;stroke-width:0.264583"
+         x="71.290512"
+         y="90.676689"
+         id="text14473-9"><tspan
+           sodipodi:role="line"
+           id="tspan14471-7"
+           style="font-size:11.2889px;fill:#4b9c86;fill-opacity:1;stroke-width:0.264583"
+           x="71.290512"
+           y="90.676689">3</tspan></text>
+    </g>
+    <g
+       id="g14571"
+       transform="translate(-79.83871,52.16129)">
+      <text
+         xml:space="preserve"
+         style="font-size:3.52777px;line-height:1.25;font-family:Bahnschrift;-inkscape-font-specification:Bahnschrift;stroke-width:0.264583"
+         x="165.46246"
+         y="79.449738"
+         id="text10051"><tspan
+           sodipodi:role="line"
+           id="tspan10049"
+           style="stroke-width:0.264583"
+           x="165.46246"
+           y="79.449738">paramètre est </tspan><tspan
+           sodipodi:role="line"
+           style="stroke-width:0.264583"
+           x="165.46246"
+           y="83.859451"
+           id="tspan14564">la couleur de l'ombre</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-size:11.2889px;line-height:1.25;font-family:Bahnschrift;-inkscape-font-specification:Bahnschrift;fill:#4b9c86;fill-opacity:1;stroke-width:0.264583"
+         x="157.4144"
+         y="83.792343"
+         id="text14473-9-3"><tspan
+           sodipodi:role="line"
+           id="tspan14471-7-1"
+           style="font-size:11.2889px;fill:#4b9c86;fill-opacity:1;stroke-width:0.264583"
+           x="157.4144"
+           y="83.792343">4</tspan></text>
+    </g>
+    <text
+       xml:space="preserve"
+       style="font-size:11.2889px;line-height:1.25;font-family:Bahnschrift;-inkscape-font-specification:Bahnschrift;fill:#4b9c86;fill-opacity:1;stroke-width:0.264583"
+       x="62.634266"
+       y="70.737228"
+       id="text14473-8"><tspan
+         sodipodi:role="line"
+         id="tspan14471-2"
+         style="font-size:11.2889px;fill:#4b9c86;fill-opacity:1;stroke-width:0.264583"
+         x="62.634266"
+         y="70.737228">2</tspan></text>
+  </g>
+</svg>

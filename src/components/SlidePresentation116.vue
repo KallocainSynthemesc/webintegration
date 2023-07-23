@@ -1,14 +1,11 @@
 <template>
   <div class="slide">
-    <div class="heading">CSS - heritage</div>
+    <div class="heading">CSS - priorité</div>
     <div class="content">
-      <p>
-        Vous pouvez forcer un grand nombre de propriétés à hériter des valeurs
-        de leurs éléments en utilisant inherit pour la valeur des propriétés
-      </p>
+      <p>Ici, nous pouvons voir la priorité à l'œuvre</p>
       <div
         class="iFrame-container"
-        data-link="https://codesandbox.io/embed/inheritance-yvr5l2?fontsize=14&hidenavigation=1&theme=dark"
+        data-link="https://codesandbox.io/embed/precedence-44ldx7?fontsize=14&hidenavigation=1&theme=dark"
       >
         <iframe
           ref="myIframe"

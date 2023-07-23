@@ -1,14 +1,15 @@
 <template>
   <div class="slide">
-    <div class="heading">CSS - Box - Overflow</div>
+    <div class="heading">CSS - Box - dimensions de la boîte</div>
     <div class="content">
       <p>
-        La propriété overflow indique au navigateur ce qu'il doit faire si le
-        contenu d'une boîte est plus grand que la boîte elle-même.
+        Par défaut, la taille d'une boîte est juste suffisante pour contenir son
+        contenu. Pour définir vos propres dimensions, vous pouvez utiliser les
+        propriétés height et width.
       </p>
       <div
         class="iFrame-container"
-        data-link="https://codesandbox.io/embed/overflow-d37xr3?fontsize=14&hidenavigation=1&theme=dark"
+        data-link="https://codesandbox.io/embed/vigilant-babycat-ljzxjc?fontsize=14&hidenavigation=1&theme=dark"
       >
         <iframe
           ref="myIframe"

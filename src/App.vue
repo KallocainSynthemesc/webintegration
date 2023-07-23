@@ -160,6 +160,52 @@ import SlidePresentation158 from "./components/SlidePresentation158.vue";
 import SlidePresentation159 from "./components/SlidePresentation159.vue";
 import SlidePresentation160 from "./components/SlidePresentation160.vue";
 import SlidePresentation161 from "./components/SlidePresentation161.vue";
+import SlidePresentation162 from "./components/SlidePresentation162.vue";
+import SlidePresentation163 from "./components/SlidePresentation163.vue";
+import SlidePresentation164 from "./components/SlidePresentation164.vue";
+import SlidePresentation165 from "./components/SlidePresentation165.vue";
+import SlidePresentation166 from "./components/SlidePresentation166.vue";
+import SlidePresentation167 from "./components/SlidePresentation167.vue";
+import SlidePresentation168 from "./components/SlidePresentation168.vue";
+import SlidePresentation169 from "./components/SlidePresentation169.vue";
+import SlidePresentation170 from "./components/SlidePresentation170.vue";
+import SlidePresentation171 from "./components/SlidePresentation171.vue";
+import SlidePresentation172 from "./components/SlidePresentation172.vue";
+import SlidePresentation173 from "./components/SlidePresentation173.vue";
+import SlidePresentation174 from "./components/SlidePresentation174.vue";
+import SlidePresentation175 from "./components/SlidePresentation175.vue";
+import SlidePresentation176 from "./components/SlidePresentation176.vue";
+import SlidePresentation177 from "./components/SlidePresentation177.vue";
+import SlidePresentation178 from "./components/SlidePresentation178.vue";
+import SlidePresentation179 from "./components/SlidePresentation179.vue";
+import SlidePresentation180 from "./components/SlidePresentation180.vue";
+import SlidePresentation181 from "./components/SlidePresentation181.vue";
+import SlidePresentation182 from "./components/SlidePresentation182.vue";
+import SlidePresentation183 from "./components/SlidePresentation183.vue";
+import SlidePresentation184 from "./components/SlidePresentation184.vue";
+import SlidePresentation185 from "./components/SlidePresentation185.vue";
+import SlidePresentation186 from "./components/SlidePresentation186.vue";
+import SlidePresentation187 from "./components/SlidePresentation187.vue";
+import SlidePresentation188 from "./components/SlidePresentation188.vue";
+import SlidePresentation189 from "./components/SlidePresentation189.vue";
+import SlidePresentation190 from "./components/SlidePresentation190.vue";
+import SlidePresentation191 from "./components/SlidePresentation191.vue";
+import SlidePresentation192 from "./components/SlidePresentation192.vue";
+import SlidePresentation193 from "./components/SlidePresentation193.vue";
+import SlidePresentation194 from "./components/SlidePresentation194.vue";
+import SlidePresentation195 from "./components/SlidePresentation195.vue";
+import SlidePresentation196 from "./components/SlidePresentation196.vue";
+import SlidePresentation197 from "./components/SlidePresentation197.vue";
+import SlidePresentation198 from "./components/SlidePresentation198.vue";
+import SlidePresentation199 from "./components/SlidePresentation199.vue";
+import SlidePresentation200 from "./components/SlidePresentation200.vue";
+import SlidePresentation201 from "./components/SlidePresentation201.vue";
+import SlidePresentation202 from "./components/SlidePresentation202.vue";
+import SlidePresentation203 from "./components/SlidePresentation203.vue";
+import SlidePresentation204 from "./components/SlidePresentation204.vue";
+import SlidePresentation205 from "./components/SlidePresentation205.vue";
+import SlidePresentation206 from "./components/SlidePresentation206.vue";
+import SlidePresentation207 from "./components/SlidePresentation207.vue";
 </script>
 
 <template>
@@ -328,6 +374,52 @@ import SlidePresentation161 from "./components/SlidePresentation161.vue";
           <SlidePresentation159></SlidePresentation159>
           <SlidePresentation160></SlidePresentation160>
           <SlidePresentation161></SlidePresentation161>
+          <SlidePresentation162></SlidePresentation162>
+          <SlidePresentation163></SlidePresentation163>
+          <SlidePresentation164></SlidePresentation164>
+          <SlidePresentation165></SlidePresentation165>
+          <SlidePresentation166></SlidePresentation166>
+          <SlidePresentation167></SlidePresentation167>
+          <SlidePresentation168></SlidePresentation168>
+          <SlidePresentation169></SlidePresentation169>
+          <SlidePresentation170></SlidePresentation170>
+          <SlidePresentation171></SlidePresentation171>
+          <SlidePresentation172></SlidePresentation172>
+          <SlidePresentation173></SlidePresentation173>
+          <SlidePresentation174></SlidePresentation174>
+          <SlidePresentation175></SlidePresentation175>
+          <SlidePresentation176></SlidePresentation176>
+          <SlidePresentation177></SlidePresentation177>
+          <SlidePresentation178></SlidePresentation178>
+          <SlidePresentation179></SlidePresentation179>
+          <SlidePresentation180></SlidePresentation180>
+          <SlidePresentation181></SlidePresentation181>
+          <SlidePresentation182></SlidePresentation182>
+          <SlidePresentation183></SlidePresentation183>
+          <SlidePresentation184></SlidePresentation184>
+          <SlidePresentation185></SlidePresentation185>
+          <SlidePresentation186></SlidePresentation186>
+          <SlidePresentation187></SlidePresentation187>
+          <SlidePresentation188></SlidePresentation188>
+          <SlidePresentation189></SlidePresentation189>
+          <SlidePresentation190></SlidePresentation190>
+          <SlidePresentation191></SlidePresentation191>
+          <SlidePresentation192></SlidePresentation192>
+          <SlidePresentation193></SlidePresentation193>
+          <SlidePresentation194></SlidePresentation194>
+          <SlidePresentation195></SlidePresentation195>
+          <SlidePresentation196></SlidePresentation196>
+          <SlidePresentation197></SlidePresentation197>
+          <SlidePresentation198></SlidePresentation198>
+          <SlidePresentation199></SlidePresentation199>
+          <SlidePresentation200></SlidePresentation200>
+          <SlidePresentation201></SlidePresentation201>
+          <SlidePresentation202></SlidePresentation202>
+          <SlidePresentation203></SlidePresentation203>
+          <SlidePresentation204></SlidePresentation204>
+          <SlidePresentation205></SlidePresentation205>
+          <SlidePresentation206></SlidePresentation206>
+          <SlidePresentation207></SlidePresentation207>
         </section>
 
         <section class="counter">
@@ -336,11 +428,11 @@ import SlidePresentation161 from "./components/SlidePresentation161.vue";
             id="index"
             name="index"
             min="1"
-            max="147"
+            max="164"
             value="1"
             style="width: 40%"
           />
-          of 147
+          of 164
         </section>
 
         <section class="navigation">
