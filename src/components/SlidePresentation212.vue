@@ -1,13 +1,9 @@
 <template>
   <div class="slide">
-    <div class="heading">CSS - Layout - start, end</div>
+    <div class="heading">CSS - Layout - justify-content</div>
     <div class="content">
-      <p>
-        Avec le jeu "grid garden", nous allons examiner différentes valeurs de
-        manipulation de la zone de la grille comme : grid-row-start,
-        grid-row-end, grid-column-start, grid-column-end.
-      </p>
-      <div class="iFrame-container" data-link="https://cssgridgarden.com/">
+      <p>Jouez à la flexbox froggy du niveau 1 à 5.</p>
+      <div class="iFrame-container" data-link="https://flexboxfroggy.com/">
         <iframe
           ref="myIframe"
           src="favicon.ico"

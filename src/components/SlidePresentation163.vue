@@ -1,6 +1,6 @@
 <template>
   <div class="slide">
-    <div class="heading">CSS - font face</div>
+    <div class="heading">CSS - box</div>
     <div class="content">
       <p>
         Pouvez-vous mettre en œuvre quelque chose de similaire ? Vous pouvez

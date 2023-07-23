@@ -28,7 +28,7 @@
           src="exercices\css\grid\first\index.html"
           style="
             width: 100%;
-            height: 98%;
+            height: 96%;
             border: 0;
             border-radius: 4px;
             overflow: hidden;

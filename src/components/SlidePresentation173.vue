@@ -1,6 +1,6 @@
 <template>
   <div class="slide">
-    <div class="heading">CSS - Box - cacher des boîtes</div>
+    <div class="heading">CSS - Box - exercice</div>
     <div class="content">
       <p>
         Exo difficile: Pouvez-vous mettre en œuvre quelque chose de similaire ?

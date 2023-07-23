@@ -3,36 +3,22 @@
     <div class="heading">CSS - Layout - Grid area</div>
     <div class="content">
       <p>
-        La mise en page peut prendre n'importe quelle forme. Avec l'aide de
-        <a
-          href="https://developer.mozilla.org/en-US/docs/Web/CSS/justify-content"
-          >justify-content</a
-        >
-        et
-        <a href="https://developer.mozilla.org/en-US/docs/Web/CSS/align-items"
-          >align-items</a
-        >, nous pouvons également gérer la façon dont le contenu des divs flex
-        box est centré.
+        Même si l'utilisation de grid-template-areas et grid-area est déjà une
+        méthode plus simple, nous pouvons nous simplifier la vie avec un
+        générateur. Est-ce que c'est de la triche ? Je m'en fiche, cela accélère
+        énormément les choses !
       </p>
-      <div
-        class="iFrame-container"
-        data-link="https://codesandbox.io/embed/special-layout-cpr72s?fontsize=14&hidenavigation=1&theme=dark"
+      <p>
+        En réalité, il y a bien plus de possibilités de gérer le grid. Avec des
+        éléments qui se chevauchent, ce générateur de grille ne serait pas
+        suffisant. Cependant, je pense que les éléments qui se chevauchent sont
+        une niche et c'est pourquoi je n'explique pas le grid de manière plus
+        approfondie.
+      </p>
+      <a href="https://grid.layoutit.com?id=z8DSCMp"
+        >https://grid.layoutit.com?id=z8DSCMp</a
       >
-        <iframe
-          ref="myIframe"
-          src="favicon.ico"
-          style="
-            width: 100%;
-            height: 95%;
-            border: 0;
-            border-radius: 4px;
-            overflow: hidden;
-          "
-          title="priceless-microservice-jvlqnq"
-          allow="accelerometer; ambient-light-sensor; camera; encrypted-media; geolocation; gyroscope; hid; microphone; midi; payment; usb; vr; xr-spatial-tracking"
-          sandbox="allow-forms allow-modals allow-popups allow-presentation allow-same-origin allow-scripts"
-        ></iframe>
-      </div>
+      <img src="../assets/illustrations/gridlayout.png" style="width: 50%" />
     </div>
   </div>
 </template>
