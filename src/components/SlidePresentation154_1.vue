@@ -2,10 +2,13 @@
   <div class="slide">
     <div class="heading">CSS - Répondre aux utilisateurs</div>
     <div class="content">
-      <p>Voyons quelques exemples de sélecteurs d'attributs</p>
+      <p>
+        Trois pseudo-classes permettent de modifier l'apparence des éléments
+        lorsqu'un utilisateur interagit avec eux.
+      </p>
       <div
         class="iFrame-container"
-        data-link="https://codesandbox.io/embed/attribute-selectors-l2tjt4?fontsize=14&hidenavigation=1&theme=dark"
+        data-link="https://codesandbox.io/embed/reverent-water-wsss7x?fontsize=14&hidenavigation=1&theme=dark"
       >
         <iframe
           ref="myIframe"
