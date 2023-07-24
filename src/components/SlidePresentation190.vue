@@ -3,16 +3,17 @@
     <div class="heading">CSS - Layout - exercice</div>
     <div class="content">
       <p>
-        Exercice (difficile): Ajoutez maintenant l'effet de survol pour que la
-        liste ne s'affiche que lorsque l'élément de navigation est survolé.
+        Exercice: Nous allons lentement étendre notre site web de l'exercice
+        précédent. Nous commençons par le rendre plus laid. Le but sera
+        d'ajouter une navigation déroulante.
       </p>
       <div
         class="iFrame-container"
-        data-link="exercices\css\absolute\second-step\index.html"
+        data-link="exercices\css\absolute\first-step\index.html"
       >
         <iframe
           ref="myIframe"
-          src="exercices\css\absolute\second-step\index.html"
+          src="exercices\css\absolute\first-step\index.html"
           style="
             width: 100%;
             height: 90%;

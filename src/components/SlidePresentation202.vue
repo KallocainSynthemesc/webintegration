@@ -1,26 +1,38 @@
 <template>
   <div class="slide">
-    <div class="heading">CSS - Layout - start, end</div>
+    <div class="heading">CSS - Layout - exercice</div>
     <div class="content">
       <p>
-        Avec le jeu "grid garden", nous allons examiner différentes valeurs de
-        manipulation de la zone de la grille comme : grid-row-start,
-        grid-row-end, grid-column-start, grid-column-end.
+        Exercice: Pouvez-vous mettre en place ce site en utilisant une grid ?
       </p>
-      <div class="iFrame-container" data-link="https://cssgridgarden.com/">
+      <div
+        style="
+          background: #ffffff;
+          overflow: auto;
+          width: auto;
+          border: solid gray;
+          border-width: 0.1em 0.1em 0.1em 0.8em;
+          padding: 0.2em 0.6em;
+        "
+      >
+        <pre style="margin: 0; line-height: 125%">
+<span style="color: #bb0066; font-weight: bold">font-family</span>: <span style="color: #bb0066; font-weight: bold">QuicksandBook</span>, <span style="color: #bb0066; font-weight: bold">Helvetica</span>, <span style="color: #bb0066; font-weight: bold">Arial</span>, <span style="color: #bb0066; font-weight: bold">sans-serif</span>;</pre>
+      </div>
+
+      <div
+        class="iFrame-container"
+        data-link="exercices\css\grid\first\index.html"
+      >
         <iframe
           ref="myIframe"
-          src="favicon.ico"
+          src="exercices\css\grid\first\index.html"
           style="
             width: 100%;
-            height: 95%;
+            height: 96%;
             border: 0;
             border-radius: 4px;
             overflow: hidden;
           "
-          title="priceless-microservice-jvlqnq"
-          allow="accelerometer; ambient-light-sensor; camera; encrypted-media; geolocation; gyroscope; hid; microphone; midi; payment; usb; vr; xr-spatial-tracking"
-          sandbox="allow-forms allow-modals allow-popups allow-presentation allow-same-origin allow-scripts"
         ></iframe>
       </div>
     </div>

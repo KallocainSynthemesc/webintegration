@@ -1,10 +1,15 @@
 <template>
   <div class="slide">
-    <div class="heading">CSS - Box - Limitation de la largeur</div>
+    <div class="heading">CSS - Box - dimensions de la boîte</div>
     <div class="content">
+      <p>
+        Par défaut, la taille d'une boîte est juste suffisante pour contenir son
+        contenu. Pour définir vos propres dimensions, vous pouvez utiliser les
+        propriétés height et width.
+      </p>
       <div
         class="iFrame-container"
-        data-link="https://codesandbox.io/embed/funny-pateu-ztg39j?fontsize=14&hidenavigation=1&theme=dark"
+        data-link="https://codesandbox.io/embed/vigilant-babycat-ljzxjc?fontsize=14&hidenavigation=1&theme=dark"
       >
         <iframe
           ref="myIframe"

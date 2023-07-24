@@ -1,15 +1,16 @@
 <template>
   <div class="slide">
-    <div class="heading">CSS - Layout - float</div>
+    <div class="heading">CSS - Layout - align-items</div>
     <div class="content">
       <p>
-        La propriété float vous permet de prendre un élément dans le flux normal
-        et de le placer aussi loin que possible à gauche ou à droite de
-        l'élément qui le contient
+        Alors que la propriété justify-content définit la manière dont les
+        éléments flexibles sont alignés sur l'axe principal du conteneur flex,
+        la propriété align-items définit la manière dont les éléments flexibles
+        sont alignés sur l'axe transversal de la ligne flex.
       </p>
       <div
         class="iFrame-container"
-        data-link="https://codesandbox.io/embed/z-index-9pxyqr?fontsize=14&hidenavigation=1&theme=dark"
+        data-link="https://codesandbox.io/embed/justify-content-rjjfhs?fontsize=14&hidenavigation=1&theme=dark"
       >
         <iframe
           ref="myIframe"

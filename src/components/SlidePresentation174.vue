@@ -1,22 +1,27 @@
 <template>
   <div class="slide">
-    <div class="heading">CSS - Form, Lists, Tables</div>
-    <div class="content grid center">
-      <img
-        src="../assets/illustrations/formlisttable.svg"
-        style="width: 45%; margin-left: 40%"
-      />
-      <h3>
-        <span style="font-size: 2rem">↪</span> Spécification des styles de puces
-      </h3>
-      <h3>
-        <span style="font-size: 2rem">↪</span> Ajouter des bordures et des
-        arrière-plans aux tableaux
-      </h3>
-      <h3>
-        <span style="font-size: 2rem">↪</span> Modifier l'apparence des éléments
-        de formulaire
-      </h3>
+    <div class="heading">CSS - Box - exercice</div>
+    <div class="content">
+      <p>
+        Exo difficile: Pouvez-vous mettre en œuvre quelque chose de similaire ?
+        utiliser le résultat de l'exercice précédent comme base
+      </p>
+      <div
+        class="iFrame-container"
+        data-link="exercices\css\box-shadow\index.html"
+      >
+        <iframe
+          ref="myIframe"
+          src="exercices\css\box-shadow\index.html"
+          style="
+            width: 100%;
+            height: 90%;
+            border: 0;
+            border-radius: 4px;
+            overflow: hidden;
+          "
+        ></iframe>
+      </div>
     </div>
   </div>
 </template>

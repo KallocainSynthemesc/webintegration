@@ -1,17 +1,25 @@
 <template>
   <div class="slide">
-    <div class="heading">CSS - Form, Lists, Tables - border-spacing</div>
+    <div class="heading">CSS - Lists - nth-child</div>
     <div class="content">
+      <p>
+        Je me contenterai de montrer un simple pair et impair. Si vous êtes
+        intéressé par le fonctionnement du sélecteur, consultez la
+        <a
+          href="https://developer.mozilla.org/en-US/docs/Web/CSS/:nth-child"
+        ></a
+        >documentation.
+      </p>
       <div
         class="iFrame-container"
-        data-link="https://codesandbox.io/embed/border-spacing-frjtqv?fontsize=14&hidenavigation=1&theme=dark"
+        data-link="https://codesandbox.io/embed/nth-child-3tl5t7?fontsize=14&hidenavigation=1&theme=dark"
       >
         <iframe
           ref="myIframe"
           src="favicon.ico"
           style="
             width: 100%;
-            height: 100%;
+            height: 95%;
             border: 0;
             border-radius: 4px;
             overflow: hidden;

@@ -1,21 +1,24 @@
 <template>
   <div class="slide">
-    <div class="heading">CSS - Box</div>
-    <div class="content grid center">
-      <img
-        src="../assets/illustrations/manopensbox.svg"
-        style="width: 25%; margin-left: 40%"
-      />
-      <h3>
-        <span style="font-size: 2rem">↪</span> Contrôle de la taille des boîtes
-      </h3>
-      <h3>
-        <span style="font-size: 2rem">↪</span> Modèle de boîte pour les
-        bordures, la marge et l'espacement
-      </h3>
-      <h3>
-        <span style="font-size: 2rem">↪</span> Affichage et masquage des boîtes
-      </h3>
+    <div class="heading">CSS - Sélecteurs d'attribut</div>
+    <div class="content">
+      <p>Implémentez cette page en utilisant diverses pseudo-classes.</p>
+      <div
+        class="iFrame-container"
+        data-link="exercices\css\effects\index.html"
+      >
+        <iframe
+          ref="myIframe"
+          src="exercices\css\effects\index.html"
+          style="
+            width: 100%;
+            height: 85%;
+            border: 0;
+            border-radius: 4px;
+            overflow: hidden;
+          "
+        ></iframe>
+      </div>
     </div>
   </div>
 </template>

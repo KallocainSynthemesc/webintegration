@@ -1,25 +1,26 @@
 <template>
   <div class="slide">
-    <div class="heading">CSS - Layout - Positionnement relatif</div>
+    <div class="heading">CSS - Layout - Concepts clés</div>
     <div class="content">
-      <div
-        class="iFrame-container"
-        data-link="https://codesandbox.io/embed/relative-x34ydn?fontsize=14&hidenavigation=1&theme=dark"
-      >
-        <iframe
-          ref="myIframe"
-          src="favicon.ico"
-          style="
-            width: 100%;
-            height: 100%;
-            border: 0;
-            border-radius: 4px;
-            overflow: hidden;
-          "
-          title="priceless-microservice-jvlqnq"
-          allow="accelerometer; ambient-light-sensor; camera; encrypted-media; geolocation; gyroscope; hid; microphone; midi; payment; usb; vr; xr-spatial-tracking"
-          sandbox="allow-forms allow-modals allow-popups allow-presentation allow-same-origin allow-scripts"
-        ></iframe>
+      <div class="flex-container">
+        <div style="width: 45%">
+          <h2>Positionnement fixe</h2>
+          <p>
+            Il s'agit d'une forme de positionnement absolu qui positionne
+            l'élément par rapport à la fenêtre du navigateur, et non par rapport
+            à l'élément qui le contient.
+          </p>
+          <img src="../assets/illustrations/posfixed.svg" style="width: 58%" />
+        </div>
+        <div style="width: 45%">
+          <h2>Éléments flottants</h2>
+          <p>
+            Le flottement d'un élément permet de sortir cet élément du flux
+            normal et de le positionner à l'extrême gauche ou à l'extrême droite
+            d'une boîte contenant l'élément.
+          </p>
+          <img src="../assets/illustrations/floating.svg" style="width: 58%" />
+        </div>
       </div>
     </div>
   </div>

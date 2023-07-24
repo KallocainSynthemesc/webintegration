@@ -1,16 +1,13 @@
 <template>
   <div class="slide">
-    <div class="heading">CSS - Layout - Grid area</div>
+    <div class="heading">CSS - Layout - start, end</div>
     <div class="content">
       <p>
-        À mon humble avis, la grid area est un moyen plus simple de structurer
-        votre grille. Les mots des valeurs de la chaîne sont utilisés pour
-        définir la forme des zones de la grille. Vraiment !
+        Avec le jeu "grid garden", nous allons examiner différentes valeurs de
+        manipulation de la zone de la grille comme : grid-row-start,
+        grid-row-end, grid-column-start, grid-column-end.
       </p>
-      <div
-        class="iFrame-container"
-        data-link="https://codesandbox.io/embed/grid-area-hxqc3j?fontsize=14&hidenavigation=1&theme=dark"
-      >
+      <div class="iFrame-container" data-link="https://cssgridgarden.com/">
         <iframe
           ref="myIframe"
           src="favicon.ico"

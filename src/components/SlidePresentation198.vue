@@ -2,28 +2,25 @@
   <div class="slide">
     <div class="heading">CSS - Layout - Grid</div>
     <div class="content">
-      <p>
-        La première étape consiste à créer une grille dont les pistes ont une
-        largeur fixe.
-      </p>
-      <div
-        class="iFrame-container"
-        data-link="https://codesandbox.io/embed/grid-5jckcp?fontsize=14&hidenavigation=1&theme=dark"
-      >
-        <iframe
-          ref="myIframe"
-          src="favicon.ico"
-          style="
-            width: 100%;
-            height: 100%;
-            border: 0;
-            border-radius: 4px;
-            overflow: hidden;
-          "
-          title="priceless-microservice-jvlqnq"
-          allow="accelerometer; ambient-light-sensor; camera; encrypted-media; geolocation; gyroscope; hid; microphone; midi; payment; usb; vr; xr-spatial-tracking"
-          sandbox="allow-forms allow-modals allow-popups allow-presentation allow-same-origin allow-scripts"
-        ></iframe>
+      <div class="flex-container">
+        <div style="width: 65%">
+          <img src="../assets/illustrations/grid.svg" style="width: 100%" />
+        </div>
+        <div style="width: 30%">
+          <p>
+            Une grid track est un chemin continu entre deux lignes de grille
+            adjacentes - en d'autres termes, une grid column ou une grid row
+          </p>
+          <p>
+            Une grid cell est un espace délimité par quatre lignes de grille,
+            sans qu'aucune ligne de grille ne le traverse, de manière analogue à
+            une cellule de tableau.
+          </p>
+          <p>
+            Une grid area est une zone rectangulaire délimitée par quatre grid
+            lines et composée d'une ou plusieurs grid cells.
+          </p>
+        </div>
       </div>
     </div>
   </div>

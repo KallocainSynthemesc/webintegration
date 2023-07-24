@@ -1,18 +1,18 @@
 <template>
   <div class="slide">
-    <div class="heading">CSS - Layout - fixed</div>
+    <div class="heading">CSS - Layout - exercice</div>
     <div class="content">
       <p>
-        Le positionnement fixe est un type de positionnement absolu qui exige
-        que la propriété position ait une valeur fixe.
+        Exercice: adapter la liste au style actuel. Essayez de réutiliser les
+        css existants et d'éviter la duplication du code.
       </p>
       <div
         class="iFrame-container"
-        data-link="https://codesandbox.io/embed/modest-brook-nlh2t6?fontsize=14&hidenavigation=1&theme=dark"
+        data-link="exercices\css\absolute\third-step\index.html"
       >
         <iframe
           ref="myIframe"
-          src="favicon.ico"
+          src="exercices\css\absolute\third-step\index.html"
           style="
             width: 100%;
             height: 100%;
@@ -20,9 +20,6 @@
             border-radius: 4px;
             overflow: hidden;
           "
-          title="priceless-microservice-jvlqnq"
-          allow="accelerometer; ambient-light-sensor; camera; encrypted-media; geolocation; gyroscope; hid; microphone; midi; payment; usb; vr; xr-spatial-tracking"
-          sandbox="allow-forms allow-modals allow-popups allow-presentation allow-same-origin allow-scripts"
         ></iframe>
       </div>
     </div>

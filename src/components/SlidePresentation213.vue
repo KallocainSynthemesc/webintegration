@@ -2,16 +2,8 @@
   <div class="slide">
     <div class="heading">CSS - Layout - justify-content</div>
     <div class="content">
-      <p>
-        Alors que la propriété justify-content définit la manière dont les
-        éléments flexibles sont alignés sur l'axe principal du conteneur flex,
-        la propriété align-items définit la manière dont les éléments flexibles
-        sont alignés sur l'axe transversal de la ligne flex.
-      </p>
-      <div
-        class="iFrame-container"
-        data-link="https://codesandbox.io/embed/justify-content-rjjfhs?fontsize=14&hidenavigation=1&theme=dark"
-      >
+      <p>Jouez à la flexbox froggy du niveau 1 à 5.</p>
+      <div class="iFrame-container" data-link="https://flexboxfroggy.com/">
         <iframe
           ref="myIframe"
           src="favicon.ico"

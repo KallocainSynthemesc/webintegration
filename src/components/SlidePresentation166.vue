@@ -1,11 +1,14 @@
 <template>
   <div class="slide">
-    <div class="heading">CSS - Box - margin</div>
+    <div class="heading">CSS - Box - padding</div>
     <div class="content">
-      <p>La propriété margin contrôle l'espace entre les cases.</p>
+      <p>
+        La propriété padding permet de spécifier l'espace qui doit apparaître
+        entre le contenu d'un élément et sa bordure.
+      </p>
       <div
         class="iFrame-container"
-        data-link="https://codesandbox.io/embed/margin-9wgww2?fontsize=14&hidenavigation=1&theme=dark"
+        data-link="https://codesandbox.io/embed/vibrant-pascal-ycd8f6?fontsize=14&hidenavigation=1&theme=dark"
       >
         <iframe
           ref="myIframe"
