@@ -1,10 +1,11 @@
 <template>
   <div class="slide">
-    <div class="heading">CSS - Typeface</div>
+    <div class="heading">CSS - Répondre aux utilisateurs</div>
     <div class="content">
+      <p>Voyons quelques exemples de sélecteurs d'attributs</p>
       <div
         class="iFrame-container"
-        data-link="https://codesandbox.io/embed/typeface-psllck?fontsize=14&hidenavigation=1&theme=dark"
+        data-link="https://codesandbox.io/embed/attribute-selectors-l2tjt4?fontsize=14&hidenavigation=1&theme=dark"
       >
         <iframe
           ref="myIframe"

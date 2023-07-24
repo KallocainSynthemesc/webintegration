@@ -17,7 +17,6 @@
             Voici quelques exemples d'éléments de bloc: &lt;h1&gt;, &lt;p&gt;,
             &lt;ul&gt;, et&lt;li&gt;.
           </p>
-          <!-- HTML generated using hilite.me -->
           <div
             style="
               background: #ffffff;

@@ -1,17 +1,15 @@
 <template>
   <div class="slide">
-    <div class="heading">CSS - Typeface</div>
+    <div class="heading">CSS - Layout - justify-content</div>
     <div class="content">
-      <div
-        class="iFrame-container"
-        data-link="https://codesandbox.io/embed/typeface-psllck?fontsize=14&hidenavigation=1&theme=dark"
-      >
+      <p>Jouez à la flexbox froggy du niveau 5 à 14.</p>
+      <div class="iFrame-container" data-link="https://flexboxfroggy.com/">
         <iframe
           ref="myIframe"
           src="favicon.ico"
           style="
             width: 100%;
-            height: 100%;
+            height: 95%;
             border: 0;
             border-radius: 4px;
             overflow: hidden;

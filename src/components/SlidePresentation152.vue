@@ -37,7 +37,7 @@
             <td class="notranslate">[lang|="en"]</td>
             <td>
               Sélectionne tous les éléments avec une valeur d'attribut lang
-              commençant par "en"
+              equivialent á "en" ou "en-"
             </td>
           </tr>
           <tr>

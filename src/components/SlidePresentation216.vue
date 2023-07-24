@@ -1,17 +1,21 @@
 <template>
   <div class="slide">
-    <div class="heading">CSS - Typeface</div>
+    <div class="heading">CSS - Layout - justify-content</div>
     <div class="content">
+      <p>
+        La propriété flex-direction spécifie comment les éléments flexibles sont
+        placés dans le conteneur flex.
+      </p>
       <div
         class="iFrame-container"
-        data-link="https://codesandbox.io/embed/typeface-psllck?fontsize=14&hidenavigation=1&theme=dark"
+        data-link="https://codesandbox.io/embed/justify-content-rjjfhs?fontsize=14&hidenavigation=1&theme=dark"
       >
         <iframe
           ref="myIframe"
           src="favicon.ico"
           style="
             width: 100%;
-            height: 100%;
+            height: 95%;
             border: 0;
             border-radius: 4px;
             overflow: hidden;

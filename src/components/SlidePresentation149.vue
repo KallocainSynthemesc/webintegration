@@ -3,6 +3,7 @@
     <div class="heading">CSS - exercice</div>
     <div class="content">
       <p>Exercice : recréer ce site (un peu près).</p>
+      <!-- HTML generated using hilite.me -->
       <div
         style="
           background: #ffffff;
@@ -14,10 +15,10 @@
         "
       >
         <pre style="margin: 0; line-height: 125%">
-<span style="color: #007700">font-family</span><span style="color: #333333">:</span> <span style="background-color: #fff0f0">&quot;Palatino Linotype&quot;</span><span style="color: #333333">,</span> <span style="background-color: #fff0f0">&quot;Book Antiqua&quot;</span><span style="color: #333333">,</span> <span style="color: #007700">serif</span><span style="color: #333333">;</span>
-<span style="color: #007700">font-family</span><span style="color: #333333">:</span> <span style="background-color: #fff0f0">&quot;Helvetica Neue&quot;</span><span style="color: #333333">,</span> <span style="color: #007700">Helvetica</span><span style="color: #333333">,</span> <span style="color: #007700">Arial</span><span style="color: #333333">,</span> <span style="color: #007700">sans-serif</span><span style="color: #333333">;</span>
-<span style="color: #007700">font-family</span><span style="color: #333333">:</span> <span style="color: #007700">Arial</span><span style="color: #333333">,</span> <span style="color: #007700">sans-serif</span><span style="color: #333333">;</span>
-</pre>
+font<span style="color: #333333">-</span>family: <span style="background-color: #fff0f0">&quot;Palatino Linotype&quot;</span>, <span style="background-color: #fff0f0">&quot;Book Antiqua&quot;</span>, serif;
+font<span style="color: #333333">-</span>family: <span style="background-color: #fff0f0">&quot;Helvetica Neue&quot;</span>, Helvetica, Arial, sans<span style="color: #333333">-</span>serif;
+font<span style="color: #333333">-</span>family: Arial, sans<span style="color: #333333">-</span>serif;
+font<span style="color: #333333">-</span>family: <span style="background-color: #fff0f0">&quot;Courier New&quot;</span>, Courier, monospace;</pre>
       </div>
 
       <div class="iFrame-container" data-link="exercices\color\index.html">
