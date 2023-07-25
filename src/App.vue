@@ -153,7 +153,6 @@ import SlidePresentation151 from "./components/SlidePresentation151.vue";
 import SlidePresentation152 from "./components/SlidePresentation152.vue";
 import SlidePresentation153 from "./components/SlidePresentation153.vue";
 import SlidePresentation154 from "./components/SlidePresentation154.vue";
-import SlidePresentation154_1 from "./components/SlidePresentation154_1.vue";
 import SlidePresentation155 from "./components/SlidePresentation155.vue";
 import SlidePresentation156 from "./components/SlidePresentation156.vue";
 import SlidePresentation157 from "./components/SlidePresentation157.vue";
@@ -215,6 +214,17 @@ import SlidePresentation212 from "./components/SlidePresentation212.vue";
 import SlidePresentation213 from "./components/SlidePresentation213.vue";
 import SlidePresentation214 from "./components/SlidePresentation214.vue";
 import SlidePresentation215 from "./components/SlidePresentation215.vue";
+import SlidePresentation216 from "./components/SlidePresentation216.vue";
+import SlidePresentation217 from "./components/SlidePresentation217.vue";
+import SlidePresentation218 from "./components/SlidePresentation218.vue";
+import SlidePresentation219 from "./components/SlidePresentation219.vue";
+import SlidePresentation220 from "./components/SlidePresentation220.vue";
+import SlidePresentation221 from "./components/SlidePresentation221.vue";
+import SlidePresentation222 from "./components/SlidePresentation222.vue";
+import SlidePresentation223 from "./components/SlidePresentation223.vue";
+import SlidePresentation224 from "./components/SlidePresentation224.vue";
+import SlidePresentation225 from "./components/SlidePresentation225.vue";
+import SlidePresentation226 from "./components/SlidePresentation226.vue";
 </script>
 
 <template>
@@ -376,7 +386,6 @@ import SlidePresentation215 from "./components/SlidePresentation215.vue";
           <SlidePresentation152></SlidePresentation152>
           <SlidePresentation153></SlidePresentation153>
           <SlidePresentation154></SlidePresentation154>
-          <SlidePresentation154_1></SlidePresentation154_1>
           <SlidePresentation155></SlidePresentation155>
           <SlidePresentation156></SlidePresentation156>
           <SlidePresentation157></SlidePresentation157>
@@ -438,6 +447,17 @@ import SlidePresentation215 from "./components/SlidePresentation215.vue";
           <SlidePresentation213></SlidePresentation213>
           <SlidePresentation214></SlidePresentation214>
           <SlidePresentation215></SlidePresentation215>
+          <SlidePresentation216></SlidePresentation216>
+          <SlidePresentation217></SlidePresentation217>
+          <SlidePresentation218></SlidePresentation218>
+          <SlidePresentation219></SlidePresentation219>
+          <SlidePresentation220></SlidePresentation220>
+          <SlidePresentation221></SlidePresentation221>
+          <SlidePresentation222></SlidePresentation222>
+          <SlidePresentation223></SlidePresentation223>
+          <SlidePresentation224></SlidePresentation224>
+          <SlidePresentation225></SlidePresentation225>
+          <SlidePresentation226></SlidePresentation226>
         </section>
 
         <section class="counter">
@@ -446,11 +466,11 @@ import SlidePresentation215 from "./components/SlidePresentation215.vue";
             id="index"
             name="index"
             min="1"
-            max="214"
+            max="207"
             value="1"
             style="width: 40%"
           />
-          of 214
+          of 207
         </section>
 
         <section class="navigation">

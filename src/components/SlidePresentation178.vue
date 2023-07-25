@@ -1,18 +1,14 @@
 <template>
   <div class="slide">
-    <div class="heading">CSS - Lists - nth-child</div>
+    <div class="heading">CSS - Lists - images</div>
     <div class="content">
       <p>
-        Je me contenterai de montrer un simple pair et impair. Si vous êtes
-        intéressé par le fonctionnement du sélecteur, consultez la
-        <a
-          href="https://developer.mozilla.org/en-US/docs/Web/CSS/:nth-child"
-        ></a
-        >documentation.
+        Vous pouvez spécifier une image qui servira de puce à l'aide de la
+        propriété list-style-image
       </p>
       <div
         class="iFrame-container"
-        data-link="https://codesandbox.io/embed/nth-child-3tl5t7?fontsize=14&hidenavigation=1&theme=dark"
+        data-link="https://codesandbox.io/embed/list-style-image-43y6zt?fontsize=14&hidenavigation=1&theme=dark"
       >
         <iframe
           ref="myIframe"

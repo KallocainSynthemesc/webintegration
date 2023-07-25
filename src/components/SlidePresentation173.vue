@@ -1,14 +1,14 @@
 <template>
   <div class="slide">
-    <div class="heading">CSS - Box - border-radius</div>
+    <div class="heading">CSS - Box - box shadows</div>
     <div class="content">
       <p>
-        CSS3 introduces the ability to create rounded corners on any box, using
-        a property called border-radius.
+        La propriété box-shadow permet d'ajouter une ombre portée autour d'une
+        boîte.
       </p>
       <div
         class="iFrame-container"
-        data-link="https://codesandbox.io/embed/round-borders-j3zzsr?fontsize=14&hidenavigation=1&theme=dark"
+        data-link="https://codesandbox.io/embed/box-shadow-sfk9lm?fontsize=14&hidenavigation=1&theme=dark"
       >
         <iframe
           ref="myIframe"

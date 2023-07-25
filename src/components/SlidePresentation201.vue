@@ -1,15 +1,14 @@
 <template>
   <div class="slide">
-    <div class="heading">CSS - Layout - Grid Tracks flexible</div>
+    <div class="heading">CSS - Layout - Grid</div>
     <div class="content">
       <p>
-        Si vous souhaitez diviser l'espace disponible par une fraction et
-        répartir les fractions dans différentes colonnes, l'unité fr est là pour
-        vous.
+        Les lignes de la grille sont placées exactement de la même manière que
+        les colonnes.
       </p>
       <div
         class="iFrame-container"
-        data-link="https://codesandbox.io/embed/flexible-grid-c5tg6f?fontsize=14&hidenavigation=1&theme=dark"
+        data-link="https://codesandbox.io/embed/grid-rows-8fqjxs?fontsize=14&hidenavigation=1&theme=dark"
       >
         <iframe
           ref="myIframe"

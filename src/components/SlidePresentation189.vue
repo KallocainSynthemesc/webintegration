@@ -1,10 +1,10 @@
 <template>
   <div class="slide">
-    <div class="heading">CSS - Layout - Positionnement absolut</div>
+    <div class="heading">CSS - Layout - Positionnement relatif</div>
     <div class="content">
       <div
         class="iFrame-container"
-        data-link="https://codesandbox.io/embed/position-absolute-cgvvmz?fontsize=14&hidenavigation=1&theme=dark"
+        data-link="https://codesandbox.io/embed/relative-x34ydn?fontsize=14&hidenavigation=1&theme=dark"
       >
         <iframe
           ref="myIframe"

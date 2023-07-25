@@ -1,14 +1,14 @@
 <template>
   <div class="slide">
-    <div class="heading">CSS - Lists - images</div>
+    <div class="heading">CSS - Lists - list-style-type</div>
     <div class="content">
       <p>
-        Vous pouvez spécifier une image qui servira de puce à l'aide de la
-        propriété list-style-image
+        La propriété list-style-type permet de contrôler la forme ou le style
+        d'une puce
       </p>
       <div
         class="iFrame-container"
-        data-link="https://codesandbox.io/embed/list-style-image-43y6zt?fontsize=14&hidenavigation=1&theme=dark"
+        data-link="https://codesandbox.io/embed/list-bullet-type-km38r7?fontsize=14&hidenavigation=1&theme=dark"
       >
         <iframe
           ref="myIframe"

@@ -1,21 +1,21 @@
 <template>
   <div class="slide">
-    <div class="heading">CSS - Répondre aux utilisateurs</div>
+    <div class="heading">CSS - Layout - flex-grow/shrink</div>
     <div class="content">
       <p>
-        Trois pseudo-classes permettent de modifier l'apparence des éléments
-        lorsqu'un utilisateur interagit avec eux.
+        flex-grow et flex-shrink ajoutent des options d'espacement
+        supplémentaires
       </p>
       <div
         class="iFrame-container"
-        data-link="https://codesandbox.io/embed/reverent-water-wsss7x?fontsize=14&hidenavigation=1&theme=dark"
+        data-link="https://codesandbox.io/embed/flex-grow-kqsqj2?fontsize=14&hidenavigation=1&theme=dark"
       >
         <iframe
           ref="myIframe"
           src="favicon.ico"
           style="
             width: 100%;
-            height: 100%;
+            height: 95%;
             border: 0;
             border-radius: 4px;
             overflow: hidden;

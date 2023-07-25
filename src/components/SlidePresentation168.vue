@@ -1,14 +1,11 @@
 <template>
   <div class="slide">
-    <div class="heading">CSS - Box - centrer le contenu</div>
+    <div class="heading">CSS - Box - margin</div>
     <div class="content">
-      <p>
-        Si vous souhaitez centrer une boîte sur la page, vous pouvez régler les
-        marges gauche et droite avec auto.
-      </p>
+      <p>La propriété margin contrôle l'espace entre les cases.</p>
       <div
         class="iFrame-container"
-        data-link="https://codesandbox.io/embed/centering-content-h7qvw9?fontsize=14&hidenavigation=1&theme=dark"
+        data-link="https://codesandbox.io/embed/margin-9wgww2?fontsize=14&hidenavigation=1&theme=dark"
       >
         <iframe
           ref="myIframe"

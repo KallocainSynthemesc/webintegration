@@ -1,24 +1,14 @@
 <template>
   <div class="slide">
-    <div class="heading">CSS - Layout - justify-content</div>
+    <div class="heading">CSS - Layout - align-items</div>
     <div class="content">
-      <p>Jouez à la flexbox froggy du niveau 5 à 14.</p>
-      <div class="iFrame-container" data-link="https://flexboxfroggy.com/">
-        <iframe
-          ref="myIframe"
-          src="favicon.ico"
-          style="
-            width: 100%;
-            height: 95%;
-            border: 0;
-            border-radius: 4px;
-            overflow: hidden;
-          "
-          title="priceless-microservice-jvlqnq"
-          allow="accelerometer; ambient-light-sensor; camera; encrypted-media; geolocation; gyroscope; hid; microphone; midi; payment; usb; vr; xr-spatial-tracking"
-          sandbox="allow-forms allow-modals allow-popups allow-presentation allow-same-origin allow-scripts"
-        ></iframe>
-      </div>
+      <p>
+        Alors que la propriété justify-content définit la manière dont les
+        éléments flexibles sont alignés sur l'axe principal du conteneur flex,
+        la propriété align-items définit la manière dont les éléments flexibles
+        sont alignés sur l'axe transversal de la ligne flex.
+      </p>
+      <img src="../assets/illustrations/text-align.svg" style="width: 100%" />
     </div>
   </div>
 </template>

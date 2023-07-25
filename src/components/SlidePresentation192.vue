@@ -3,19 +3,19 @@
     <div class="heading">CSS - Layout - exercice</div>
     <div class="content">
       <p>
-        Exercice: adapter la liste au style actuel. Essayez de réutiliser les
-        css existants et d'éviter la duplication du code.
+        Exercice (difficile): Ajoutez maintenant l'effet de survol pour que la
+        liste ne s'affiche que lorsque l'élément de navigation est survolé.
       </p>
       <div
         class="iFrame-container"
-        data-link="exercices\css\absolute\third-step\index.html"
+        data-link="exercices\css\absolute\second-step\index.html"
       >
         <iframe
           ref="myIframe"
-          src="exercices\css\absolute\third-step\index.html"
+          src="exercices\css\absolute\second-step\index.html"
           style="
             width: 100%;
-            height: 100%;
+            height: 90%;
             border: 0;
             border-radius: 4px;
             overflow: hidden;
