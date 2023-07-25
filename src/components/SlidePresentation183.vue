@@ -10,7 +10,7 @@
         >
         offre une alternative pour réduire le besoin des labels. Hardmode :
         Implémenter le champ de saisie conditionnel du numéro de téléphone
-        lorsque la case est cochée. est cochée.
+        lorsque la case est cochée.
       </p>
       <div class="iFrame-container" data-link="exercices\css\form\index.html">
         <iframe
