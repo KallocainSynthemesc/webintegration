@@ -225,6 +225,7 @@ import SlidePresentation223 from "./components/SlidePresentation223.vue";
 import SlidePresentation224 from "./components/SlidePresentation224.vue";
 import SlidePresentation225 from "./components/SlidePresentation225.vue";
 import SlidePresentation226 from "./components/SlidePresentation226.vue";
+import SlidePresentation227 from "./components/SlidePresentation227.vue";
 </script>
 
 <template>
@@ -458,6 +459,7 @@ import SlidePresentation226 from "./components/SlidePresentation226.vue";
           <SlidePresentation224></SlidePresentation224>
           <SlidePresentation225></SlidePresentation225>
           <SlidePresentation226></SlidePresentation226>
+          <SlidePresentation227></SlidePresentation227>
         </section>
 
         <section class="counter">
@@ -466,11 +468,11 @@ import SlidePresentation226 from "./components/SlidePresentation226.vue";
             id="index"
             name="index"
             min="1"
-            max="207"
+            max="227"
             value="1"
             style="width: 40%"
           />
-          of 207
+          of 227
         </section>
 
         <section class="navigation">

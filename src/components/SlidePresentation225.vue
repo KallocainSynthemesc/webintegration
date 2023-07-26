@@ -1,14 +1,16 @@
 <template>
   <div class="slide">
-    <div class="heading">CSS - Layout - Using media queries</div>
+    <div class="heading">CSS - Layout - Utilisation des requêtes média</div>
     <div class="content">
       <p>
-        CSS is the most common place to spot a media query in the wild. They go
-        right in the stylesheet in an @media rule that wraps elements with
-        conditions for when and where to apply a set of styles when a browser
-        matches those conditions.
+        Le CSS est l'endroit le plus courant pour repérer une requête média dans
+        la nature. Elles se trouvent directement dans la feuille de style, dans
+        une règle @media qui enveloppe les éléments avec des conditions
+        permettant de savoir quand et où appliquer un ensemble de styles lorsque
+        le navigateur remplit ces conditions.
       </p>
-      <h2>HTML</h2>
+      <img src="../assets/illustrations/mediaquery.svg" style="width: 100%" />
+      <h2>CSS</h2>
       <!-- HTML generated using hilite.me -->
       <div
         style="
