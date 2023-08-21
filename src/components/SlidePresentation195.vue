@@ -1,18 +1,12 @@
 <template>
   <div class="slide">
-    <div class="heading">CSS - Layout - Éléments qui se chevauchent</div>
+    <div class="heading">CSS - Layout - exercice</div>
     <div class="content">
-      <p>
-        Lorsque vous utilisez le positionnement relatif, fixe ou absolu, les
-        boîtes peuvent se chevaucher.
-      </p>
-      <div
-        class="iFrame-container"
-        data-link="https://codesandbox.io/embed/z-index-9pxyqr?fontsize=14&hidenavigation=1&theme=dark"
-      >
+      <p>Exercice: Pouvez-vous fixer le footer en bas de la page ?</p>
+      <div class="iFrame-container" data-link="exercices\css\fixed\index.html">
         <iframe
           ref="myIframe"
-          src="favicon.ico"
+          src="exercices\css\fixed\index.html"
           style="
             width: 100%;
             height: 100%;
@@ -20,9 +14,6 @@
             border-radius: 4px;
             overflow: hidden;
           "
-          title="priceless-microservice-jvlqnq"
-          allow="accelerometer; ambient-light-sensor; camera; encrypted-media; geolocation; gyroscope; hid; microphone; midi; payment; usb; vr; xr-spatial-tracking"
-          sandbox="allow-forms allow-modals allow-popups allow-presentation allow-same-origin allow-scripts"
         ></iframe>
       </div>
     </div>

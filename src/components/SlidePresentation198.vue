@@ -2,41 +2,28 @@
   <div class="slide">
     <div class="heading">CSS - Layout - Grid</div>
     <div class="content">
-      <p>
-        Nous avions l'habitude de créer des grilles avec la propriété float.
-        C'était une véritable plaie. Aujourd'hui, nous disposons de grid et de
-        flexbox comme meilleures alternatives. float peut toujours être utilisé
-        pour que le texte circule autour des images, mais c'est à peu près tout.
-      </p>
-      <div class="app-layout">
-        <div class="tweets">Tweets</div>
-        <div class="replies">Replies</div>
-        <div class="search">Search</div>
-        <div class="messages">Messages</div>
+      <div class="flex-container">
+        <div style="width: 65%">
+          <img src="../assets/illustrations/grid.svg" style="width: 100%" />
+        </div>
+        <div style="width: 30%">
+          <p>
+            Une grid track est un chemin continu entre deux lignes de grille
+            adjacentes - en d'autres termes, une grid column ou une grid row
+          </p>
+          <p>
+            Une grid cell est un espace délimité par quatre lignes de grille,
+            sans qu'aucune ligne de grille ne le traverse, de manière analogue à
+            une cellule de tableau.
+          </p>
+          <p>
+            Une grid area est une zone rectangulaire délimitée par quatre grid
+            lines et composée d'une ou plusieurs grid cells.
+          </p>
+        </div>
       </div>
     </div>
   </div>
 </template>
 
-<style scoped>
-.app-layout {
-  display: grid; /* 1 */
-  grid-template-columns: 1fr 1fr 1fr 1fr; /* 2 */
-  grid-template-rows: 30vh; /* 3 */
-}
-
-.tweets {
-  background-color: lightgreen;
-}
-.replies {
-  background-color: lightcoral;
-}
-
-.search {
-  background-color: lightseagreen;
-}
-
-.messages {
-  background-color: lightpink;
-}
-</style>
+<style scoped></style>

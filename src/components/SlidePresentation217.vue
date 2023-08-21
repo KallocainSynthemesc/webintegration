@@ -1,29 +1,33 @@
 <template>
   <div class="slide">
-    <div class="heading">CSS - Layout - flex-grow/shrink</div>
+    <div class="heading">CSS - Layout - Grid Layout Module vs Flexbox</div>
     <div class="content">
-      <p>
-        flex-grow et flex-shrink ajoutent des options d'espacement
-        supplémentaires
-      </p>
-      <div
-        class="iFrame-container"
-        data-link="https://codesandbox.io/embed/flex-grow-kqsqj2?fontsize=14&hidenavigation=1&theme=dark"
-      >
-        <iframe
-          ref="myIframe"
-          src="favicon.ico"
-          style="
-            width: 100%;
-            height: 95%;
-            border: 0;
-            border-radius: 4px;
-            overflow: hidden;
-          "
-          title="priceless-microservice-jvlqnq"
-          allow="accelerometer; ambient-light-sensor; camera; encrypted-media; geolocation; gyroscope; hid; microphone; midi; payment; usb; vr; xr-spatial-tracking"
-          sandbox="allow-forms allow-modals allow-popups allow-presentation allow-same-origin allow-scripts"
-        ></iframe>
+      <div class="flex-container">
+        <div style="width: 45%">
+          <p>
+            <i>
+              Flexbox convient aux contenus linéaires. La grid convient à la
+              mise en page globale et aux éléments de page complexes dont la
+              conception n'est pas linéaire.
+            </i>
+            ~ Tab Atkins
+          </p>
+          <br />
+          <p>
+            <i>
+              Grid Layout pour la structure de la page principale en lignes et
+              en colonnes. Flexbox pour la navigation, les éléments de
+              l'interface utilisateur, tout ce qui peut être linéarisé.
+            </i>
+            ~ Rachel Andrew
+          </p>
+        </div>
+        <div style="width: 52%">
+          <img
+            src="../assets/illustrations/classiclayout.svg"
+            style="width: 100%"
+          />
+        </div>
       </div>
     </div>
   </div>

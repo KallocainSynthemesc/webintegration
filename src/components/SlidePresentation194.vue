@@ -1,14 +1,14 @@
 <template>
   <div class="slide">
-    <div class="heading">CSS - Layout - fixed</div>
+    <div class="heading">CSS - Layout - Éléments qui se chevauchent</div>
     <div class="content">
       <p>
-        Le positionnement fixe est un type de positionnement absolu qui exige
-        que la propriété position ait une valeur fixe.
+        Lorsque vous utilisez le positionnement relatif, fixe ou absolu, les
+        boîtes peuvent se chevaucher.
       </p>
       <div
         class="iFrame-container"
-        data-link="https://codesandbox.io/embed/modest-brook-nlh2t6?fontsize=14&hidenavigation=1&theme=dark"
+        data-link="https://codesandbox.io/embed/z-index-9pxyqr?fontsize=14&hidenavigation=1&theme=dark"
       >
         <iframe
           ref="myIframe"

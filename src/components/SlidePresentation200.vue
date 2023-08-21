@@ -3,12 +3,12 @@
     <div class="heading">CSS - Layout - Grid</div>
     <div class="content">
       <p>
-        La première étape consiste à créer une grille dont les pistes ont une
-        largeur fixe.
+        Les lignes de la grille sont placées exactement de la même manière que
+        les colonnes.
       </p>
       <div
         class="iFrame-container"
-        data-link="https://codesandbox.io/embed/grid-5jckcp?fontsize=14&hidenavigation=1&theme=dark"
+        data-link="https://codesandbox.io/embed/grid-rows-8fqjxs?fontsize=14&hidenavigation=1&theme=dark"
       >
         <iframe
           ref="myIframe"

@@ -3,26 +3,23 @@
     <div class="heading">CSS - Layout - Using media queries</div>
     <div class="content">
       <p>
-        Sur les écrans d'une largeur inférieure à 450px, la barre de navigation
-        s'empile verticalement.
+        Exercice: Pouvez-vous mettre en œuvre une requête média css similaire ?
       </p>
       <div
         class="iFrame-container"
-        data-link="https://codesandbox.io/embed/media-query-nav-lcy82x?fontsize=14&hidenavigation=1&theme=dark"
+        data-link="exercices\css\mediaquery\simple\index.html"
       >
         <iframe
           ref="myIframe"
-          src="favicon.ico"
+          src="exercices\css\mediaquery\simple\index.html"
           style="
             width: 100%;
-            height: 95%;
+            height: 96%;
             border: 0;
             border-radius: 4px;
-            overflow: hidden;
+            overflow: auto;
+            resize: both;
           "
-          title="priceless-microservice-jvlqnq"
-          allow="accelerometer; ambient-light-sensor; camera; encrypted-media; geolocation; gyroscope; hid; microphone; midi; payment; usb; vr; xr-spatial-tracking"
-          sandbox="allow-forms allow-modals allow-popups allow-presentation allow-same-origin allow-scripts"
         ></iframe>
       </div>
     </div>

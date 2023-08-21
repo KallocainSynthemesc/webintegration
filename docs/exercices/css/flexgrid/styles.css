@@ -20,7 +20,6 @@ html, body {
 }
 
 nav{
-  width: 100vw;
   height: 12vh;
   background-color: #2e2f27ff;
   text-align: left;
@@ -65,43 +64,33 @@ nav p:hover{
   color: rgb(219, 225, 215);
 }
 
-.container {  
-  display: grid;
-  height: 88vh;
-  grid-template-columns: 1fr 1.2fr 1.2fr 0.3fr 0.3fr 2.1fr 0.3fr 1.2fr 1.2fr 1fr;
-  grid-template-rows: 1fr 1fr 1fr 1fr 1fr 1.3fr 0.7fr 1fr 1fr 1fr 1fr 1fr;
-  gap: 0px 0px;
-  grid-auto-flow: row;
-  grid-template-areas:
-    ". . . . . . . . . ."
-    ". Logo Logo Logo . header header header header ."
-    ". Logo Logo Logo . info info info info ."
-    ". Logo Logo Logo . info info info info ."
-    ". Logo Logo Logo . info info info info ."
-    ". Logo Logo Logo . info info info info ."
-    ". . . . . . . . . ."
-    ". art1 art1 . art2 art2 . art3 art3 ."
-    ". art1 art1 . art2 art2 . art3 art3 ."
-    ". art1 art1 . art2 art2 . art3 art3 ."
-    ". art1 art1 . art2 art2 . art3 art3 ."
-    ". . . . . . . . . .";
+.container {
+  display: grid; 
+  grid-template-columns: 1fr 1fr 1fr 1fr 1fr 1fr; 
+  grid-template-rows: 1fr 1fr 1fr 1fr 1fr; 
+  gap: 0px 0px; 
+  grid-template-areas: 
+    "Logo Logo Logo header header header"
+    "Logo Logo Logo info info info"
+    "Logo Logo Logo info info info"
+    "art1 art1 art2 art2 art3 art3"
+    "art1 art1 art2 art2 art3 art3"; 
+  padding-left: 5%;
+  padding-right: 5%;
 }
-
-.art1 { grid-area: art1; }
-
-.art2 { grid-area: art2; }
-
-.art3 { grid-area: art3; }
-
-.Logo { grid-area: Logo; }
-
-.header { grid-area: header; }
-
-.info { grid-area: info; }
+.Logo { 
+  grid-area: Logo; 
+  padding: 2%;
+}
+.header { grid-area: header; padding: 2%;}
+.info { grid-area: info; padding: 2%;}
+.art1 { grid-area: art1; padding: 2%;}
+.art2 { grid-area: art2; padding: 2%;}
+.art3 { grid-area: art3; padding: 2%;}
 
 .Logo img{
   width: 100%;
-  max-height: 100%;
+  max-height: 80%;
 }
 
 .header h1{

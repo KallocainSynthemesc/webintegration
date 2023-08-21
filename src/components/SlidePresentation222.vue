@@ -1,18 +1,18 @@
 <template>
   <div class="slide">
-    <div class="heading">CSS - Layout - Largeur fixe</div>
+    <div class="heading">CSS - Layout - Largeur dynamic</div>
     <div class="content">
       <div class="flex-container">
-        <div style="width: 26%">
+        <div style="width: 40%">
           <p>
-            Les Fixed width layout designs ne changent pas de taille lorsque
+            Les mises en page liquides s'étirent et se contractent à mesure que
             l'utilisateur augmente ou réduit la taille de la fenêtre de son
-            navigateur. Les mesures sont généralement exprimées en pixels.
+            navigateur. Elles ont tendance à utiliser des pourcentages.
           </p>
         </div>
-        <div style="width: 70%">
+        <div style="width: 55%">
           <img
-            src="../assets/illustrations/fixedlayout.svg"
+            src="../assets/illustrations/liquidlayout.svg"
             style="width: 100%"
           />
         </div>

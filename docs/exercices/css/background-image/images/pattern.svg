@@ -1,0 +1,3092 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="520"
+   height="448"
+   viewBox="0 0 520 448"
+   version="1.1"
+   id="svg78"
+   sodipodi:docname="pattern.svg"
+   inkscape:version="1.2.2 (732a01da63, 2022-12-09)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview80"
+     pagecolor="#505050"
+     bordercolor="#eeeeee"
+     borderopacity="1"
+     inkscape:showpageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#505050"
+     showgrid="false"
+     inkscape:zoom="0.65390625"
+     inkscape:cx="422.07885"
+     inkscape:cy="431.25448"
+     inkscape:window-width="1920"
+     inkscape:window-height="1017"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg78" />
+  <desc
+     id="desc42">
+    Masked Hexagons
+    
+    Jay Nick
+    STEAMcoded.org
+  </desc>
+  <defs
+     id="defs57">
+    <pattern
+       id="lines"
+       width="600"
+       height="600"
+       viewBox="0 0 600 600"
+       patternUnits="userSpaceOnUse">
+      <path
+         d="M0,300l600,0"
+         transform="rotate(-60,300,300)"
+         style="stroke:black;stroke-width:600px;stroke-dasharray:45,41.6;stroke-dashoffset:25"
+         id="path44" />
+    </pattern>
+    <symbol
+       id="hexagon"
+       viewBox="0 0 600 600"
+       overflow="visible">
+      <path
+         d="M 300,0 559.8,150 V 450 L 300,600 40.2,450 V 150 Z"
+         id="path47" />
+    </symbol>
+    <mask
+       id="m1">
+      <rect
+         width="100%"
+         height="100%"
+         style="fill:#ffffff;stroke:#ffffff;stroke-width:20px"
+         id="rect50"
+         x="0"
+         y="0" />
+      <use
+         width="300"
+         height="300"
+         xlink:href="#hexagon"
+         transform="rotate(60,225,429.90381)"
+         style="fill:#000000;stroke:#000000;stroke-width:10px"
+         id="use52" />
+      <circle
+         cx="300"
+         cy="300"
+         r="3"
+         style="fill:#ffffff"
+         id="circle54" />
+    </mask>
+    <pattern
+       id="lines-8"
+       width="600"
+       height="600"
+       viewBox="0 0 600 600"
+       patternUnits="userSpaceOnUse">
+      <path
+         d="M0,300l600,0"
+         transform="rotate(-60,300,300)"
+         style="stroke:black;stroke-width:600px;stroke-dasharray:45,41.6;stroke-dashoffset:25"
+         id="path44-2" />
+    </pattern>
+    <mask
+       id="m1-4">
+      <rect
+         width="100%"
+         height="100%"
+         style="fill:#ffffff;stroke:#ffffff;stroke-width:20px"
+         id="rect50-0"
+         x="0"
+         y="0" />
+      <use
+         width="300"
+         height="300"
+         xlink:href="#hexagon"
+         transform="rotate(60,225,429.90381)"
+         style="fill:#000000;stroke:#000000;stroke-width:10px"
+         id="use52-5" />
+      <circle
+         cx="300"
+         cy="300"
+         r="3"
+         style="fill:#ffffff"
+         id="circle54-5" />
+    </mask>
+    <pattern
+       id="pattern2058"
+       width="600"
+       height="600"
+       viewBox="0 0 600 600"
+       patternUnits="userSpaceOnUse">
+      <path
+         d="M0,300l600,0"
+         transform="rotate(-60,300,300)"
+         style="stroke:black;stroke-width:600px;stroke-dasharray:45,41.6;stroke-dashoffset:25"
+         id="path2056" />
+    </pattern>
+    <pattern
+       id="pattern2062"
+       width="600"
+       height="600"
+       viewBox="0 0 600 600"
+       patternUnits="userSpaceOnUse">
+      <path
+         d="M0,300l600,0"
+         transform="rotate(-60,300,300)"
+         style="stroke:black;stroke-width:600px;stroke-dasharray:45,41.6;stroke-dashoffset:25"
+         id="path2060" />
+    </pattern>
+    <pattern
+       id="pattern2066"
+       width="600"
+       height="600"
+       viewBox="0 0 600 600"
+       patternUnits="userSpaceOnUse">
+      <path
+         d="M0,300l600,0"
+         transform="rotate(-60,300,300)"
+         style="stroke:black;stroke-width:600px;stroke-dasharray:45,41.6;stroke-dashoffset:25"
+         id="path2064" />
+    </pattern>
+    <mask
+       id="mask2074">
+      <rect
+         width="100%"
+         height="100%"
+         style="fill:#ffffff;stroke:#ffffff;stroke-width:20px"
+         id="rect2068"
+         x="0"
+         y="0" />
+      <use
+         width="300"
+         height="300"
+         xlink:href="#hexagon"
+         transform="rotate(60,225,429.90381)"
+         style="fill:#000000;stroke:#000000;stroke-width:10px"
+         id="use2070" />
+      <circle
+         cx="300"
+         cy="300"
+         r="3"
+         style="fill:#ffffff"
+         id="circle2072" />
+    </mask>
+    <pattern
+       id="pattern2078"
+       width="600"
+       height="600"
+       viewBox="0 0 600 600"
+       patternUnits="userSpaceOnUse">
+      <path
+         d="M0,300l600,0"
+         transform="rotate(-60,300,300)"
+         style="stroke:black;stroke-width:600px;stroke-dasharray:45,41.6;stroke-dashoffset:25"
+         id="path2076" />
+    </pattern>
+    <pattern
+       id="pattern2082"
+       width="600"
+       height="600"
+       viewBox="0 0 600 600"
+       patternUnits="userSpaceOnUse">
+      <path
+         d="M0,300l600,0"
+         transform="rotate(-60,300,300)"
+         style="stroke:black;stroke-width:600px;stroke-dasharray:45,41.6;stroke-dashoffset:25"
+         id="path2080" />
+    </pattern>
+    <pattern
+       id="pattern2086"
+       width="600"
+       height="600"
+       viewBox="0 0 600 600"
+       patternUnits="userSpaceOnUse">
+      <path
+         d="M0,300l600,0"
+         transform="rotate(-60,300,300)"
+         style="stroke:black;stroke-width:600px;stroke-dasharray:45,41.6;stroke-dashoffset:25"
+         id="path2084" />
+    </pattern>
+    <mask
+       id="mask2094">
+      <rect
+         width="100%"
+         height="100%"
+         style="fill:#ffffff;stroke:#ffffff;stroke-width:20px"
+         id="rect2088"
+         x="0"
+         y="0" />
+      <use
+         width="300"
+         height="300"
+         xlink:href="#hexagon"
+         transform="rotate(60,225,429.90381)"
+         style="fill:#000000;stroke:#000000;stroke-width:10px"
+         id="use2090" />
+      <circle
+         cx="300"
+         cy="300"
+         r="3"
+         style="fill:#ffffff"
+         id="circle2092" />
+    </mask>
+    <pattern
+       id="pattern2098"
+       width="600"
+       height="600"
+       viewBox="0 0 600 600"
+       patternUnits="userSpaceOnUse">
+      <path
+         d="M0,300l600,0"
+         transform="rotate(-60,300,300)"
+         style="stroke:black;stroke-width:600px;stroke-dasharray:45,41.6;stroke-dashoffset:25"
+         id="path2096" />
+    </pattern>
+    <pattern
+       id="pattern2102"
+       width="600"
+       height="600"
+       viewBox="0 0 600 600"
+       patternUnits="userSpaceOnUse">
+      <path
+         d="M0,300l600,0"
+         transform="rotate(-60,300,300)"
+         style="stroke:black;stroke-width:600px;stroke-dasharray:45,41.6;stroke-dashoffset:25"
+         id="path2100" />
+    </pattern>
+    <pattern
+       id="pattern2106"
+       width="600"
+       height="600"
+       viewBox="0 0 600 600"
+       patternUnits="userSpaceOnUse">
+      <path
+         d="M0,300l600,0"
+         transform="rotate(-60,300,300)"
+         style="stroke:black;stroke-width:600px;stroke-dasharray:45,41.6;stroke-dashoffset:25"
+         id="path2104" />
+    </pattern>
+    <mask
+       id="mask2114">
+      <rect
+         width="100%"
+         height="100%"
+         style="fill:#ffffff;stroke:#ffffff;stroke-width:20px"
+         id="rect2108"
+         x="0"
+         y="0" />
+      <use
+         width="300"
+         height="300"
+         xlink:href="#hexagon"
+         transform="rotate(60,225,429.90381)"
+         style="fill:#000000;stroke:#000000;stroke-width:10px"
+         id="use2110" />
+      <circle
+         cx="300"
+         cy="300"
+         r="3"
+         style="fill:#ffffff"
+         id="circle2112" />
+    </mask>
+    <pattern
+       id="pattern2118"
+       width="600"
+       height="600"
+       viewBox="0 0 600 600"
+       patternUnits="userSpaceOnUse">
+      <path
+         d="M0,300l600,0"
+         transform="rotate(-60,300,300)"
+         style="stroke:black;stroke-width:600px;stroke-dasharray:45,41.6;stroke-dashoffset:25"
+         id="path2116" />
+    </pattern>
+    <pattern
+       id="pattern2122"
+       width="600"
+       height="600"
+       viewBox="0 0 600 600"
+       patternUnits="userSpaceOnUse">
+      <path
+         d="M0,300l600,0"
+         transform="rotate(-60,300,300)"
+         style="stroke:black;stroke-width:600px;stroke-dasharray:45,41.6;stroke-dashoffset:25"
+         id="path2120" />
+    </pattern>
+    <pattern
+       id="pattern2126"
+       width="600"
+       height="600"
+       viewBox="0 0 600 600"
+       patternUnits="userSpaceOnUse">
+      <path
+         d="M0,300l600,0"
+         transform="rotate(-60,300,300)"
+         style="stroke:black;stroke-width:600px;stroke-dasharray:45,41.6;stroke-dashoffset:25"
+         id="path2124" />
+    </pattern>
+    <mask
+       id="mask2134">
+      <rect
+         width="100%"
+         height="100%"
+         style="fill:#ffffff;stroke:#ffffff;stroke-width:20px"
+         id="rect2128"
+         x="0"
+         y="0" />
+      <use
+         width="300"
+         height="300"
+         xlink:href="#hexagon"
+         transform="rotate(60,225,429.90381)"
+         style="fill:#000000;stroke:#000000;stroke-width:10px"
+         id="use2130" />
+      <circle
+         cx="300"
+         cy="300"
+         r="3"
+         style="fill:#ffffff"
+         id="circle2132" />
+    </mask>
+    <pattern
+       id="pattern2138"
+       width="600"
+       height="600"
+       viewBox="0 0 600 600"
+       patternUnits="userSpaceOnUse">
+      <path
+         d="M0,300l600,0"
+         transform="rotate(-60,300,300)"
+         style="stroke:black;stroke-width:600px;stroke-dasharray:45,41.6;stroke-dashoffset:25"
+         id="path2136" />
+    </pattern>
+    <pattern
+       id="pattern2142"
+       width="600"
+       height="600"
+       viewBox="0 0 600 600"
+       patternUnits="userSpaceOnUse">
+      <path
+         d="M0,300l600,0"
+         transform="rotate(-60,300,300)"
+         style="stroke:black;stroke-width:600px;stroke-dasharray:45,41.6;stroke-dashoffset:25"
+         id="path2140" />
+    </pattern>
+    <pattern
+       id="pattern2146"
+       width="600"
+       height="600"
+       viewBox="0 0 600 600"
+       patternUnits="userSpaceOnUse">
+      <path
+         d="M0,300l600,0"
+         transform="rotate(-60,300,300)"
+         style="stroke:black;stroke-width:600px;stroke-dasharray:45,41.6;stroke-dashoffset:25"
+         id="path2144" />
+    </pattern>
+    <mask
+       id="mask2154">
+      <rect
+         width="100%"
+         height="100%"
+         style="fill:#ffffff;stroke:#ffffff;stroke-width:20px"
+         id="rect2148"
+         x="0"
+         y="0" />
+      <use
+         width="300"
+         height="300"
+         xlink:href="#hexagon"
+         transform="rotate(60,225,429.90381)"
+         style="fill:#000000;stroke:#000000;stroke-width:10px"
+         id="use2150" />
+      <circle
+         cx="300"
+         cy="300"
+         r="3"
+         style="fill:#ffffff"
+         id="circle2152" />
+    </mask>
+    <pattern
+       id="pattern2158"
+       width="600"
+       height="600"
+       viewBox="0 0 600 600"
+       patternUnits="userSpaceOnUse">
+      <path
+         d="M0,300l600,0"
+         transform="rotate(-60,300,300)"
+         style="stroke:black;stroke-width:600px;stroke-dasharray:45,41.6;stroke-dashoffset:25"
+         id="path2156" />
+    </pattern>
+    <pattern
+       id="pattern2162"
+       width="600"
+       height="600"
+       viewBox="0 0 600 600"
+       patternUnits="userSpaceOnUse">
+      <path
+         d="M0,300l600,0"
+         transform="rotate(-60,300,300)"
+         style="stroke:black;stroke-width:600px;stroke-dasharray:45,41.6;stroke-dashoffset:25"
+         id="path2160" />
+    </pattern>
+    <pattern
+       id="pattern2166"
+       width="600"
+       height="600"
+       viewBox="0 0 600 600"
+       patternUnits="userSpaceOnUse">
+      <path
+         d="M0,300l600,0"
+         transform="rotate(-60,300,300)"
+         style="stroke:black;stroke-width:600px;stroke-dasharray:45,41.6;stroke-dashoffset:25"
+         id="path2164" />
+    </pattern>
+    <mask
+       id="mask2174">
+      <rect
+         width="100%"
+         height="100%"
+         style="fill:#ffffff;stroke:#ffffff;stroke-width:20px"
+         id="rect2168"
+         x="0"
+         y="0" />
+      <use
+         width="300"
+         height="300"
+         xlink:href="#hexagon"
+         transform="rotate(60,225,429.90381)"
+         style="fill:#000000;stroke:#000000;stroke-width:10px"
+         id="use2170" />
+      <circle
+         cx="300"
+         cy="300"
+         r="3"
+         style="fill:#ffffff"
+         id="circle2172" />
+    </mask>
+    <pattern
+       id="pattern2178"
+       width="600"
+       height="600"
+       viewBox="0 0 600 600"
+       patternUnits="userSpaceOnUse">
+      <path
+         d="M0,300l600,0"
+         transform="rotate(-60,300,300)"
+         style="stroke:black;stroke-width:600px;stroke-dasharray:45,41.6;stroke-dashoffset:25"
+         id="path2176" />
+    </pattern>
+    <pattern
+       id="pattern2182"
+       width="600"
+       height="600"
+       viewBox="0 0 600 600"
+       patternUnits="userSpaceOnUse">
+      <path
+         d="M0,300l600,0"
+         transform="rotate(-60,300,300)"
+         style="stroke:black;stroke-width:600px;stroke-dasharray:45,41.6;stroke-dashoffset:25"
+         id="path2180" />
+    </pattern>
+    <pattern
+       id="pattern2186"
+       width="600"
+       height="600"
+       viewBox="0 0 600 600"
+       patternUnits="userSpaceOnUse">
+      <path
+         d="M0,300l600,0"
+         transform="rotate(-60,300,300)"
+         style="stroke:black;stroke-width:600px;stroke-dasharray:45,41.6;stroke-dashoffset:25"
+         id="path2184" />
+    </pattern>
+    <pattern
+       id="lines-4"
+       width="600"
+       height="600"
+       viewBox="0 0 600 600"
+       patternUnits="userSpaceOnUse">
+      <path
+         d="M0,300l600,0"
+         transform="rotate(-60,300,300)"
+         style="stroke:black;stroke-width:600px;stroke-dasharray:45,41.6;stroke-dashoffset:25"
+         id="path44-5" />
+    </pattern>
+    <mask
+       id="m1-2">
+      <rect
+         width="100%"
+         height="100%"
+         style="fill:#ffffff;stroke:#ffffff;stroke-width:20px"
+         id="rect50-07"
+         x="0"
+         y="0" />
+      <use
+         width="300"
+         height="300"
+         xlink:href="#hexagon"
+         transform="rotate(60,225,429.90381)"
+         style="fill:#000000;stroke:#000000;stroke-width:10px"
+         id="use52-9" />
+      <circle
+         cx="300"
+         cy="300"
+         r="3"
+         style="fill:#ffffff"
+         id="circle54-6" />
+    </mask>
+    <pattern
+       id="pattern2058-5"
+       width="600"
+       height="600"
+       viewBox="0 0 600 600"
+       patternUnits="userSpaceOnUse">
+      <path
+         d="M0,300l600,0"
+         transform="rotate(-60,300,300)"
+         style="stroke:black;stroke-width:600px;stroke-dasharray:45,41.6;stroke-dashoffset:25"
+         id="path2056-9" />
+    </pattern>
+    <pattern
+       id="pattern2062-4"
+       width="600"
+       height="600"
+       viewBox="0 0 600 600"
+       patternUnits="userSpaceOnUse">
+      <path
+         d="M0,300l600,0"
+         transform="rotate(-60,300,300)"
+         style="stroke:black;stroke-width:600px;stroke-dasharray:45,41.6;stroke-dashoffset:25"
+         id="path2060-5" />
+    </pattern>
+    <pattern
+       id="pattern2066-1"
+       width="600"
+       height="600"
+       viewBox="0 0 600 600"
+       patternUnits="userSpaceOnUse">
+      <path
+         d="M0,300l600,0"
+         transform="rotate(-60,300,300)"
+         style="stroke:black;stroke-width:600px;stroke-dasharray:45,41.6;stroke-dashoffset:25"
+         id="path2064-0" />
+    </pattern>
+    <mask
+       id="mask2074-1">
+      <rect
+         width="100%"
+         height="100%"
+         style="fill:#ffffff;stroke:#ffffff;stroke-width:20px"
+         id="rect2068-9"
+         x="0"
+         y="0" />
+      <use
+         width="300"
+         height="300"
+         xlink:href="#hexagon"
+         transform="rotate(60,225,429.90381)"
+         style="fill:#000000;stroke:#000000;stroke-width:10px"
+         id="use2070-1" />
+      <circle
+         cx="300"
+         cy="300"
+         r="3"
+         style="fill:#ffffff"
+         id="circle2072-9" />
+    </mask>
+    <pattern
+       id="pattern2078-8"
+       width="600"
+       height="600"
+       viewBox="0 0 600 600"
+       patternUnits="userSpaceOnUse">
+      <path
+         d="M0,300l600,0"
+         transform="rotate(-60,300,300)"
+         style="stroke:black;stroke-width:600px;stroke-dasharray:45,41.6;stroke-dashoffset:25"
+         id="path2076-7" />
+    </pattern>
+    <pattern
+       id="pattern2082-6"
+       width="600"
+       height="600"
+       viewBox="0 0 600 600"
+       patternUnits="userSpaceOnUse">
+      <path
+         d="M0,300l600,0"
+         transform="rotate(-60,300,300)"
+         style="stroke:black;stroke-width:600px;stroke-dasharray:45,41.6;stroke-dashoffset:25"
+         id="path2080-3" />
+    </pattern>
+    <pattern
+       id="pattern2086-8"
+       width="600"
+       height="600"
+       viewBox="0 0 600 600"
+       patternUnits="userSpaceOnUse">
+      <path
+         d="M0,300l600,0"
+         transform="rotate(-60,300,300)"
+         style="stroke:black;stroke-width:600px;stroke-dasharray:45,41.6;stroke-dashoffset:25"
+         id="path2084-9" />
+    </pattern>
+    <mask
+       id="mask2094-8">
+      <rect
+         width="100%"
+         height="100%"
+         style="fill:#ffffff;stroke:#ffffff;stroke-width:20px"
+         id="rect2088-8"
+         x="0"
+         y="0" />
+      <use
+         width="300"
+         height="300"
+         xlink:href="#hexagon"
+         transform="rotate(60,225,429.90381)"
+         style="fill:#000000;stroke:#000000;stroke-width:10px"
+         id="use2090-5" />
+      <circle
+         cx="300"
+         cy="300"
+         r="3"
+         style="fill:#ffffff"
+         id="circle2092-3" />
+    </mask>
+    <pattern
+       id="pattern2098-4"
+       width="600"
+       height="600"
+       viewBox="0 0 600 600"
+       patternUnits="userSpaceOnUse">
+      <path
+         d="M0,300l600,0"
+         transform="rotate(-60,300,300)"
+         style="stroke:black;stroke-width:600px;stroke-dasharray:45,41.6;stroke-dashoffset:25"
+         id="path2096-6" />
+    </pattern>
+    <pattern
+       id="pattern2102-8"
+       width="600"
+       height="600"
+       viewBox="0 0 600 600"
+       patternUnits="userSpaceOnUse">
+      <path
+         d="M0,300l600,0"
+         transform="rotate(-60,300,300)"
+         style="stroke:black;stroke-width:600px;stroke-dasharray:45,41.6;stroke-dashoffset:25"
+         id="path2100-3" />
+    </pattern>
+    <pattern
+       id="pattern2106-9"
+       width="600"
+       height="600"
+       viewBox="0 0 600 600"
+       patternUnits="userSpaceOnUse">
+      <path
+         d="M0,300l600,0"
+         transform="rotate(-60,300,300)"
+         style="stroke:black;stroke-width:600px;stroke-dasharray:45,41.6;stroke-dashoffset:25"
+         id="path2104-4" />
+    </pattern>
+    <mask
+       id="mask2114-5">
+      <rect
+         width="100%"
+         height="100%"
+         style="fill:#ffffff;stroke:#ffffff;stroke-width:20px"
+         id="rect2108-3"
+         x="0"
+         y="0" />
+      <use
+         width="300"
+         height="300"
+         xlink:href="#hexagon"
+         transform="rotate(60,225,429.90381)"
+         style="fill:#000000;stroke:#000000;stroke-width:10px"
+         id="use2110-5" />
+      <circle
+         cx="300"
+         cy="300"
+         r="3"
+         style="fill:#ffffff"
+         id="circle2112-8" />
+    </mask>
+    <pattern
+       id="pattern2118-6"
+       width="600"
+       height="600"
+       viewBox="0 0 600 600"
+       patternUnits="userSpaceOnUse">
+      <path
+         d="M0,300l600,0"
+         transform="rotate(-60,300,300)"
+         style="stroke:black;stroke-width:600px;stroke-dasharray:45,41.6;stroke-dashoffset:25"
+         id="path2116-9" />
+    </pattern>
+    <pattern
+       id="pattern2122-8"
+       width="600"
+       height="600"
+       viewBox="0 0 600 600"
+       patternUnits="userSpaceOnUse">
+      <path
+         d="M0,300l600,0"
+         transform="rotate(-60,300,300)"
+         style="stroke:black;stroke-width:600px;stroke-dasharray:45,41.6;stroke-dashoffset:25"
+         id="path2120-5" />
+    </pattern>
+    <pattern
+       id="pattern2126-8"
+       width="600"
+       height="600"
+       viewBox="0 0 600 600"
+       patternUnits="userSpaceOnUse">
+      <path
+         d="M0,300l600,0"
+         transform="rotate(-60,300,300)"
+         style="stroke:black;stroke-width:600px;stroke-dasharray:45,41.6;stroke-dashoffset:25"
+         id="path2124-9" />
+    </pattern>
+    <mask
+       id="mask2134-3">
+      <rect
+         width="100%"
+         height="100%"
+         style="fill:#ffffff;stroke:#ffffff;stroke-width:20px"
+         id="rect2128-1"
+         x="0"
+         y="0" />
+      <use
+         width="300"
+         height="300"
+         xlink:href="#hexagon"
+         transform="rotate(60,225,429.90381)"
+         style="fill:#000000;stroke:#000000;stroke-width:10px"
+         id="use2130-0" />
+      <circle
+         cx="300"
+         cy="300"
+         r="3"
+         style="fill:#ffffff"
+         id="circle2132-6" />
+    </mask>
+    <pattern
+       id="pattern2138-4"
+       width="600"
+       height="600"
+       viewBox="0 0 600 600"
+       patternUnits="userSpaceOnUse">
+      <path
+         d="M0,300l600,0"
+         transform="rotate(-60,300,300)"
+         style="stroke:black;stroke-width:600px;stroke-dasharray:45,41.6;stroke-dashoffset:25"
+         id="path2136-4" />
+    </pattern>
+    <pattern
+       id="pattern2142-0"
+       width="600"
+       height="600"
+       viewBox="0 0 600 600"
+       patternUnits="userSpaceOnUse">
+      <path
+         d="M0,300l600,0"
+         transform="rotate(-60,300,300)"
+         style="stroke:black;stroke-width:600px;stroke-dasharray:45,41.6;stroke-dashoffset:25"
+         id="path2140-3" />
+    </pattern>
+    <pattern
+       id="pattern2146-8"
+       width="600"
+       height="600"
+       viewBox="0 0 600 600"
+       patternUnits="userSpaceOnUse">
+      <path
+         d="M0,300l600,0"
+         transform="rotate(-60,300,300)"
+         style="stroke:black;stroke-width:600px;stroke-dasharray:45,41.6;stroke-dashoffset:25"
+         id="path2144-8" />
+    </pattern>
+    <mask
+       id="mask2154-2">
+      <rect
+         width="100%"
+         height="100%"
+         style="fill:#ffffff;stroke:#ffffff;stroke-width:20px"
+         id="rect2148-3"
+         x="0"
+         y="0" />
+      <use
+         width="300"
+         height="300"
+         xlink:href="#hexagon"
+         transform="rotate(60,225,429.90381)"
+         style="fill:#000000;stroke:#000000;stroke-width:10px"
+         id="use2150-1" />
+      <circle
+         cx="300"
+         cy="300"
+         r="3"
+         style="fill:#ffffff"
+         id="circle2152-8" />
+    </mask>
+    <pattern
+       id="pattern2158-0"
+       width="600"
+       height="600"
+       viewBox="0 0 600 600"
+       patternUnits="userSpaceOnUse">
+      <path
+         d="M0,300l600,0"
+         transform="rotate(-60,300,300)"
+         style="stroke:black;stroke-width:600px;stroke-dasharray:45,41.6;stroke-dashoffset:25"
+         id="path2156-0" />
+    </pattern>
+    <pattern
+       id="pattern2162-3"
+       width="600"
+       height="600"
+       viewBox="0 0 600 600"
+       patternUnits="userSpaceOnUse">
+      <path
+         d="M0,300l600,0"
+         transform="rotate(-60,300,300)"
+         style="stroke:black;stroke-width:600px;stroke-dasharray:45,41.6;stroke-dashoffset:25"
+         id="path2160-0" />
+    </pattern>
+    <pattern
+       id="pattern2166-0"
+       width="600"
+       height="600"
+       viewBox="0 0 600 600"
+       patternUnits="userSpaceOnUse">
+      <path
+         d="M0,300l600,0"
+         transform="rotate(-60,300,300)"
+         style="stroke:black;stroke-width:600px;stroke-dasharray:45,41.6;stroke-dashoffset:25"
+         id="path2164-2" />
+    </pattern>
+    <mask
+       id="mask2174-3">
+      <rect
+         width="100%"
+         height="100%"
+         style="fill:#ffffff;stroke:#ffffff;stroke-width:20px"
+         id="rect2168-8"
+         x="0"
+         y="0" />
+      <use
+         width="300"
+         height="300"
+         xlink:href="#hexagon"
+         transform="rotate(60,225,429.90381)"
+         style="fill:#000000;stroke:#000000;stroke-width:10px"
+         id="use2170-8" />
+      <circle
+         cx="300"
+         cy="300"
+         r="3"
+         style="fill:#ffffff"
+         id="circle2172-6" />
+    </mask>
+    <pattern
+       id="pattern2178-9"
+       width="600"
+       height="600"
+       viewBox="0 0 600 600"
+       patternUnits="userSpaceOnUse">
+      <path
+         d="M0,300l600,0"
+         transform="rotate(-60,300,300)"
+         style="stroke:black;stroke-width:600px;stroke-dasharray:45,41.6;stroke-dashoffset:25"
+         id="path2176-0" />
+    </pattern>
+    <pattern
+       id="pattern2182-7"
+       width="600"
+       height="600"
+       viewBox="0 0 600 600"
+       patternUnits="userSpaceOnUse">
+      <path
+         d="M0,300l600,0"
+         transform="rotate(-60,300,300)"
+         style="stroke:black;stroke-width:600px;stroke-dasharray:45,41.6;stroke-dashoffset:25"
+         id="path2180-2" />
+    </pattern>
+    <pattern
+       id="pattern2186-8"
+       width="600"
+       height="600"
+       viewBox="0 0 600 600"
+       patternUnits="userSpaceOnUse">
+      <path
+         d="M0,300l600,0"
+         transform="rotate(-60,300,300)"
+         style="stroke:black;stroke-width:600px;stroke-dasharray:45,41.6;stroke-dashoffset:25"
+         id="path2184-2" />
+    </pattern>
+    <pattern
+       id="lines-4-1"
+       width="600"
+       height="600"
+       viewBox="0 0 600 600"
+       patternUnits="userSpaceOnUse">
+      <path
+         d="M0,300l600,0"
+         transform="rotate(-60,300,300)"
+         style="stroke:black;stroke-width:600px;stroke-dasharray:45,41.6;stroke-dashoffset:25"
+         id="path44-5-5" />
+    </pattern>
+    <mask
+       id="m1-2-5">
+      <rect
+         width="100%"
+         height="100%"
+         style="fill:#ffffff;stroke:#ffffff;stroke-width:20px"
+         id="rect50-07-0"
+         x="0"
+         y="0" />
+      <use
+         width="300"
+         height="300"
+         xlink:href="#hexagon"
+         transform="rotate(60,225,429.90381)"
+         style="fill:#000000;stroke:#000000;stroke-width:10px"
+         id="use52-9-7" />
+      <circle
+         cx="300"
+         cy="300"
+         r="3"
+         style="fill:#ffffff"
+         id="circle54-6-8" />
+    </mask>
+    <pattern
+       id="pattern4225"
+       width="600"
+       height="600"
+       viewBox="0 0 600 600"
+       patternUnits="userSpaceOnUse">
+      <path
+         d="M0,300l600,0"
+         transform="rotate(-60,300,300)"
+         style="stroke:black;stroke-width:600px;stroke-dasharray:45,41.6;stroke-dashoffset:25"
+         id="path4223" />
+    </pattern>
+    <pattern
+       id="pattern4229"
+       width="600"
+       height="600"
+       viewBox="0 0 600 600"
+       patternUnits="userSpaceOnUse">
+      <path
+         d="M0,300l600,0"
+         transform="rotate(-60,300,300)"
+         style="stroke:black;stroke-width:600px;stroke-dasharray:45,41.6;stroke-dashoffset:25"
+         id="path4227" />
+    </pattern>
+    <pattern
+       id="pattern4233"
+       width="600"
+       height="600"
+       viewBox="0 0 600 600"
+       patternUnits="userSpaceOnUse">
+      <path
+         d="M0,300l600,0"
+         transform="rotate(-60,300,300)"
+         style="stroke:black;stroke-width:600px;stroke-dasharray:45,41.6;stroke-dashoffset:25"
+         id="path4231" />
+    </pattern>
+    <mask
+       id="mask4241">
+      <rect
+         width="100%"
+         height="100%"
+         style="fill:#ffffff;stroke:#ffffff;stroke-width:20px"
+         id="rect4235"
+         x="0"
+         y="0" />
+      <use
+         width="300"
+         height="300"
+         xlink:href="#hexagon"
+         transform="rotate(60,225,429.90381)"
+         style="fill:#000000;stroke:#000000;stroke-width:10px"
+         id="use4237" />
+      <circle
+         cx="300"
+         cy="300"
+         r="3"
+         style="fill:#ffffff"
+         id="circle4239" />
+    </mask>
+    <pattern
+       id="pattern4245"
+       width="600"
+       height="600"
+       viewBox="0 0 600 600"
+       patternUnits="userSpaceOnUse">
+      <path
+         d="M0,300l600,0"
+         transform="rotate(-60,300,300)"
+         style="stroke:black;stroke-width:600px;stroke-dasharray:45,41.6;stroke-dashoffset:25"
+         id="path4243" />
+    </pattern>
+    <pattern
+       id="pattern4249"
+       width="600"
+       height="600"
+       viewBox="0 0 600 600"
+       patternUnits="userSpaceOnUse">
+      <path
+         d="M0,300l600,0"
+         transform="rotate(-60,300,300)"
+         style="stroke:black;stroke-width:600px;stroke-dasharray:45,41.6;stroke-dashoffset:25"
+         id="path4247" />
+    </pattern>
+    <pattern
+       id="pattern4253"
+       width="600"
+       height="600"
+       viewBox="0 0 600 600"
+       patternUnits="userSpaceOnUse">
+      <path
+         d="M0,300l600,0"
+         transform="rotate(-60,300,300)"
+         style="stroke:black;stroke-width:600px;stroke-dasharray:45,41.6;stroke-dashoffset:25"
+         id="path4251" />
+    </pattern>
+    <mask
+       id="mask4261">
+      <rect
+         width="100%"
+         height="100%"
+         style="fill:#ffffff;stroke:#ffffff;stroke-width:20px"
+         id="rect4255"
+         x="0"
+         y="0" />
+      <use
+         width="300"
+         height="300"
+         xlink:href="#hexagon"
+         transform="rotate(60,225,429.90381)"
+         style="fill:#000000;stroke:#000000;stroke-width:10px"
+         id="use4257" />
+      <circle
+         cx="300"
+         cy="300"
+         r="3"
+         style="fill:#ffffff"
+         id="circle4259" />
+    </mask>
+    <pattern
+       id="pattern4265"
+       width="600"
+       height="600"
+       viewBox="0 0 600 600"
+       patternUnits="userSpaceOnUse">
+      <path
+         d="M0,300l600,0"
+         transform="rotate(-60,300,300)"
+         style="stroke:black;stroke-width:600px;stroke-dasharray:45,41.6;stroke-dashoffset:25"
+         id="path4263" />
+    </pattern>
+    <pattern
+       id="pattern4269"
+       width="600"
+       height="600"
+       viewBox="0 0 600 600"
+       patternUnits="userSpaceOnUse">
+      <path
+         d="M0,300l600,0"
+         transform="rotate(-60,300,300)"
+         style="stroke:black;stroke-width:600px;stroke-dasharray:45,41.6;stroke-dashoffset:25"
+         id="path4267" />
+    </pattern>
+    <pattern
+       id="pattern4273"
+       width="600"
+       height="600"
+       viewBox="0 0 600 600"
+       patternUnits="userSpaceOnUse">
+      <path
+         d="M0,300l600,0"
+         transform="rotate(-60,300,300)"
+         style="stroke:black;stroke-width:600px;stroke-dasharray:45,41.6;stroke-dashoffset:25"
+         id="path4271" />
+    </pattern>
+    <mask
+       id="mask4281">
+      <rect
+         width="100%"
+         height="100%"
+         style="fill:#ffffff;stroke:#ffffff;stroke-width:20px"
+         id="rect4275"
+         x="0"
+         y="0" />
+      <use
+         width="300"
+         height="300"
+         xlink:href="#hexagon"
+         transform="rotate(60,225,429.90381)"
+         style="fill:#000000;stroke:#000000;stroke-width:10px"
+         id="use4277" />
+      <circle
+         cx="300"
+         cy="300"
+         r="3"
+         style="fill:#ffffff"
+         id="circle4279" />
+    </mask>
+    <pattern
+       id="pattern4285"
+       width="600"
+       height="600"
+       viewBox="0 0 600 600"
+       patternUnits="userSpaceOnUse">
+      <path
+         d="M0,300l600,0"
+         transform="rotate(-60,300,300)"
+         style="stroke:black;stroke-width:600px;stroke-dasharray:45,41.6;stroke-dashoffset:25"
+         id="path4283" />
+    </pattern>
+    <pattern
+       id="pattern4289"
+       width="600"
+       height="600"
+       viewBox="0 0 600 600"
+       patternUnits="userSpaceOnUse">
+      <path
+         d="M0,300l600,0"
+         transform="rotate(-60,300,300)"
+         style="stroke:black;stroke-width:600px;stroke-dasharray:45,41.6;stroke-dashoffset:25"
+         id="path4287" />
+    </pattern>
+    <pattern
+       id="pattern4293"
+       width="600"
+       height="600"
+       viewBox="0 0 600 600"
+       patternUnits="userSpaceOnUse">
+      <path
+         d="M0,300l600,0"
+         transform="rotate(-60,300,300)"
+         style="stroke:black;stroke-width:600px;stroke-dasharray:45,41.6;stroke-dashoffset:25"
+         id="path4291" />
+    </pattern>
+    <mask
+       id="mask4301">
+      <rect
+         width="100%"
+         height="100%"
+         style="fill:#ffffff;stroke:#ffffff;stroke-width:20px"
+         id="rect4295"
+         x="0"
+         y="0" />
+      <use
+         width="300"
+         height="300"
+         xlink:href="#hexagon"
+         transform="rotate(60,225,429.90381)"
+         style="fill:#000000;stroke:#000000;stroke-width:10px"
+         id="use4297" />
+      <circle
+         cx="300"
+         cy="300"
+         r="3"
+         style="fill:#ffffff"
+         id="circle4299" />
+    </mask>
+    <pattern
+       id="pattern4305"
+       width="600"
+       height="600"
+       viewBox="0 0 600 600"
+       patternUnits="userSpaceOnUse">
+      <path
+         d="M0,300l600,0"
+         transform="rotate(-60,300,300)"
+         style="stroke:black;stroke-width:600px;stroke-dasharray:45,41.6;stroke-dashoffset:25"
+         id="path4303" />
+    </pattern>
+    <pattern
+       id="pattern4309"
+       width="600"
+       height="600"
+       viewBox="0 0 600 600"
+       patternUnits="userSpaceOnUse">
+      <path
+         d="M0,300l600,0"
+         transform="rotate(-60,300,300)"
+         style="stroke:black;stroke-width:600px;stroke-dasharray:45,41.6;stroke-dashoffset:25"
+         id="path4307" />
+    </pattern>
+    <pattern
+       id="pattern4313"
+       width="600"
+       height="600"
+       viewBox="0 0 600 600"
+       patternUnits="userSpaceOnUse">
+      <path
+         d="M0,300l600,0"
+         transform="rotate(-60,300,300)"
+         style="stroke:black;stroke-width:600px;stroke-dasharray:45,41.6;stroke-dashoffset:25"
+         id="path4311" />
+    </pattern>
+    <mask
+       id="mask4321">
+      <rect
+         width="100%"
+         height="100%"
+         style="fill:#ffffff;stroke:#ffffff;stroke-width:20px"
+         id="rect4315"
+         x="0"
+         y="0" />
+      <use
+         width="300"
+         height="300"
+         xlink:href="#hexagon"
+         transform="rotate(60,225,429.90381)"
+         style="fill:#000000;stroke:#000000;stroke-width:10px"
+         id="use4317" />
+      <circle
+         cx="300"
+         cy="300"
+         r="3"
+         style="fill:#ffffff"
+         id="circle4319" />
+    </mask>
+    <pattern
+       id="pattern4325"
+       width="600"
+       height="600"
+       viewBox="0 0 600 600"
+       patternUnits="userSpaceOnUse">
+      <path
+         d="M0,300l600,0"
+         transform="rotate(-60,300,300)"
+         style="stroke:black;stroke-width:600px;stroke-dasharray:45,41.6;stroke-dashoffset:25"
+         id="path4323" />
+    </pattern>
+    <pattern
+       id="pattern4329"
+       width="600"
+       height="600"
+       viewBox="0 0 600 600"
+       patternUnits="userSpaceOnUse">
+      <path
+         d="M0,300l600,0"
+         transform="rotate(-60,300,300)"
+         style="stroke:black;stroke-width:600px;stroke-dasharray:45,41.6;stroke-dashoffset:25"
+         id="path4327" />
+    </pattern>
+    <pattern
+       id="pattern4333"
+       width="600"
+       height="600"
+       viewBox="0 0 600 600"
+       patternUnits="userSpaceOnUse">
+      <path
+         d="M0,300l600,0"
+         transform="rotate(-60,300,300)"
+         style="stroke:black;stroke-width:600px;stroke-dasharray:45,41.6;stroke-dashoffset:25"
+         id="path4331" />
+    </pattern>
+    <mask
+       id="mask4341">
+      <rect
+         width="100%"
+         height="100%"
+         style="fill:#ffffff;stroke:#ffffff;stroke-width:20px"
+         id="rect4335"
+         x="0"
+         y="0" />
+      <use
+         width="300"
+         height="300"
+         xlink:href="#hexagon"
+         transform="rotate(60,225,429.90381)"
+         style="fill:#000000;stroke:#000000;stroke-width:10px"
+         id="use4337" />
+      <circle
+         cx="300"
+         cy="300"
+         r="3"
+         style="fill:#ffffff"
+         id="circle4339" />
+    </mask>
+    <pattern
+       id="pattern4345"
+       width="600"
+       height="600"
+       viewBox="0 0 600 600"
+       patternUnits="userSpaceOnUse">
+      <path
+         d="M0,300l600,0"
+         transform="rotate(-60,300,300)"
+         style="stroke:black;stroke-width:600px;stroke-dasharray:45,41.6;stroke-dashoffset:25"
+         id="path4343" />
+    </pattern>
+    <pattern
+       id="pattern4349"
+       width="600"
+       height="600"
+       viewBox="0 0 600 600"
+       patternUnits="userSpaceOnUse">
+      <path
+         d="M0,300l600,0"
+         transform="rotate(-60,300,300)"
+         style="stroke:black;stroke-width:600px;stroke-dasharray:45,41.6;stroke-dashoffset:25"
+         id="path4347" />
+    </pattern>
+    <pattern
+       id="pattern4353"
+       width="600"
+       height="600"
+       viewBox="0 0 600 600"
+       patternUnits="userSpaceOnUse">
+      <path
+         d="M0,300l600,0"
+         transform="rotate(-60,300,300)"
+         style="stroke:black;stroke-width:600px;stroke-dasharray:45,41.6;stroke-dashoffset:25"
+         id="path4351" />
+    </pattern>
+    <pattern
+       id="lines-4-5"
+       width="600"
+       height="600"
+       viewBox="0 0 600 600"
+       patternUnits="userSpaceOnUse">
+      <path
+         d="M0,300l600,0"
+         transform="rotate(-60,300,300)"
+         style="stroke:black;stroke-width:600px;stroke-dasharray:45,41.6;stroke-dashoffset:25"
+         id="path44-5-6" />
+    </pattern>
+    <mask
+       id="m1-2-1">
+      <rect
+         width="100%"
+         height="100%"
+         style="fill:#ffffff;stroke:#ffffff;stroke-width:20px"
+         id="rect50-07-2"
+         x="0"
+         y="0" />
+      <use
+         width="300"
+         height="300"
+         xlink:href="#hexagon"
+         transform="rotate(60,225,429.90381)"
+         style="fill:#000000;stroke:#000000;stroke-width:10px"
+         id="use52-9-9" />
+      <circle
+         cx="300"
+         cy="300"
+         r="3"
+         style="fill:#ffffff"
+         id="circle54-6-1" />
+    </mask>
+    <pattern
+       id="pattern4225-8"
+       width="600"
+       height="600"
+       viewBox="0 0 600 600"
+       patternUnits="userSpaceOnUse">
+      <path
+         d="M0,300l600,0"
+         transform="rotate(-60,300,300)"
+         style="stroke:black;stroke-width:600px;stroke-dasharray:45,41.6;stroke-dashoffset:25"
+         id="path4223-4" />
+    </pattern>
+    <pattern
+       id="pattern4229-4"
+       width="600"
+       height="600"
+       viewBox="0 0 600 600"
+       patternUnits="userSpaceOnUse">
+      <path
+         d="M0,300l600,0"
+         transform="rotate(-60,300,300)"
+         style="stroke:black;stroke-width:600px;stroke-dasharray:45,41.6;stroke-dashoffset:25"
+         id="path4227-5" />
+    </pattern>
+    <pattern
+       id="pattern4233-5"
+       width="600"
+       height="600"
+       viewBox="0 0 600 600"
+       patternUnits="userSpaceOnUse">
+      <path
+         d="M0,300l600,0"
+         transform="rotate(-60,300,300)"
+         style="stroke:black;stroke-width:600px;stroke-dasharray:45,41.6;stroke-dashoffset:25"
+         id="path4231-1" />
+    </pattern>
+    <mask
+       id="mask4241-2">
+      <rect
+         width="100%"
+         height="100%"
+         style="fill:#ffffff;stroke:#ffffff;stroke-width:20px"
+         id="rect4235-5"
+         x="0"
+         y="0" />
+      <use
+         width="300"
+         height="300"
+         xlink:href="#hexagon"
+         transform="rotate(60,225,429.90381)"
+         style="fill:#000000;stroke:#000000;stroke-width:10px"
+         id="use4237-0" />
+      <circle
+         cx="300"
+         cy="300"
+         r="3"
+         style="fill:#ffffff"
+         id="circle4239-8" />
+    </mask>
+    <pattern
+       id="pattern4245-8"
+       width="600"
+       height="600"
+       viewBox="0 0 600 600"
+       patternUnits="userSpaceOnUse">
+      <path
+         d="M0,300l600,0"
+         transform="rotate(-60,300,300)"
+         style="stroke:black;stroke-width:600px;stroke-dasharray:45,41.6;stroke-dashoffset:25"
+         id="path4243-9" />
+    </pattern>
+    <pattern
+       id="pattern4249-2"
+       width="600"
+       height="600"
+       viewBox="0 0 600 600"
+       patternUnits="userSpaceOnUse">
+      <path
+         d="M0,300l600,0"
+         transform="rotate(-60,300,300)"
+         style="stroke:black;stroke-width:600px;stroke-dasharray:45,41.6;stroke-dashoffset:25"
+         id="path4247-2" />
+    </pattern>
+    <pattern
+       id="pattern4253-6"
+       width="600"
+       height="600"
+       viewBox="0 0 600 600"
+       patternUnits="userSpaceOnUse">
+      <path
+         d="M0,300l600,0"
+         transform="rotate(-60,300,300)"
+         style="stroke:black;stroke-width:600px;stroke-dasharray:45,41.6;stroke-dashoffset:25"
+         id="path4251-2" />
+    </pattern>
+    <mask
+       id="mask4261-1">
+      <rect
+         width="100%"
+         height="100%"
+         style="fill:#ffffff;stroke:#ffffff;stroke-width:20px"
+         id="rect4255-6"
+         x="0"
+         y="0" />
+      <use
+         width="300"
+         height="300"
+         xlink:href="#hexagon"
+         transform="rotate(60,225,429.90381)"
+         style="fill:#000000;stroke:#000000;stroke-width:10px"
+         id="use4257-5" />
+      <circle
+         cx="300"
+         cy="300"
+         r="3"
+         style="fill:#ffffff"
+         id="circle4259-9" />
+    </mask>
+    <pattern
+       id="pattern4265-9"
+       width="600"
+       height="600"
+       viewBox="0 0 600 600"
+       patternUnits="userSpaceOnUse">
+      <path
+         d="M0,300l600,0"
+         transform="rotate(-60,300,300)"
+         style="stroke:black;stroke-width:600px;stroke-dasharray:45,41.6;stroke-dashoffset:25"
+         id="path4263-2" />
+    </pattern>
+    <pattern
+       id="pattern4269-3"
+       width="600"
+       height="600"
+       viewBox="0 0 600 600"
+       patternUnits="userSpaceOnUse">
+      <path
+         d="M0,300l600,0"
+         transform="rotate(-60,300,300)"
+         style="stroke:black;stroke-width:600px;stroke-dasharray:45,41.6;stroke-dashoffset:25"
+         id="path4267-7" />
+    </pattern>
+    <pattern
+       id="pattern4273-7"
+       width="600"
+       height="600"
+       viewBox="0 0 600 600"
+       patternUnits="userSpaceOnUse">
+      <path
+         d="M0,300l600,0"
+         transform="rotate(-60,300,300)"
+         style="stroke:black;stroke-width:600px;stroke-dasharray:45,41.6;stroke-dashoffset:25"
+         id="path4271-8" />
+    </pattern>
+    <mask
+       id="mask4281-1">
+      <rect
+         width="100%"
+         height="100%"
+         style="fill:#ffffff;stroke:#ffffff;stroke-width:20px"
+         id="rect4275-3"
+         x="0"
+         y="0" />
+      <use
+         width="300"
+         height="300"
+         xlink:href="#hexagon"
+         transform="rotate(60,225,429.90381)"
+         style="fill:#000000;stroke:#000000;stroke-width:10px"
+         id="use4277-7" />
+      <circle
+         cx="300"
+         cy="300"
+         r="3"
+         style="fill:#ffffff"
+         id="circle4279-6" />
+    </mask>
+    <pattern
+       id="pattern4285-7"
+       width="600"
+       height="600"
+       viewBox="0 0 600 600"
+       patternUnits="userSpaceOnUse">
+      <path
+         d="M0,300l600,0"
+         transform="rotate(-60,300,300)"
+         style="stroke:black;stroke-width:600px;stroke-dasharray:45,41.6;stroke-dashoffset:25"
+         id="path4283-6" />
+    </pattern>
+    <pattern
+       id="pattern4289-2"
+       width="600"
+       height="600"
+       viewBox="0 0 600 600"
+       patternUnits="userSpaceOnUse">
+      <path
+         d="M0,300l600,0"
+         transform="rotate(-60,300,300)"
+         style="stroke:black;stroke-width:600px;stroke-dasharray:45,41.6;stroke-dashoffset:25"
+         id="path4287-0" />
+    </pattern>
+    <pattern
+       id="pattern4293-9"
+       width="600"
+       height="600"
+       viewBox="0 0 600 600"
+       patternUnits="userSpaceOnUse">
+      <path
+         d="M0,300l600,0"
+         transform="rotate(-60,300,300)"
+         style="stroke:black;stroke-width:600px;stroke-dasharray:45,41.6;stroke-dashoffset:25"
+         id="path4291-1" />
+    </pattern>
+    <mask
+       id="mask4301-2">
+      <rect
+         width="100%"
+         height="100%"
+         style="fill:#ffffff;stroke:#ffffff;stroke-width:20px"
+         id="rect4295-3"
+         x="0"
+         y="0" />
+      <use
+         width="300"
+         height="300"
+         xlink:href="#hexagon"
+         transform="rotate(60,225,429.90381)"
+         style="fill:#000000;stroke:#000000;stroke-width:10px"
+         id="use4297-5" />
+      <circle
+         cx="300"
+         cy="300"
+         r="3"
+         style="fill:#ffffff"
+         id="circle4299-4" />
+    </mask>
+    <pattern
+       id="pattern4305-8"
+       width="600"
+       height="600"
+       viewBox="0 0 600 600"
+       patternUnits="userSpaceOnUse">
+      <path
+         d="M0,300l600,0"
+         transform="rotate(-60,300,300)"
+         style="stroke:black;stroke-width:600px;stroke-dasharray:45,41.6;stroke-dashoffset:25"
+         id="path4303-4" />
+    </pattern>
+    <pattern
+       id="pattern4309-0"
+       width="600"
+       height="600"
+       viewBox="0 0 600 600"
+       patternUnits="userSpaceOnUse">
+      <path
+         d="M0,300l600,0"
+         transform="rotate(-60,300,300)"
+         style="stroke:black;stroke-width:600px;stroke-dasharray:45,41.6;stroke-dashoffset:25"
+         id="path4307-8" />
+    </pattern>
+    <pattern
+       id="pattern4313-5"
+       width="600"
+       height="600"
+       viewBox="0 0 600 600"
+       patternUnits="userSpaceOnUse">
+      <path
+         d="M0,300l600,0"
+         transform="rotate(-60,300,300)"
+         style="stroke:black;stroke-width:600px;stroke-dasharray:45,41.6;stroke-dashoffset:25"
+         id="path4311-7" />
+    </pattern>
+    <mask
+       id="mask4321-3">
+      <rect
+         width="100%"
+         height="100%"
+         style="fill:#ffffff;stroke:#ffffff;stroke-width:20px"
+         id="rect4315-1"
+         x="0"
+         y="0" />
+      <use
+         width="300"
+         height="300"
+         xlink:href="#hexagon"
+         transform="rotate(60,225,429.90381)"
+         style="fill:#000000;stroke:#000000;stroke-width:10px"
+         id="use4317-9" />
+      <circle
+         cx="300"
+         cy="300"
+         r="3"
+         style="fill:#ffffff"
+         id="circle4319-8" />
+    </mask>
+    <pattern
+       id="pattern4325-1"
+       width="600"
+       height="600"
+       viewBox="0 0 600 600"
+       patternUnits="userSpaceOnUse">
+      <path
+         d="M0,300l600,0"
+         transform="rotate(-60,300,300)"
+         style="stroke:black;stroke-width:600px;stroke-dasharray:45,41.6;stroke-dashoffset:25"
+         id="path4323-0" />
+    </pattern>
+    <pattern
+       id="pattern4329-4"
+       width="600"
+       height="600"
+       viewBox="0 0 600 600"
+       patternUnits="userSpaceOnUse">
+      <path
+         d="M0,300l600,0"
+         transform="rotate(-60,300,300)"
+         style="stroke:black;stroke-width:600px;stroke-dasharray:45,41.6;stroke-dashoffset:25"
+         id="path4327-2" />
+    </pattern>
+    <pattern
+       id="pattern4333-7"
+       width="600"
+       height="600"
+       viewBox="0 0 600 600"
+       patternUnits="userSpaceOnUse">
+      <path
+         d="M0,300l600,0"
+         transform="rotate(-60,300,300)"
+         style="stroke:black;stroke-width:600px;stroke-dasharray:45,41.6;stroke-dashoffset:25"
+         id="path4331-5" />
+    </pattern>
+    <mask
+       id="mask4341-9">
+      <rect
+         width="100%"
+         height="100%"
+         style="fill:#ffffff;stroke:#ffffff;stroke-width:20px"
+         id="rect4335-5"
+         x="0"
+         y="0" />
+      <use
+         width="300"
+         height="300"
+         xlink:href="#hexagon"
+         transform="rotate(60,225,429.90381)"
+         style="fill:#000000;stroke:#000000;stroke-width:10px"
+         id="use4337-2" />
+      <circle
+         cx="300"
+         cy="300"
+         r="3"
+         style="fill:#ffffff"
+         id="circle4339-6" />
+    </mask>
+    <pattern
+       id="pattern4345-0"
+       width="600"
+       height="600"
+       viewBox="0 0 600 600"
+       patternUnits="userSpaceOnUse">
+      <path
+         d="M0,300l600,0"
+         transform="rotate(-60,300,300)"
+         style="stroke:black;stroke-width:600px;stroke-dasharray:45,41.6;stroke-dashoffset:25"
+         id="path4343-1" />
+    </pattern>
+    <pattern
+       id="pattern4349-4"
+       width="600"
+       height="600"
+       viewBox="0 0 600 600"
+       patternUnits="userSpaceOnUse">
+      <path
+         d="M0,300l600,0"
+         transform="rotate(-60,300,300)"
+         style="stroke:black;stroke-width:600px;stroke-dasharray:45,41.6;stroke-dashoffset:25"
+         id="path4347-1" />
+    </pattern>
+    <pattern
+       id="pattern4353-3"
+       width="600"
+       height="600"
+       viewBox="0 0 600 600"
+       patternUnits="userSpaceOnUse">
+      <path
+         d="M0,300l600,0"
+         transform="rotate(-60,300,300)"
+         style="stroke:black;stroke-width:600px;stroke-dasharray:45,41.6;stroke-dashoffset:25"
+         id="path4351-5" />
+    </pattern>
+    <pattern
+       id="lines-4-3"
+       width="600"
+       height="600"
+       viewBox="0 0 600 600"
+       patternUnits="userSpaceOnUse">
+      <path
+         d="M0,300l600,0"
+         transform="rotate(-60,300,300)"
+         style="stroke:black;stroke-width:600px;stroke-dasharray:45,41.6;stroke-dashoffset:25"
+         id="path44-5-7" />
+    </pattern>
+    <mask
+       id="m1-2-3">
+      <rect
+         width="100%"
+         height="100%"
+         style="fill:#ffffff;stroke:#ffffff;stroke-width:20px"
+         id="rect50-07-6"
+         x="0"
+         y="0" />
+      <use
+         width="300"
+         height="300"
+         xlink:href="#hexagon"
+         transform="rotate(60,225,429.90381)"
+         style="fill:#000000;stroke:#000000;stroke-width:10px"
+         id="use52-9-5" />
+      <circle
+         cx="300"
+         cy="300"
+         r="3"
+         style="fill:#ffffff"
+         id="circle54-6-0" />
+    </mask>
+    <pattern
+       id="pattern4225-85"
+       width="600"
+       height="600"
+       viewBox="0 0 600 600"
+       patternUnits="userSpaceOnUse">
+      <path
+         d="M0,300l600,0"
+         transform="rotate(-60,300,300)"
+         style="stroke:black;stroke-width:600px;stroke-dasharray:45,41.6;stroke-dashoffset:25"
+         id="path4223-6" />
+    </pattern>
+    <pattern
+       id="pattern4229-8"
+       width="600"
+       height="600"
+       viewBox="0 0 600 600"
+       patternUnits="userSpaceOnUse">
+      <path
+         d="M0,300l600,0"
+         transform="rotate(-60,300,300)"
+         style="stroke:black;stroke-width:600px;stroke-dasharray:45,41.6;stroke-dashoffset:25"
+         id="path4227-0" />
+    </pattern>
+    <pattern
+       id="pattern4233-2"
+       width="600"
+       height="600"
+       viewBox="0 0 600 600"
+       patternUnits="userSpaceOnUse">
+      <path
+         d="M0,300l600,0"
+         transform="rotate(-60,300,300)"
+         style="stroke:black;stroke-width:600px;stroke-dasharray:45,41.6;stroke-dashoffset:25"
+         id="path4231-2" />
+    </pattern>
+    <mask
+       id="mask4241-29">
+      <rect
+         width="100%"
+         height="100%"
+         style="fill:#ffffff;stroke:#ffffff;stroke-width:20px"
+         id="rect4235-8"
+         x="0"
+         y="0" />
+      <use
+         width="300"
+         height="300"
+         xlink:href="#hexagon"
+         transform="rotate(60,225,429.90381)"
+         style="fill:#000000;stroke:#000000;stroke-width:10px"
+         id="use4237-9" />
+      <circle
+         cx="300"
+         cy="300"
+         r="3"
+         style="fill:#ffffff"
+         id="circle4239-7" />
+    </mask>
+    <pattern
+       id="pattern4245-3"
+       width="600"
+       height="600"
+       viewBox="0 0 600 600"
+       patternUnits="userSpaceOnUse">
+      <path
+         d="M0,300l600,0"
+         transform="rotate(-60,300,300)"
+         style="stroke:black;stroke-width:600px;stroke-dasharray:45,41.6;stroke-dashoffset:25"
+         id="path4243-5" />
+    </pattern>
+    <pattern
+       id="pattern4249-7"
+       width="600"
+       height="600"
+       viewBox="0 0 600 600"
+       patternUnits="userSpaceOnUse">
+      <path
+         d="M0,300l600,0"
+         transform="rotate(-60,300,300)"
+         style="stroke:black;stroke-width:600px;stroke-dasharray:45,41.6;stroke-dashoffset:25"
+         id="path4247-22" />
+    </pattern>
+    <pattern
+       id="pattern4253-9"
+       width="600"
+       height="600"
+       viewBox="0 0 600 600"
+       patternUnits="userSpaceOnUse">
+      <path
+         d="M0,300l600,0"
+         transform="rotate(-60,300,300)"
+         style="stroke:black;stroke-width:600px;stroke-dasharray:45,41.6;stroke-dashoffset:25"
+         id="path4251-9" />
+    </pattern>
+    <mask
+       id="mask4261-2">
+      <rect
+         width="100%"
+         height="100%"
+         style="fill:#ffffff;stroke:#ffffff;stroke-width:20px"
+         id="rect4255-5"
+         x="0"
+         y="0" />
+      <use
+         width="300"
+         height="300"
+         xlink:href="#hexagon"
+         transform="rotate(60,225,429.90381)"
+         style="fill:#000000;stroke:#000000;stroke-width:10px"
+         id="use4257-0" />
+      <circle
+         cx="300"
+         cy="300"
+         r="3"
+         style="fill:#ffffff"
+         id="circle4259-8" />
+    </mask>
+    <pattern
+       id="pattern4265-2"
+       width="600"
+       height="600"
+       viewBox="0 0 600 600"
+       patternUnits="userSpaceOnUse">
+      <path
+         d="M0,300l600,0"
+         transform="rotate(-60,300,300)"
+         style="stroke:black;stroke-width:600px;stroke-dasharray:45,41.6;stroke-dashoffset:25"
+         id="path4263-3" />
+    </pattern>
+    <pattern
+       id="pattern4269-6"
+       width="600"
+       height="600"
+       viewBox="0 0 600 600"
+       patternUnits="userSpaceOnUse">
+      <path
+         d="M0,300l600,0"
+         transform="rotate(-60,300,300)"
+         style="stroke:black;stroke-width:600px;stroke-dasharray:45,41.6;stroke-dashoffset:25"
+         id="path4267-5" />
+    </pattern>
+    <pattern
+       id="pattern4273-71"
+       width="600"
+       height="600"
+       viewBox="0 0 600 600"
+       patternUnits="userSpaceOnUse">
+      <path
+         d="M0,300l600,0"
+         transform="rotate(-60,300,300)"
+         style="stroke:black;stroke-width:600px;stroke-dasharray:45,41.6;stroke-dashoffset:25"
+         id="path4271-80" />
+    </pattern>
+    <mask
+       id="mask4281-7">
+      <rect
+         width="100%"
+         height="100%"
+         style="fill:#ffffff;stroke:#ffffff;stroke-width:20px"
+         id="rect4275-6"
+         x="0"
+         y="0" />
+      <use
+         width="300"
+         height="300"
+         xlink:href="#hexagon"
+         transform="rotate(60,225,429.90381)"
+         style="fill:#000000;stroke:#000000;stroke-width:10px"
+         id="use4277-4" />
+      <circle
+         cx="300"
+         cy="300"
+         r="3"
+         style="fill:#ffffff"
+         id="circle4279-0" />
+    </mask>
+    <pattern
+       id="pattern4285-6"
+       width="600"
+       height="600"
+       viewBox="0 0 600 600"
+       patternUnits="userSpaceOnUse">
+      <path
+         d="M0,300l600,0"
+         transform="rotate(-60,300,300)"
+         style="stroke:black;stroke-width:600px;stroke-dasharray:45,41.6;stroke-dashoffset:25"
+         id="path4283-61" />
+    </pattern>
+    <pattern
+       id="pattern4289-8"
+       width="600"
+       height="600"
+       viewBox="0 0 600 600"
+       patternUnits="userSpaceOnUse">
+      <path
+         d="M0,300l600,0"
+         transform="rotate(-60,300,300)"
+         style="stroke:black;stroke-width:600px;stroke-dasharray:45,41.6;stroke-dashoffset:25"
+         id="path4287-9" />
+    </pattern>
+    <pattern
+       id="pattern4293-7"
+       width="600"
+       height="600"
+       viewBox="0 0 600 600"
+       patternUnits="userSpaceOnUse">
+      <path
+         d="M0,300l600,0"
+         transform="rotate(-60,300,300)"
+         style="stroke:black;stroke-width:600px;stroke-dasharray:45,41.6;stroke-dashoffset:25"
+         id="path4291-19" />
+    </pattern>
+    <mask
+       id="mask4301-0">
+      <rect
+         width="100%"
+         height="100%"
+         style="fill:#ffffff;stroke:#ffffff;stroke-width:20px"
+         id="rect4295-6"
+         x="0"
+         y="0" />
+      <use
+         width="300"
+         height="300"
+         xlink:href="#hexagon"
+         transform="rotate(60,225,429.90381)"
+         style="fill:#000000;stroke:#000000;stroke-width:10px"
+         id="use4297-1" />
+      <circle
+         cx="300"
+         cy="300"
+         r="3"
+         style="fill:#ffffff"
+         id="circle4299-2" />
+    </mask>
+    <pattern
+       id="pattern4305-9"
+       width="600"
+       height="600"
+       viewBox="0 0 600 600"
+       patternUnits="userSpaceOnUse">
+      <path
+         d="M0,300l600,0"
+         transform="rotate(-60,300,300)"
+         style="stroke:black;stroke-width:600px;stroke-dasharray:45,41.6;stroke-dashoffset:25"
+         id="path4303-6" />
+    </pattern>
+    <pattern
+       id="pattern4309-3"
+       width="600"
+       height="600"
+       viewBox="0 0 600 600"
+       patternUnits="userSpaceOnUse">
+      <path
+         d="M0,300l600,0"
+         transform="rotate(-60,300,300)"
+         style="stroke:black;stroke-width:600px;stroke-dasharray:45,41.6;stroke-dashoffset:25"
+         id="path4307-9" />
+    </pattern>
+    <pattern
+       id="pattern4313-3"
+       width="600"
+       height="600"
+       viewBox="0 0 600 600"
+       patternUnits="userSpaceOnUse">
+      <path
+         d="M0,300l600,0"
+         transform="rotate(-60,300,300)"
+         style="stroke:black;stroke-width:600px;stroke-dasharray:45,41.6;stroke-dashoffset:25"
+         id="path4311-5" />
+    </pattern>
+    <mask
+       id="mask4321-31">
+      <rect
+         width="100%"
+         height="100%"
+         style="fill:#ffffff;stroke:#ffffff;stroke-width:20px"
+         id="rect4315-3"
+         x="0"
+         y="0" />
+      <use
+         width="300"
+         height="300"
+         xlink:href="#hexagon"
+         transform="rotate(60,225,429.90381)"
+         style="fill:#000000;stroke:#000000;stroke-width:10px"
+         id="use4317-8" />
+      <circle
+         cx="300"
+         cy="300"
+         r="3"
+         style="fill:#ffffff"
+         id="circle4319-7" />
+    </mask>
+    <pattern
+       id="pattern4325-0"
+       width="600"
+       height="600"
+       viewBox="0 0 600 600"
+       patternUnits="userSpaceOnUse">
+      <path
+         d="M0,300l600,0"
+         transform="rotate(-60,300,300)"
+         style="stroke:black;stroke-width:600px;stroke-dasharray:45,41.6;stroke-dashoffset:25"
+         id="path4323-5" />
+    </pattern>
+    <pattern
+       id="pattern4329-8"
+       width="600"
+       height="600"
+       viewBox="0 0 600 600"
+       patternUnits="userSpaceOnUse">
+      <path
+         d="M0,300l600,0"
+         transform="rotate(-60,300,300)"
+         style="stroke:black;stroke-width:600px;stroke-dasharray:45,41.6;stroke-dashoffset:25"
+         id="path4327-0" />
+    </pattern>
+    <pattern
+       id="pattern4333-4"
+       width="600"
+       height="600"
+       viewBox="0 0 600 600"
+       patternUnits="userSpaceOnUse">
+      <path
+         d="M0,300l600,0"
+         transform="rotate(-60,300,300)"
+         style="stroke:black;stroke-width:600px;stroke-dasharray:45,41.6;stroke-dashoffset:25"
+         id="path4331-6" />
+    </pattern>
+    <mask
+       id="mask4341-90">
+      <rect
+         width="100%"
+         height="100%"
+         style="fill:#ffffff;stroke:#ffffff;stroke-width:20px"
+         id="rect4335-56"
+         x="0"
+         y="0" />
+      <use
+         width="300"
+         height="300"
+         xlink:href="#hexagon"
+         transform="rotate(60,225,429.90381)"
+         style="fill:#000000;stroke:#000000;stroke-width:10px"
+         id="use4337-27" />
+      <circle
+         cx="300"
+         cy="300"
+         r="3"
+         style="fill:#ffffff"
+         id="circle4339-2" />
+    </mask>
+    <pattern
+       id="pattern4345-8"
+       width="600"
+       height="600"
+       viewBox="0 0 600 600"
+       patternUnits="userSpaceOnUse">
+      <path
+         d="M0,300l600,0"
+         transform="rotate(-60,300,300)"
+         style="stroke:black;stroke-width:600px;stroke-dasharray:45,41.6;stroke-dashoffset:25"
+         id="path4343-5" />
+    </pattern>
+    <pattern
+       id="pattern4349-0"
+       width="600"
+       height="600"
+       viewBox="0 0 600 600"
+       patternUnits="userSpaceOnUse">
+      <path
+         d="M0,300l600,0"
+         transform="rotate(-60,300,300)"
+         style="stroke:black;stroke-width:600px;stroke-dasharray:45,41.6;stroke-dashoffset:25"
+         id="path4347-3" />
+    </pattern>
+    <pattern
+       id="pattern4353-5"
+       width="600"
+       height="600"
+       viewBox="0 0 600 600"
+       patternUnits="userSpaceOnUse">
+      <path
+         d="M0,300l600,0"
+         transform="rotate(-60,300,300)"
+         style="stroke:black;stroke-width:600px;stroke-dasharray:45,41.6;stroke-dashoffset:25"
+         id="path4351-0" />
+    </pattern>
+    <pattern
+       id="lines-4-7"
+       width="600"
+       height="600"
+       viewBox="0 0 600 600"
+       patternUnits="userSpaceOnUse">
+      <path
+         d="M0,300l600,0"
+         transform="rotate(-60,300,300)"
+         style="stroke:black;stroke-width:600px;stroke-dasharray:45,41.6;stroke-dashoffset:25"
+         id="path44-5-0" />
+    </pattern>
+    <mask
+       id="m1-2-7">
+      <rect
+         width="100%"
+         height="100%"
+         style="fill:#ffffff;stroke:#ffffff;stroke-width:20px"
+         id="rect50-07-1"
+         x="0"
+         y="0" />
+      <use
+         width="300"
+         height="300"
+         xlink:href="#hexagon"
+         transform="rotate(60,225,429.90381)"
+         style="fill:#000000;stroke:#000000;stroke-width:10px"
+         id="use52-9-1" />
+      <circle
+         cx="300"
+         cy="300"
+         r="3"
+         style="fill:#ffffff"
+         id="circle54-6-07" />
+    </mask>
+    <pattern
+       id="pattern4225-9"
+       width="600"
+       height="600"
+       viewBox="0 0 600 600"
+       patternUnits="userSpaceOnUse">
+      <path
+         d="M0,300l600,0"
+         transform="rotate(-60,300,300)"
+         style="stroke:black;stroke-width:600px;stroke-dasharray:45,41.6;stroke-dashoffset:25"
+         id="path4223-65" />
+    </pattern>
+    <pattern
+       id="pattern4229-1"
+       width="600"
+       height="600"
+       viewBox="0 0 600 600"
+       patternUnits="userSpaceOnUse">
+      <path
+         d="M0,300l600,0"
+         transform="rotate(-60,300,300)"
+         style="stroke:black;stroke-width:600px;stroke-dasharray:45,41.6;stroke-dashoffset:25"
+         id="path4227-2" />
+    </pattern>
+    <pattern
+       id="pattern4233-7"
+       width="600"
+       height="600"
+       viewBox="0 0 600 600"
+       patternUnits="userSpaceOnUse">
+      <path
+         d="M0,300l600,0"
+         transform="rotate(-60,300,300)"
+         style="stroke:black;stroke-width:600px;stroke-dasharray:45,41.6;stroke-dashoffset:25"
+         id="path4231-6" />
+    </pattern>
+    <mask
+       id="mask4241-4">
+      <rect
+         width="100%"
+         height="100%"
+         style="fill:#ffffff;stroke:#ffffff;stroke-width:20px"
+         id="rect4235-1"
+         x="0"
+         y="0" />
+      <use
+         width="300"
+         height="300"
+         xlink:href="#hexagon"
+         transform="rotate(60,225,429.90381)"
+         style="fill:#000000;stroke:#000000;stroke-width:10px"
+         id="use4237-5" />
+      <circle
+         cx="300"
+         cy="300"
+         r="3"
+         style="fill:#ffffff"
+         id="circle4239-3" />
+    </mask>
+    <pattern
+       id="pattern4245-9"
+       width="600"
+       height="600"
+       viewBox="0 0 600 600"
+       patternUnits="userSpaceOnUse">
+      <path
+         d="M0,300l600,0"
+         transform="rotate(-60,300,300)"
+         style="stroke:black;stroke-width:600px;stroke-dasharray:45,41.6;stroke-dashoffset:25"
+         id="path4243-1" />
+    </pattern>
+    <pattern
+       id="pattern4249-1"
+       width="600"
+       height="600"
+       viewBox="0 0 600 600"
+       patternUnits="userSpaceOnUse">
+      <path
+         d="M0,300l600,0"
+         transform="rotate(-60,300,300)"
+         style="stroke:black;stroke-width:600px;stroke-dasharray:45,41.6;stroke-dashoffset:25"
+         id="path4247-7" />
+    </pattern>
+    <pattern
+       id="pattern4253-5"
+       width="600"
+       height="600"
+       viewBox="0 0 600 600"
+       patternUnits="userSpaceOnUse">
+      <path
+         d="M0,300l600,0"
+         transform="rotate(-60,300,300)"
+         style="stroke:black;stroke-width:600px;stroke-dasharray:45,41.6;stroke-dashoffset:25"
+         id="path4251-7" />
+    </pattern>
+    <mask
+       id="mask4261-0">
+      <rect
+         width="100%"
+         height="100%"
+         style="fill:#ffffff;stroke:#ffffff;stroke-width:20px"
+         id="rect4255-9"
+         x="0"
+         y="0" />
+      <use
+         width="300"
+         height="300"
+         xlink:href="#hexagon"
+         transform="rotate(60,225,429.90381)"
+         style="fill:#000000;stroke:#000000;stroke-width:10px"
+         id="use4257-4" />
+      <circle
+         cx="300"
+         cy="300"
+         r="3"
+         style="fill:#ffffff"
+         id="circle4259-4" />
+    </mask>
+    <pattern
+       id="pattern4265-4"
+       width="600"
+       height="600"
+       viewBox="0 0 600 600"
+       patternUnits="userSpaceOnUse">
+      <path
+         d="M0,300l600,0"
+         transform="rotate(-60,300,300)"
+         style="stroke:black;stroke-width:600px;stroke-dasharray:45,41.6;stroke-dashoffset:25"
+         id="path4263-4" />
+    </pattern>
+    <pattern
+       id="pattern4269-5"
+       width="600"
+       height="600"
+       viewBox="0 0 600 600"
+       patternUnits="userSpaceOnUse">
+      <path
+         d="M0,300l600,0"
+         transform="rotate(-60,300,300)"
+         style="stroke:black;stroke-width:600px;stroke-dasharray:45,41.6;stroke-dashoffset:25"
+         id="path4267-70" />
+    </pattern>
+    <pattern
+       id="pattern4273-5"
+       width="600"
+       height="600"
+       viewBox="0 0 600 600"
+       patternUnits="userSpaceOnUse">
+      <path
+         d="M0,300l600,0"
+         transform="rotate(-60,300,300)"
+         style="stroke:black;stroke-width:600px;stroke-dasharray:45,41.6;stroke-dashoffset:25"
+         id="path4271-7" />
+    </pattern>
+    <mask
+       id="mask4281-0">
+      <rect
+         width="100%"
+         height="100%"
+         style="fill:#ffffff;stroke:#ffffff;stroke-width:20px"
+         id="rect4275-36"
+         x="0"
+         y="0" />
+      <use
+         width="300"
+         height="300"
+         xlink:href="#hexagon"
+         transform="rotate(60,225,429.90381)"
+         style="fill:#000000;stroke:#000000;stroke-width:10px"
+         id="use4277-9" />
+      <circle
+         cx="300"
+         cy="300"
+         r="3"
+         style="fill:#ffffff"
+         id="circle4279-2" />
+    </mask>
+    <pattern
+       id="pattern4285-8"
+       width="600"
+       height="600"
+       viewBox="0 0 600 600"
+       patternUnits="userSpaceOnUse">
+      <path
+         d="M0,300l600,0"
+         transform="rotate(-60,300,300)"
+         style="stroke:black;stroke-width:600px;stroke-dasharray:45,41.6;stroke-dashoffset:25"
+         id="path4283-0" />
+    </pattern>
+    <pattern
+       id="pattern4289-86"
+       width="600"
+       height="600"
+       viewBox="0 0 600 600"
+       patternUnits="userSpaceOnUse">
+      <path
+         d="M0,300l600,0"
+         transform="rotate(-60,300,300)"
+         style="stroke:black;stroke-width:600px;stroke-dasharray:45,41.6;stroke-dashoffset:25"
+         id="path4287-2" />
+    </pattern>
+    <pattern
+       id="pattern4293-5"
+       width="600"
+       height="600"
+       viewBox="0 0 600 600"
+       patternUnits="userSpaceOnUse">
+      <path
+         d="M0,300l600,0"
+         transform="rotate(-60,300,300)"
+         style="stroke:black;stroke-width:600px;stroke-dasharray:45,41.6;stroke-dashoffset:25"
+         id="path4291-13" />
+    </pattern>
+    <mask
+       id="mask4301-1">
+      <rect
+         width="100%"
+         height="100%"
+         style="fill:#ffffff;stroke:#ffffff;stroke-width:20px"
+         id="rect4295-4"
+         x="0"
+         y="0" />
+      <use
+         width="300"
+         height="300"
+         xlink:href="#hexagon"
+         transform="rotate(60,225,429.90381)"
+         style="fill:#000000;stroke:#000000;stroke-width:10px"
+         id="use4297-19" />
+      <circle
+         cx="300"
+         cy="300"
+         r="3"
+         style="fill:#ffffff"
+         id="circle4299-3" />
+    </mask>
+    <pattern
+       id="pattern4305-3"
+       width="600"
+       height="600"
+       viewBox="0 0 600 600"
+       patternUnits="userSpaceOnUse">
+      <path
+         d="M0,300l600,0"
+         transform="rotate(-60,300,300)"
+         style="stroke:black;stroke-width:600px;stroke-dasharray:45,41.6;stroke-dashoffset:25"
+         id="path4303-43" />
+    </pattern>
+    <pattern
+       id="pattern4309-9"
+       width="600"
+       height="600"
+       viewBox="0 0 600 600"
+       patternUnits="userSpaceOnUse">
+      <path
+         d="M0,300l600,0"
+         transform="rotate(-60,300,300)"
+         style="stroke:black;stroke-width:600px;stroke-dasharray:45,41.6;stroke-dashoffset:25"
+         id="path4307-5" />
+    </pattern>
+    <pattern
+       id="pattern4313-6"
+       width="600"
+       height="600"
+       viewBox="0 0 600 600"
+       patternUnits="userSpaceOnUse">
+      <path
+         d="M0,300l600,0"
+         transform="rotate(-60,300,300)"
+         style="stroke:black;stroke-width:600px;stroke-dasharray:45,41.6;stroke-dashoffset:25"
+         id="path4311-0" />
+    </pattern>
+    <mask
+       id="mask4321-2">
+      <rect
+         width="100%"
+         height="100%"
+         style="fill:#ffffff;stroke:#ffffff;stroke-width:20px"
+         id="rect4315-9"
+         x="0"
+         y="0" />
+      <use
+         width="300"
+         height="300"
+         xlink:href="#hexagon"
+         transform="rotate(60,225,429.90381)"
+         style="fill:#000000;stroke:#000000;stroke-width:10px"
+         id="use4317-97" />
+      <circle
+         cx="300"
+         cy="300"
+         r="3"
+         style="fill:#ffffff"
+         id="circle4319-78" />
+    </mask>
+    <pattern
+       id="pattern4325-3"
+       width="600"
+       height="600"
+       viewBox="0 0 600 600"
+       patternUnits="userSpaceOnUse">
+      <path
+         d="M0,300l600,0"
+         transform="rotate(-60,300,300)"
+         style="stroke:black;stroke-width:600px;stroke-dasharray:45,41.6;stroke-dashoffset:25"
+         id="path4323-4" />
+    </pattern>
+    <pattern
+       id="pattern4329-0"
+       width="600"
+       height="600"
+       viewBox="0 0 600 600"
+       patternUnits="userSpaceOnUse">
+      <path
+         d="M0,300l600,0"
+         transform="rotate(-60,300,300)"
+         style="stroke:black;stroke-width:600px;stroke-dasharray:45,41.6;stroke-dashoffset:25"
+         id="path4327-3" />
+    </pattern>
+    <pattern
+       id="pattern4333-9"
+       width="600"
+       height="600"
+       viewBox="0 0 600 600"
+       patternUnits="userSpaceOnUse">
+      <path
+         d="M0,300l600,0"
+         transform="rotate(-60,300,300)"
+         style="stroke:black;stroke-width:600px;stroke-dasharray:45,41.6;stroke-dashoffset:25"
+         id="path4331-1" />
+    </pattern>
+    <mask
+       id="mask4341-2">
+      <rect
+         width="100%"
+         height="100%"
+         style="fill:#ffffff;stroke:#ffffff;stroke-width:20px"
+         id="rect4335-8"
+         x="0"
+         y="0" />
+      <use
+         width="300"
+         height="300"
+         xlink:href="#hexagon"
+         transform="rotate(60,225,429.90381)"
+         style="fill:#000000;stroke:#000000;stroke-width:10px"
+         id="use4337-7" />
+      <circle
+         cx="300"
+         cy="300"
+         r="3"
+         style="fill:#ffffff"
+         id="circle4339-9" />
+    </mask>
+    <pattern
+       id="pattern4345-4"
+       width="600"
+       height="600"
+       viewBox="0 0 600 600"
+       patternUnits="userSpaceOnUse">
+      <path
+         d="M0,300l600,0"
+         transform="rotate(-60,300,300)"
+         style="stroke:black;stroke-width:600px;stroke-dasharray:45,41.6;stroke-dashoffset:25"
+         id="path4343-3" />
+    </pattern>
+    <pattern
+       id="pattern4349-1"
+       width="600"
+       height="600"
+       viewBox="0 0 600 600"
+       patternUnits="userSpaceOnUse">
+      <path
+         d="M0,300l600,0"
+         transform="rotate(-60,300,300)"
+         style="stroke:black;stroke-width:600px;stroke-dasharray:45,41.6;stroke-dashoffset:25"
+         id="path4347-14" />
+    </pattern>
+    <pattern
+       id="pattern4353-6"
+       width="600"
+       height="600"
+       viewBox="0 0 600 600"
+       patternUnits="userSpaceOnUse">
+      <path
+         d="M0,300l600,0"
+         transform="rotate(-60,300,300)"
+         style="stroke:black;stroke-width:600px;stroke-dasharray:45,41.6;stroke-dashoffset:25"
+         id="path4351-8" />
+    </pattern>
+  </defs>
+  <rect
+     width="100%"
+     height="100%"
+     style="display:none;fill:none;stroke:#ff0000"
+     id="rect59"
+     x="0"
+     y="0" />
+  <g
+     id="g1314"
+     transform="matrix(0.49702346,0,0,0.49702346,112.33128,65.320798)"
+     style="opacity:0.03047091">
+    <g
+       transform="translate(0,20)"
+       id="g76">
+      <rect
+         width="600"
+         height="600"
+         transform="matrix(0.5,0,0,0.5,150,0)"
+         style="display:none;fill:url(#lines);stroke:#0000ff"
+         id="rect61"
+         x="0"
+         y="0" />
+      <g
+         id="hexagons"
+         style="fill:#008000;stroke:#ffffff;stroke-width:25px"
+         mask="url(#m1)">
+        <use
+           width="300"
+           height="300"
+           xlink:href="#hexagon"
+           transform="translate(150)"
+           style="fill:url(#lines)"
+           id="use63" />
+      </g>
+      <use
+         width="300"
+         height="300"
+         xlink:href="#hexagons"
+         transform="rotate(60,300,300)"
+         id="use66" />
+      <use
+         width="300"
+         height="300"
+         xlink:href="#hexagons"
+         transform="rotate(120,300,300)"
+         id="use68" />
+      <use
+         width="300"
+         height="300"
+         xlink:href="#hexagons"
+         transform="rotate(180,300,300)"
+         id="use70" />
+      <use
+         width="300"
+         height="300"
+         xlink:href="#hexagons"
+         transform="rotate(-120,300,300)"
+         id="use72" />
+      <use
+         width="300"
+         height="300"
+         xlink:href="#hexagons"
+         transform="rotate(-60,300,300)"
+         id="use74"
+         style="stroke:#000000;stroke-opacity:1" />
+    </g>
+    <path
+       style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:2.64567;stroke-opacity:1;paint-order:markers stroke fill"
+       d="m 289.79689,321.52927 -126.54719,-73.40502 0.76464,-144.51613 9.55794,-4.970127 0.38232,145.280767 118.90084,71.11111 -1.52927,6.88172 z"
+       id="path972" />
+  </g>
+  <g
+     id="g1314-0"
+     transform="matrix(0.49702346,0,0,0.49702346,-17.427207,289.48251)"
+     style="opacity:0.03047091">
+    <g
+       transform="translate(0,20)"
+       id="g76-6">
+      <rect
+         width="600"
+         height="600"
+         transform="matrix(0.5,0,0,0.5,150,0)"
+         style="display:none;fill:url(#lines-8);stroke:#0000ff"
+         id="rect61-2"
+         x="0"
+         y="0" />
+      <g
+         id="hexagons-0"
+         style="fill:#008000;stroke:#ffffff;stroke-width:25px"
+         mask="url(#m1-4)">
+        <use
+           width="300"
+           height="300"
+           xlink:href="#hexagon"
+           transform="translate(150)"
+           style="fill:url(#lines-8)"
+           id="use63-6" />
+      </g>
+      <use
+         width="300"
+         height="300"
+         xlink:href="#hexagons-0"
+         transform="rotate(60,300,300)"
+         id="use66-3" />
+      <use
+         width="300"
+         height="300"
+         xlink:href="#hexagons-0"
+         transform="rotate(120,300,300)"
+         id="use68-7" />
+      <use
+         width="300"
+         height="300"
+         xlink:href="#hexagons-0"
+         transform="rotate(180,300,300)"
+         id="use70-1" />
+      <use
+         width="300"
+         height="300"
+         xlink:href="#hexagons-0"
+         transform="rotate(-120,300,300)"
+         id="use72-5" />
+      <use
+         width="300"
+         height="300"
+         xlink:href="#hexagons-0"
+         transform="rotate(-60,300,300)"
+         id="use74-3"
+         style="stroke:#000000;stroke-opacity:1" />
+    </g>
+    <path
+       style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:2.64567;stroke-opacity:1;paint-order:markers stroke fill"
+       d="m 289.79689,321.52927 -126.54719,-73.40502 0.76464,-144.51613 9.55794,-4.970127 0.38232,145.280767 118.90084,71.11111 -1.52927,6.88172 z"
+       id="path972-5" />
+  </g>
+  <g
+     id="g1314-04"
+     transform="matrix(0.49702346,0,0,0.49702346,241.62868,289.48251)"
+     style="opacity:0.03047091">
+    <g
+       transform="translate(0,20)"
+       id="g76-3">
+      <rect
+         width="600"
+         height="600"
+         transform="matrix(0.5,0,0,0.5,150,0)"
+         style="display:none;fill:url(#lines-4);stroke:#0000ff"
+         id="rect61-7"
+         x="0"
+         y="0" />
+      <g
+         id="hexagons-9"
+         style="fill:#008000;stroke:#ffffff;stroke-width:25px"
+         mask="url(#m1-2)">
+        <use
+           width="300"
+           height="300"
+           xlink:href="#hexagon"
+           transform="translate(150)"
+           style="fill:url(#lines-4)"
+           id="use63-7" />
+      </g>
+      <use
+         width="300"
+         height="300"
+         xlink:href="#hexagons-9"
+         transform="rotate(60,300,300)"
+         id="use66-2" />
+      <use
+         width="300"
+         height="300"
+         xlink:href="#hexagons-9"
+         transform="rotate(120,300,300)"
+         id="use68-5" />
+      <use
+         width="300"
+         height="300"
+         xlink:href="#hexagons-9"
+         transform="rotate(180,300,300)"
+         id="use70-18" />
+      <use
+         width="300"
+         height="300"
+         xlink:href="#hexagons-9"
+         transform="rotate(-120,300,300)"
+         id="use72-0" />
+      <use
+         width="300"
+         height="300"
+         xlink:href="#hexagons-9"
+         transform="rotate(-60,300,300)"
+         id="use74-4"
+         style="stroke:#000000;stroke-opacity:1" />
+    </g>
+    <path
+       style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:2.64567;stroke-opacity:1;paint-order:markers stroke fill"
+       d="m 289.79689,321.52927 -126.54719,-73.40502 0.76464,-144.51613 9.55794,-4.970127 0.38232,145.280767 118.90084,71.11111 -1.52927,6.88172 z"
+       id="path972-4" />
+  </g>
+  <g
+     id="g1314-04-2"
+     transform="matrix(0.49702346,0,0,0.49702346,-149.10497,64.824088)"
+     style="opacity:0.03047091">
+    <g
+       transform="translate(0,20)"
+       id="g76-3-3">
+      <rect
+         width="600"
+         height="600"
+         transform="matrix(0.5,0,0,0.5,150,0)"
+         style="display:none;fill:url(#lines-4-1);stroke:#0000ff"
+         id="rect61-7-4"
+         x="0"
+         y="0" />
+      <g
+         id="hexagons-9-2"
+         style="fill:#008000;stroke:#ffffff;stroke-width:25px"
+         mask="url(#m1-2-5)">
+        <use
+           width="300"
+           height="300"
+           xlink:href="#hexagon"
+           transform="translate(150)"
+           style="fill:url(#lines-4-1)"
+           id="use63-7-5" />
+      </g>
+      <use
+         width="300"
+         height="300"
+         xlink:href="#hexagons-9-2"
+         transform="rotate(60,300,300)"
+         id="use66-2-9" />
+      <use
+         width="300"
+         height="300"
+         xlink:href="#hexagons-9-2"
+         transform="rotate(120,300,300)"
+         id="use68-5-9" />
+      <use
+         width="300"
+         height="300"
+         xlink:href="#hexagons-9-2"
+         transform="rotate(180,300,300)"
+         id="use70-18-7" />
+      <use
+         width="300"
+         height="300"
+         xlink:href="#hexagons-9-2"
+         transform="rotate(-120,300,300)"
+         id="use72-0-0" />
+      <use
+         width="300"
+         height="300"
+         xlink:href="#hexagons-9-2"
+         transform="rotate(-60,300,300)"
+         id="use74-4-2"
+         style="stroke:#000000;stroke-opacity:1" />
+    </g>
+    <path
+       style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:2.64567;stroke-opacity:1;paint-order:markers stroke fill"
+       d="m 289.79689,321.52927 -126.54719,-73.40502 0.76464,-144.51613 9.55794,-4.970127 0.38232,145.280767 118.90084,71.11111 -1.52927,6.88172 z"
+       id="path972-4-4" />
+  </g>
+  <g
+     id="g1314-04-3"
+     transform="matrix(0.49702346,0,0,0.49702346,371.15661,65.899028)"
+     style="opacity:0.03047091">
+    <g
+       transform="translate(0,20)"
+       id="g76-3-9">
+      <rect
+         width="600"
+         height="600"
+         transform="matrix(0.5,0,0,0.5,150,0)"
+         style="display:none;fill:url(#lines-4-5);stroke:#0000ff"
+         id="rect61-7-7"
+         x="0"
+         y="0" />
+      <g
+         id="hexagons-9-8"
+         style="fill:#008000;stroke:#ffffff;stroke-width:25px"
+         mask="url(#m1-2-1)">
+        <use
+           width="300"
+           height="300"
+           xlink:href="#hexagon"
+           transform="translate(150)"
+           style="fill:url(#lines-4-5)"
+           id="use63-7-7" />
+      </g>
+      <use
+         width="300"
+         height="300"
+         xlink:href="#hexagons-9-8"
+         transform="rotate(60,300,300)"
+         id="use66-2-5" />
+      <use
+         width="300"
+         height="300"
+         xlink:href="#hexagons-9-8"
+         transform="rotate(120,300,300)"
+         id="use68-5-1" />
+      <use
+         width="300"
+         height="300"
+         xlink:href="#hexagons-9-8"
+         transform="rotate(180,300,300)"
+         id="use70-18-1" />
+      <use
+         width="300"
+         height="300"
+         xlink:href="#hexagons-9-8"
+         transform="rotate(-120,300,300)"
+         id="use72-0-1" />
+      <use
+         width="300"
+         height="300"
+         xlink:href="#hexagons-9-8"
+         transform="rotate(-60,300,300)"
+         id="use74-4-0"
+         style="stroke:#000000;stroke-opacity:1" />
+    </g>
+    <path
+       style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:2.64567;stroke-opacity:1;paint-order:markers stroke fill"
+       d="m 289.79689,321.52927 -126.54719,-73.40502 0.76464,-144.51613 9.55794,-4.970127 0.38232,145.280767 118.90084,71.11111 -1.52927,6.88172 z"
+       id="path972-4-49" />
+  </g>
+  <g
+     id="g1314-04-4"
+     transform="matrix(0.49702346,0,0,0.49702346,-19.03959,-157.68448)"
+     style="opacity:0.03047091">
+    <g
+       transform="translate(0,20)"
+       id="g76-3-33">
+      <rect
+         width="600"
+         height="600"
+         transform="matrix(0.5,0,0,0.5,150,0)"
+         style="display:none;fill:url(#lines-4-3);stroke:#0000ff"
+         id="rect61-7-5"
+         x="0"
+         y="0" />
+      <g
+         id="hexagons-9-5"
+         style="fill:#008000;stroke:#ffffff;stroke-width:25px"
+         mask="url(#m1-2-3)">
+        <use
+           width="300"
+           height="300"
+           xlink:href="#hexagon"
+           transform="translate(150)"
+           style="fill:url(#lines-4-3)"
+           id="use63-7-9" />
+      </g>
+      <use
+         width="300"
+         height="300"
+         xlink:href="#hexagons-9-5"
+         transform="rotate(60,300,300)"
+         id="use66-2-98" />
+      <use
+         width="300"
+         height="300"
+         xlink:href="#hexagons-9-5"
+         transform="rotate(120,300,300)"
+         id="use68-5-0" />
+      <use
+         width="300"
+         height="300"
+         xlink:href="#hexagons-9-5"
+         transform="rotate(180,300,300)"
+         id="use70-18-74" />
+      <use
+         width="300"
+         height="300"
+         xlink:href="#hexagons-9-5"
+         transform="rotate(-120,300,300)"
+         id="use72-0-2" />
+      <use
+         width="300"
+         height="300"
+         xlink:href="#hexagons-9-5"
+         transform="rotate(-60,300,300)"
+         id="use74-4-27"
+         style="stroke:#000000;stroke-opacity:1" />
+    </g>
+    <path
+       style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:2.64567;stroke-opacity:1;paint-order:markers stroke fill"
+       d="m 289.79689,321.52927 -126.54719,-73.40502 0.76464,-144.51613 9.55794,-4.970127 0.38232,145.280767 118.90084,71.11111 -1.52927,6.88172 z"
+       id="path972-4-41" />
+  </g>
+  <g
+     id="g1314-04-31"
+     transform="matrix(0.49702346,0,0,0.49702346,240.01631,-159.83431)"
+     style="opacity:0.03047091">
+    <g
+       transform="translate(0,20)"
+       id="g76-3-99">
+      <rect
+         width="600"
+         height="600"
+         transform="matrix(0.5,0,0,0.5,150,0)"
+         style="display:none;fill:url(#lines-4-7);stroke:#0000ff"
+         id="rect61-7-0"
+         x="0"
+         y="0" />
+      <g
+         id="hexagons-9-3"
+         style="fill:#008000;stroke:#ffffff;stroke-width:25px"
+         mask="url(#m1-2-7)">
+        <use
+           width="300"
+           height="300"
+           xlink:href="#hexagon"
+           transform="translate(150)"
+           style="fill:url(#lines-4-7)"
+           id="use63-7-3" />
+      </g>
+      <use
+         width="300"
+         height="300"
+         xlink:href="#hexagons-9-3"
+         transform="rotate(60,300,300)"
+         id="use66-2-3" />
+      <use
+         width="300"
+         height="300"
+         xlink:href="#hexagons-9-3"
+         transform="rotate(120,300,300)"
+         id="use68-5-6" />
+      <use
+         width="300"
+         height="300"
+         xlink:href="#hexagons-9-3"
+         transform="rotate(180,300,300)"
+         id="use70-18-8" />
+      <use
+         width="300"
+         height="300"
+         xlink:href="#hexagons-9-3"
+         transform="rotate(-120,300,300)"
+         id="use72-0-4" />
+      <use
+         width="300"
+         height="300"
+         xlink:href="#hexagons-9-3"
+         transform="rotate(-60,300,300)"
+         id="use74-4-5"
+         style="stroke:#000000;stroke-opacity:1" />
+    </g>
+    <path
+       style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:2.64567;stroke-opacity:1;paint-order:markers stroke fill"
+       d="m 289.79689,321.52927 -126.54719,-73.40502 0.76464,-144.51613 9.55794,-4.970127 0.38232,145.280767 118.90084,71.11111 -1.52927,6.88172 z"
+       id="path972-4-7" />
+  </g>
+</svg>

@@ -2,14 +2,8 @@
   <div class="slide">
     <div class="heading">CSS - Layout - justify-content</div>
     <div class="content">
-      <p>
-        La propriété flex-direction spécifie comment les éléments flexibles sont
-        placés dans le conteneur flex.
-      </p>
-      <div
-        class="iFrame-container"
-        data-link="https://codesandbox.io/embed/justify-content-rjjfhs?fontsize=14&hidenavigation=1&theme=dark"
-      >
+      <p>Jouez à la flexbox froggy du niveau 1 à 5.</p>
+      <div class="iFrame-container" data-link="https://flexboxfroggy.com/">
         <iframe
           ref="myIframe"
           src="favicon.ico"

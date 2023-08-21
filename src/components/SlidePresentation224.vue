@@ -1,12 +1,17 @@
 <template>
   <div class="slide">
-    <div class="heading">CSS - Layout - Using media queries</div>
+    <div class="heading">CSS - Layout - Utilisation des requêtes média</div>
     <div class="content">
       <p>
-        Les requêtes de média sont généralement associées à CSS, mais elles
-        peuvent également être utilisées dans HTML et JavaScript.
+        Le CSS est l'endroit le plus courant pour repérer une requête média dans
+        la nature. Elles se trouvent directement dans la feuille de style, dans
+        une règle @media qui enveloppe les éléments avec des conditions
+        permettant de savoir quand et où appliquer un ensemble de styles lorsque
+        le navigateur remplit ces conditions.
       </p>
-      <h2>HTML</h2>
+      <img src="../assets/illustrations/mediaquery.svg" style="width: 100%" />
+      <h2>CSS</h2>
+      <!-- HTML generated using hilite.me -->
       <div
         style="
           background: #ffffff;
@@ -18,18 +23,13 @@
         "
       >
         <pre style="margin: 0; line-height: 125%">
-<span style="color: #007700">&lt;html&gt;</span>
-  <span style="color: #007700">&lt;head&gt;</span>
-    <span style="color: #888888">&lt;!-- Served to all users --&gt;</span>
-    <span style="color: #007700">&lt;link</span> <span style="color: #0000CC">rel=</span><span style="background-color: #fff0f0">&quot;stylesheet&quot;</span> <span style="color: #0000CC">href=</span><span style="background-color: #fff0f0">&quot;all.css&quot;</span> <span style="color: #0000CC">media=</span><span style="background-color: #fff0f0">&quot;all&quot;</span> <span style="color: #007700">/&gt;</span>
-    <span style="color: #888888">&lt;!-- Served to screens that are at least 20em wide --&gt;</span>
-    <span style="color: #007700">&lt;link</span> <span style="color: #0000CC">rel=</span><span style="background-color: #fff0f0">&quot;stylesheet&quot;</span> <span style="color: #0000CC">href=</span><span style="background-color: #fff0f0">&quot;small.css&quot;</span> <span style="color: #0000CC">media=</span><span style="background-color: #fff0f0">&quot;(min-width: 20em)&quot;</span> <span style="color: #007700">/&gt;</span>
-    <span style="color: #888888">&lt;!-- Served to screens that are at least 64em wide --&gt;</span>
-    <span style="color: #007700">&lt;link</span> <span style="color: #0000CC">rel=</span><span style="background-color: #fff0f0">&quot;stylesheet&quot;</span> <span style="color: #0000CC">href=</span><span style="background-color: #fff0f0">&quot;medium.css&quot;</span> <span style="color: #0000CC">media=</span><span style="background-color: #fff0f0">&quot;(min-width: 64em)&quot;</span> <span style="color: #007700">/&gt;</span>
-    <span style="color: #888888">&lt;!-- Served to screens that are at least 90em wide --&gt;</span>
-    <span style="color: #007700">&lt;link</span> <span style="color: #0000CC">rel=</span><span style="background-color: #fff0f0">&quot;stylesheet&quot;</span> <span style="color: #0000CC">href=</span><span style="background-color: #fff0f0">&quot;large.css&quot;</span> <span style="color: #0000CC">media=</span><span style="background-color: #fff0f0">&quot;(min-width: 90em)&quot;</span> <span style="color: #007700">/&gt;</span>
-    <span style="color: #888888">&lt;!-- Served to screens that are at least 120em wide --&gt;</span>
-<span style="color: #007700">&lt;/html&gt;</span></pre>
+<span style="color: #888888">/* Fenêtres d'affichage d'une largeur comprise entre 320 et 480 px */</span>
+<span style="color: #008800; font-weight: bold">@media</span> <span style="color: #007700">only</span> <span style="color: #007700">screen</span> <span style="color: #007700">and</span> <span style="color: #333333">(</span><span style="color: #007700">min-device-width</span><span style="color: #333333">:</span> <span style="color: #007700">320px</span><span style="color: #333333">)</span> <span style="color: #007700">and</span> <span style="color: #333333">(</span><span style="color: #007700">max-device-width</span><span style="color: #333333">:</span> <span style="color: #007700">480px</span><span style="color: #333333">)</span> {
+  <span style="color: #BB0066; font-weight: bold">.card</span> {
+    <span style="color: #008800; font-weight: bold">background</span><span style="color: #333333">:</span> <span style="color: #6600EE; font-weight: bold">#bada55</span>;
+  }
+}
+</pre>
       </div>
     </div>
   </div>

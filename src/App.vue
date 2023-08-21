@@ -226,6 +226,19 @@ import SlidePresentation224 from "./components/SlidePresentation224.vue";
 import SlidePresentation225 from "./components/SlidePresentation225.vue";
 import SlidePresentation226 from "./components/SlidePresentation226.vue";
 import SlidePresentation227 from "./components/SlidePresentation227.vue";
+import SlidePresentation228 from "./components/SlidePresentation228.vue";
+import SlidePresentation229 from "./components/SlidePresentation229.vue";
+import SlidePresentation230 from "./components/SlidePresentation230.vue";
+import SlidePresentation231 from "./components/SlidePresentation231.vue";
+import SlidePresentation232 from "./components/SlidePresentation232.vue";
+import SlidePresentation233 from "./components/SlidePresentation233.vue";
+import SlidePresentation234 from "./components/SlidePresentation234.vue";
+import SlidePresentation235 from "./components/SlidePresentation235.vue";
+import SlidePresentation236 from "./components/SlidePresentation236.vue";
+import SlidePresentation237 from "./components/SlidePresentation237.vue";
+import SlidePresentation238 from "./components/SlidePresentation238.vue";
+import SlidePresentation239 from "./components/SlidePresentation239.vue";
+import SlidePresentation240 from "./components/SlidePresentation240.vue";
 </script>
 
 <template>
@@ -460,6 +473,19 @@ import SlidePresentation227 from "./components/SlidePresentation227.vue";
           <SlidePresentation225></SlidePresentation225>
           <SlidePresentation226></SlidePresentation226>
           <SlidePresentation227></SlidePresentation227>
+          <SlidePresentation228></SlidePresentation228>
+          <SlidePresentation229></SlidePresentation229>
+          <SlidePresentation230></SlidePresentation230>
+          <SlidePresentation231></SlidePresentation231>
+          <SlidePresentation232></SlidePresentation232>
+          <SlidePresentation233></SlidePresentation233>
+          <SlidePresentation234></SlidePresentation234>
+          <SlidePresentation235></SlidePresentation235>
+          <SlidePresentation236></SlidePresentation236>
+          <SlidePresentation237></SlidePresentation237>
+          <SlidePresentation238></SlidePresentation238>
+          <SlidePresentation239></SlidePresentation239>
+          <SlidePresentation240></SlidePresentation240>
         </section>
 
         <section class="counter">
@@ -468,11 +494,11 @@ import SlidePresentation227 from "./components/SlidePresentation227.vue";
             id="index"
             name="index"
             min="1"
-            max="227"
+            max="235"
             value="1"
             style="width: 40%"
           />
-          of 227
+          of 235
         </section>
 
         <section class="navigation">

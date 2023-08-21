@@ -1,0 +1,122 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+body {
+  min-width: 350px;
+}
+
+header {
+  width:100%;
+  height:130px;
+  background: aquamarine;
+  position:fixed;
+  top:0;
+  text-align: center;
+  padding-top: 20px;
+  z-index:20;
+  box-shadow: 0 5px 3px #333;
+}
+
+.container {
+  max-width:80%;
+  margin:130px auto 0;
+  display: flex;
+  opacity: .80;
+  min-width:400px;
+  min-height: 900px;
+}
+
+main {
+  background:rgb(255, 255, 255);
+  flex-grow:3;
+  margin:20px;
+}
+
+h2 {
+  margin-bottom:20px;
+}
+
+aside {
+  flex-grow: 1;
+  background:rgb(255, 255, 255);
+  margin:20px;
+  border-radius: 10px;
+}
+
+nav {
+ width:100%;
+ height:50px;
+ margin-top:15px;
+}
+
+nav ul {
+  margin:10px;
+  padding:10px;
+}
+
+nav ul li{
+  list-style: none;
+  display: inline;
+  position:relative;
+}
+
+nav ul a{
+  text-decoration: none;
+  color:#333;
+  margin:20px;
+  font-size: 1.5rem;
+}
+
+nav ul li a:hover {
+  color:black;
+  text-decoration: underline;
+}
+
+footer {
+  width:100%;
+  height:130px;
+  background:  aquamarine;
+  text-align: center;
+  opacity: .9;
+  line-height: 130px; /* Utilisé pour aligner verticalement le texte lorsqu'il n'y a qu'une seule ligne */
+  margin:0;
+  padding:0;
+}
+
+
+/* Smaller PC screens 1174*/
+@media screen and (max-width:960px) {
+  .container{
+     flex-direction: column;
+     width:80%;
+     font-size:1.2em;
+  }
+
+  main {
+     width:100%;
+  }
+  
+  #sidebar {
+    width:100%;
+  }
+}
+
+@media screen and (max-width: 480px) {
+  
+  .container{
+    flex-direction: column;
+    font-size:1.3em;
+  }
+  
+  header h1{
+    font-size: 1.7rem;
+  }
+ 
+  header {
+     height:220px;
+  }
+}

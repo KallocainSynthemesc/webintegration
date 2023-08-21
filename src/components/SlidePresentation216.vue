@@ -1,9 +1,15 @@
 <template>
   <div class="slide">
-    <div class="heading">CSS - Layout - froggy</div>
+    <div class="heading">CSS - Layout - flex-grow/shrink</div>
     <div class="content">
-      <p>Jouez à la flexbox froggy du niveau 5 à 14.</p>
-      <div class="iFrame-container" data-link="https://flexboxfroggy.com/">
+      <p>
+        flex-grow et flex-shrink ajoutent des options d'espacement
+        supplémentaires
+      </p>
+      <div
+        class="iFrame-container"
+        data-link="https://codesandbox.io/embed/flex-grow-kqsqj2?fontsize=14&hidenavigation=1&theme=dark"
+      >
         <iframe
           ref="myIframe"
           src="favicon.ico"
