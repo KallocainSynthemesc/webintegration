@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Exemple de Barre de Navigation</title>
+  <link href="styles.css" rel="stylesheet">
+</head>
+<body>
+  <section>
+    <h2>Inscrivez-vous Aujourd'hui</h2>
+    <form>
+        <input type="email" name="email" placeholder="Email">
+        <input type="text" name="name" placeholder="Nom" pattern="^(\p{L}[A-Za-z]+[,.]?[ ]?|[A-Za-z]+['-]?)+$">
+        <label for="feedback-notify">Me rappeler cet événement par SMS</label>
+        <input type="checkbox" id="feedback-notify" name="notify">
+        <input type="text" id="feedback-phone" name="phone" placeholder="Numéro de téléphone">
+        <button type="submit">Inscription</button>
+    </form>
+  </section>
+</body>
+</html>
+
